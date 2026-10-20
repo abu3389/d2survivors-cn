@@ -1,0 +1,15 @@
+{
+  "name": "D2 Survivors",
+  "short_name": "D2 Survivors",
+  "description": "Unofficial, non-commercial Diablo II fan project in the Vampire Survivors style.",
+  "start_url": "play/",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

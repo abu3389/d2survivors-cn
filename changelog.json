@@ -1,0 +1,508 @@
+[
+  {
+    "build": "20261019.3",
+    "date": "2026-10-19",
+    "lines": [
+      { "kind": "fix", "text": "Extra Strong and Might or Fanaticism auras raise only a monster's physical damage, as in D2: an elite Burning Soul's or Gloam's lightning bolt no longer hits up to four times as hard" },
+      { "kind": "fix", "text": "Loot follows Diablo II again: elites drop as D2's do, every item magic or better, and Magic Find, item level and difficulty decide how often it's rare or unique by D2's own formula" },
+      { "kind": "fix", "text": "Killing faster still finds more, with D2's diminishing returns: four times the pace finds about twice the loot, not four times, so the floor no longer floods" },
+      { "kind": "fix", "text": "Terror tiers pay in better items rather than more of them, as D2R's Terror Zones do" }
+    ]
+  },
+  {
+    "build": "20261019.2",
+    "date": "2026-10-19",
+    "lines": [
+      { "kind": "fix", "text": "Fire Arrow and Cold Arrow carry your bow's shot as physical damage, as in D2, so they aim at and hurt monsters immune to fire or cold, like Hell's Fallen" },
+      { "kind": "fix", "text": "The skill tree's hover over an evolution marks what you already have for it, such as Faster Cast Rate for Glacial Spike" },
+      { "kind": "fix", "text": "Lister the Tormentor and Bartuc the Bloody no longer arrive drawn as Baal while their art loads" },
+      { "kind": "fix", "text": "A hero's shield and weapon no longer show through the body when facing some ways, as when the Barbarian runs east" },
+      { "kind": "fix", "text": "Chests no longer hand out a skill, passive or attribute you banished" },
+      { "kind": "fix", "text": "Skills your gear casts from another class draw as that class's do: Zakarum's Hand's Blizzard rains its shards, and gear's curses, Nova, Charged Bolt, Fire Wall, Fist of the Heavens and more show their art" },
+      { "kind": "fix", "text": "Chests left unopened as Baal falls open into his haul, so none is lost" },
+      { "kind": "fix", "text": "Diablo's Bone Prison closes its ring of bone round you as in D2, instead of standing its tusks scattered wide" },
+      { "kind": "fix", "text": "Rare items roll 3 to 6 magic properties, up to three prefixes and three suffixes, as in D2, instead of 3 or 4" },
+      { "kind": "fix", "text": "Hover boxes stay on the screen: Dexterity's on the character screen is no longer cut off at the top" },
+      { "kind": "fix", "text": "A chest you pass over in a blink (Dragon Flight, Teleport) opens, as one you walk onto" },
+      { "kind": "fix", "text": "The character screen counts Poison Nova's and Poison Explosion's poison on the monsters around, as it does for other area skills, instead of one monster alone" },
+      { "kind": "new", "text": "Beat Hell's Baal before Terror came? Its tiers are open for you now, started by your saved Hell hero" },
+      { "kind": "fix", "text": "A chest's stat points wait for you to spend them when Auto Stats is off, as a level's do" },
+      { "kind": "fix", "text": "Setup says what to do when Diablo II: Resurrected's files don't match each other: repair the game in Battle.net or Steam" },
+      { "kind": "fix", "text": "Champions and uniques drop fewer items: a run's loot is back to what it was before 20261019.1, Terror still the richest" },
+      { "kind": "new", "text": "The death screen names what killed you, with its skill and the damage it dealt, and a burst of hits when that's what did it" },
+      { "kind": "fix", "text": "The death screen reads cleaner: what killed you, then where you fell, your level, kills and gold, and your best time only when it's new or close" },
+      { "kind": "new", "text": "Baal opens a portal as he falls: loot at your own pace, then walk in for his screen. A Terror tier's boss does the same" }
+    ]
+  },
+  {
+    "build": "20261019.1",
+    "date": "2026-10-19",
+    "lines": [
+      { "kind": "fix", "text": "Each act opens soft and ends hard, by D2's /players: its monsters' life and experience grow as it goes on, and on Nightmare and Hell their hits too" },
+      { "kind": "fix", "text": "The field thickens across the run: each act opens with more monsters than the last, about 125 by Act V's end, where every act used to start again at 25" },
+      { "kind": "new", "text": "Champions and uniques come as often as in D2 on Normal and at half D2's rate on Nightmare and Hell, still more often than on Normal, with D2's dangerous mods: the seven auras, Multiple Shots, Mana Burn, the Enchanteds' resistances and Possessed champions" },
+      { "kind": "fix", "text": "Named uniques meet your level, as in Resurrected's Terror Zones, and on Nightmare and Hell act bosses do too, up to 5 levels above you: a boss stays a fight however far ahead you are, and drops at that level" },
+      { "kind": "fix", "text": "In a run continued past Baal, the Secret Cow Level's herd hits with Nightmare's and Hell's full strength" },
+      { "kind": "fix", "text": "Monsters come at you from every side, and those that run in D2 run at you once you're in sight; Faster Run/Walk gives less the more you stack, as in D2, and the Faster Run/Walk passive adds to your gear's" },
+      { "kind": "new", "text": "Each Terror tier offer has its affixes, D2's monster mods for the whole act (Extra Strong, the Enchanteds, auras on every unique and more), one more every few tiers, and each pays more drops, Magic Find, experience and gold" },
+      { "kind": "new", "text": "The Cow tier: carry Wirt's Leg and one Terror offer is the Secret Cow Level at the tier's level and affixes, the Cow King at the end, and it gets trippier every two minutes" },
+      { "kind": "new", "text": "Beat Hell's Baal to open the Terror tiers: an act of Hell at monster level 86 and up, a tier at a time, three offers to pick from, and your best tier kept as your score" },
+      { "kind": "fix", "text": "Increased Speed, Burst of Speed, Vigor, Frenzy and Feral Rage add their speed to Faster Run/Walk, as in D2, instead of multiplying it" },
+      { "kind": "fix", "text": "Faster Cast Rate works as in Diablo II: every source adds into one total with diminishing returns, and no stack of speed bonuses makes skills fire more than 1.75 times as fast" },
+      { "kind": "fix", "text": "Dragonscale's +10 Hydra and Wolfhowl's +Werewolf, Lycanthropy and Feral Rage now raise those skills for their own class" },
+      { "kind": "fix", "text": "Life after each Demon Kill, -Monster Defense per Hit and Half Freeze Duration now work, as in D2" },
+      { "kind": "fix", "text": "Battle Orders, the Druid's forms and Oak Sage add a share of your own life, not of your gear's +Life, as in D2" },
+      { "kind": "fix", "text": "The Combat Shrine adds +200% damage to your other +% damage, as in D2, instead of doubling it" },
+      { "kind": "fix", "text": "The Paladin's Resist auras raise maximum resistance by the levels you learned only, not by +skills, as in D2" },
+      { "kind": "fix", "text": "A run is saved as you play: if the browser or the phone closes the tab, CONTINUE brings back your hero's level and build, in Act I too" },
+      { "kind": "fix", "text": "Sound effects that went silent while the music played on come back as you return to the game from a pause" },
+      { "kind": "fix", "text": "Up to six Hydras stand at once, as many as D2's own timers let stand: a fast-casting Sorceress no longer sinks one with each cast" },
+      { "kind": "fix", "text": "A display that keeps going black (Safari after a window resize) shows the reload notice instead of flashing, and reloads at a lower resolution" },
+      { "kind": "new", "text": "When an act's boss falls and the portal opens, the gold left on the field flies to you too" },
+      { "kind": "fix", "text": "Gear's +Raven (Ravenlore's +7) raises the ravens your wolves and Grizzly keep after Raven has evolved" },
+      { "kind": "new", "text": "VIDEO OPTIONS has a SKILL EFFECTS slider: fade your own skills when a build fills the screen, while monsters' attacks stay solid" },
+      { "kind": "fix", "text": "A Diablo II too old or modded to read now says so at setup, instead of playing with no monsters or icons" },
+      { "kind": "fix", "text": "A passive that evolves a skill no longer holds your last passive slot for good: pass it over for a few levels and every passive, Telekinesis too, is offered again" },
+      { "kind": "fix", "text": "A chest or an item that falls in a pocket ringed by rocks lands where you can walk to it" },
+      { "kind": "new", "text": "Every unique item of Diablo II and Lord of Destruction drops now: 179 more, Windforce, The Grandfather and Tyrael's Might among them" },
+      { "kind": "new", "text": "New builds update your game files from your Diablo II folder by themselves: no setup again, at most one click on the website" },
+      { "kind": "fix", "text": "A Druid holding both the Werewolf and the Werebear takes them by turns; before, the one picked first was the only one he took" },
+      { "kind": "new", "text": "Chests show their name over them, so they're easy to spot on a crowded or dark floor" },
+      { "kind": "fix", "text": "Taking off Nature's Peace sends its Oak Sage away, and the life it gave goes with it" },
+      { "kind": "fix", "text": "SAVE AND EXIT GAME no longer leaves you stuck on the Esc menu when the browser won't start the music" },
+      { "kind": "fix", "text": "A fresh Nightmare or Hell run no longer opens with Normal's slow first minute: its Act I comes on at full strength from the start" },
+      { "kind": "fix", "text": "The Necromancer's skeletal mages wear their element on their hands, as in D2: fire, cold, lightning or poison" },
+      { "kind": "fix", "text": "Revive no longer raises the broken pieces of Diablo's Bone Prison, which slid after the Necromancer on one frame" },
+      { "kind": "fix", "text": "Korean: Maul, Scythe, Skull Splitter and five other item names read as the item, not a skill or a rare name" },
+      { "kind": "fix", "text": "Blade Fury's and Blade Shield's blades fly at the monster they're thrown at, no longer over small ones such as the Fallen" },
+      { "kind": "new", "text": "Past the perfect diamond, experience gems go on up D2's other perfect gems: amethyst, topaz, emerald, ruby and the skull" },
+      { "kind": "fix", "text": "A healing potion heals as D2's do where it's found: 30 life in Act I up to 320 in Nightmare and Hell, where every potion healed 30" },
+      { "kind": "fix", "text": "When the screen goes black for a moment on a phone, the Esc menu no longer comes up under your thumb: the game plays on once the screen is back" },
+      { "kind": "fix", "text": "Gear's +skills raise a skill's damage, as in Diablo II, but no longer how often it fires or how many projectiles it sends" },
+      { "kind": "fix", "text": "The character sheet's damage a second counts -% to Enemy Resistance, such as Griffon's Eye's" },
+      { "kind": "new", "text": "The character screen's Damage box shows your build's damage a second; gear's and shrines' +% Damage is in its hover" },
+      { "kind": "fix", "text": "The Amazon walks out to the campfire with one spear, no longer a second one twirling out of step" },
+      { "kind": "new", "text": "When an act's boss falls and the portal opens, the experience gems left on the field fly to you" },
+      { "kind": "fix", "text": "Monsters that come before their art has loaded no longer stay white orbs: they take their own look as soon as it's in" },
+      { "kind": "fix", "text": "Gear you drop stays behind when the act ends, instead of filling your inventory in the next act" },
+      { "kind": "fix", "text": "Diablo II: Resurrected from Steam now opens: its storage is read as Steam keeps it, thanks to a player's patch" },
+      { "kind": "fix", "text": "A skill's art no longer draws black after another skill using the same picture leaves the build (the Decoy after the Valkyrie)" },
+      { "kind": "fix", "text": "Oblivion Knights cast Bone Spirit half as often, poison skulls the rest: Act IV's homing spirits no longer bury you" },
+      { "kind": "new", "text": "Dying in a Terror tier costs your hero 30% of her level's experience, as a death in Hell does in Diablo II: never a level" },
+      { "kind": "new", "text": "Levels 90 to 99 take longer: each costs a step more than the last, so level 99 is a long goal again" }
+    ]
+  },
+  {
+    "build": "20261018.8",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "fix", "text": "Baal's loot is no longer lost at the end of a run: his screen gathers his drops even off screen, and once an act's boss falls nothing left on you can kill you" },
+      { "kind": "fix", "text": "Diablo II: Resurrected from Steam works with your own files: pick its folder, or the Steam library it's in, on the website or in the desktop app" },
+      { "kind": "fix", "text": "Importing a save no longer fails when a stash tab is too crowded for one of its items: the save comes over, every item kept" }
+    ]
+  },
+  {
+    "build": "20261018.7",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "fix", "text": "On phones and tablets, the hero no longer keeps walking in one direction after a level-up card opens while you steer" },
+      { "kind": "fix", "text": "Right-clicking a belt potion drinks it, as in D2, and no longer leaves the movement keys held" },
+      { "kind": "fix", "text": "Shrines, braziers and torches no longer turn into black boxes after you continue a saved run" },
+      { "kind": "fix", "text": "Cottages, ruins and other buildings no longer turn into black boxes as you walk from one area into the next" },
+      { "kind": "fix", "text": "Save and Exit Game now warns before it leaves when nothing will be kept: in Act I, or when the browser won't store the save" },
+      { "kind": "fix", "text": "A saved run that can't be read or fails to load is kept, and the main menu says so, instead of a new run starting in its place" },
+      { "kind": "fix", "text": "On an iPad held sideways, Charsi's window has a Sell button while you hold an item" },
+      { "kind": "fix", "text": "A Druid's Summon Grizzly draws its spirit wolves as wolves again, not as white orbs" },
+      { "kind": "fix", "text": "Importing a save from the desktop app or another browser no longer fails over a saved run this version can't continue: your gold, upgrades and gear come over, and only that run is left behind" }
+    ]
+  },
+  {
+    "build": "20261018.6",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "fix", "text": "Life shows in whole points again with Charsi's Vitality ranks past the maximum" },
+      { "kind": "fix", "text": "Baal's drops that don't fit your inventory go into your stash, not lost on CONTINUE" },
+      { "kind": "fix", "text": "Grim Shield takes 2×3 cells, and Swirling Crystal and Dimensional Shard 1×3, as in D2" },
+      { "kind": "fix", "text": "Gear you drop stays on the ground until you've walked well away from it, not picked straight back up" },
+      { "kind": "fix", "text": "The Windows app no longer slows down over a long session: its graphics memory stays flat instead of growing until a restart" },
+      { "kind": "new", "text": "d2survivors.lol always opens on its own page now, returning players too: PLAY IN THE BROWSER takes you into the game" },
+      { "kind": "fix", "text": "The desktop app tries again when the disk fails to read a game file for a moment, and one that keeps failing now says plainly what to try" }
+    ]
+  },
+  {
+    "build": "20261018.5",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "new", "text": "The main menu is down to PLAY, OPTIONS and SAVES, with EXIT below, and WEBSITE, DISCORD and NEWS in its top right corner" },
+      { "kind": "new", "text": "WEBSITE opens d2survivors.lol, home of the credits, the legal notice and the desktop app's download, in place of CREDITS and GET THE DESKTOP APP" },
+      { "kind": "new", "text": "Charsi's upgrades are in the campfire's INVENTORY now, beside your hero's gear" },
+      { "kind": "new", "text": "The campfire's START sits on a stone the size of EXIT and INVENTORY, as in Diablo II" },
+      { "kind": "new", "text": "The setup warns that the hosted files are going away very soon: D2 Survivors will run only on your own Diablo II or D2R files" },
+      { "kind": "fix", "text": "Act bosses no longer speed up as Faster Run/Walk does: in view they keep their own pace, so a quick hero can outrun them" },
+      { "kind": "fix", "text": "A weapon's added fire, cold, lightning, magic and poison damage now hurts monsters immune to physical damage, as in Diablo II: Lightsabre's magic and lightning among them" },
+      { "kind": "fix", "text": "A save code holding a rare Paladin shield now imports on another device, and the shield no longer drops out of the stash" },
+      { "kind": "fix", "text": "On a phone, switching to another app and back no longer leaves the screen black: the game is drawn again as you left it, paused until you tap RETURN TO GAME" },
+      { "kind": "fix", "text": "Monsters that flee (Howl, Terror, Hit Causes Monster to Flee) come back, as in Diablo II, instead of vanishing for good with their experience and drops" },
+      { "kind": "fix", "text": "Monsters out of sight as an act's boss falls leave their experience gems too" },
+      { "kind": "new", "text": "Soon D2 Survivors will run only on your own Diablo II files: a note on the main menu says so once, with USE YOUR OWN FILES" },
+      { "kind": "new", "text": "SAVES on the main menu keeps your progress as a file or a code, and imports either one, on the website and in the desktop app" },
+      { "kind": "new", "text": "The Esc menu reads RESUME, OPTIONS, REPORT, SAVE AND EXIT, and Esc resumes" },
+      { "kind": "new", "text": "Options keeps the sound and music sliders on a SOUND OPTIONS page of their own" },
+      { "kind": "fix", "text": "Portals, smiths and dropped loot no longer land inside a statue or a tree where you can't reach them" },
+      { "kind": "new", "text": "d2survivors.lol opens on a page of its own: what the game is, the desktop app and the news. The game is at d2survivors.lol/play/, where returning players go straight away" },
+      { "kind": "new", "text": "The website has a FAQ and its privacy and legal pages, in English and Korean, and Ko-fi tips that buy nothing in the game" },
+      { "kind": "fix", "text": "Increased Speed and Burst of Speed follow D2's curve: a lot at first, then less, no longer a rocket with +skills" },
+      { "kind": "fix", "text": "+Life and Life per Level on gear give twice as much, D2's share of your life" },
+      { "kind": "fix", "text": "Deadly Strike rolls after a critical strike misses, as in D2, instead of adding to its chance" },
+      { "kind": "fix", "text": "Magic Damage Reduced also takes its points off fire, cold and lightning hits, before your resistance" },
+      { "kind": "fix", "text": "Faster Block Rate shortens a block as much as in D2" },
+      { "kind": "fix", "text": "Life Stolen goes by the damage a monster takes: less from physically resistant ones, none from immunes" },
+      { "kind": "fix", "text": "-% to Enemy Resistance lowers a monster's resistance, as in D2, instead of adding damage" },
+      { "kind": "fix", "text": "Damage +N on The Redeemer and Astreon's Iron Ward now works" },
+      { "kind": "fix", "text": "Open Wounds and Crushing Blow follow D2 on champions, uniques and past level 60" },
+      { "kind": "fix", "text": "The mana globe counts Increase Maximum Mana on your own mana only, as D2 does" },
+      { "kind": "new", "text": "D2 Survivors has a Discord server: DISCORD on the main menu" }
+    ]
+  },
+  {
+    "build": "20261018.4",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "new", "text": "Play with your own Diablo II on the website: pick its folder once, and the game reads its art and sound from this browser, with nothing to download" },
+      { "kind": "new", "text": "Diablo II: Resurrected works too: the website and the desktop app take its folder, with its own sounds and music. The desktop app copies your game files once more after this update" },
+      { "kind": "fix", "text": "The game downloads less as you play, so its monsters and music come in sooner" }
+    ]
+  },
+  {
+    "build": "20261018.3",
+    "date": "2026-10-18",
+    "lines": [{ "kind": "fix", "text": "On a slow connection a new act no longer freezes the run, and an act boss whose art comes late takes his real look instead of staying a white shape" }]
+  },
+  {
+    "build": "20261018.2",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "fix", "text": "Smite strikes as in D2: your sword's and your shield's damage together, at your shield bash's pace" },
+      { "kind": "fix", "text": "The Amazon's Dodge, Avoid and Evade work as in D2: Dodge and Avoid while she stands still, Evade while she moves, never all three at once" },
+      { "kind": "fix", "text": "Frozen Armor and Shiver Armor turn aside monsters' missiles too, as D2's Defense does" },
+      { "kind": "fix", "text": "A fresh Nightmare or Hell run, started without the hero who beat Baal, is harder: its monsters are tougher and hit in full, and its act bosses stand longer" }
+    ]
+  },
+  {
+    "build": "20261018.1",
+    "date": "2026-10-18",
+    "lines": [
+      { "kind": "new", "text": "As an act's boss falls, the field falls with him, leaving only experience gems, and the portal opens a few strides from his loot" },
+      { "kind": "new", "text": "The act's blacksmith stands by the portal (Charsi, Fara, Hratli, Halbu): walk up to sell, buy, gamble and use the stash, the game held meanwhile" },
+      { "kind": "new", "text": "Baal's screen and the campfire say when your hero carries on into Nightmare or Hell, and a fresh start there says why it's level 1" }
+    ]
+  },
+  {
+    "build": "20261017.19",
+    "date": "2026-10-17",
+    "lines": [
+      { "kind": "new", "text": "A run starts as in D2, with only Attack and your starting weapon, and your first card comes at once: a first skill from each skill tree, so all six skill slots are yours to fill" },
+      { "kind": "fix", "text": "Gear works at any level again: an item's Required Level is shown, but it no longer holds the item back" },
+      { "kind": "fix", "text": "The death screen of a continued run counts its time from where it went on, the same clock as the best time beside it" },
+      { "kind": "new", "text": "Controller support: play a whole run and every menu with a gamepad, with D2R's layout, rumble, and its buttons rebound in Options" },
+      { "kind": "fix", "text": "Going on to Nightmare or Hell straight after Baal no longer drops a frame" },
+      { "kind": "fix", "text": "Patches of floor no longer turn black as you walk into a new area or act" },
+      { "kind": "fix", "text": "EXIT on the main menu no longer freezes the game: the desktop app quits, and the website goes back to the title at once" },
+      { "kind": "fix", "text": "Dexterity and every critical strike chance now say which hits can crit: weapon skills and some spells, as each skill's hover shows" },
+      { "kind": "fix", "text": "The desktop app keeps your save on disk as you play: a saved run no longer comes back an act behind after the app closes, and the Esc menu says where CONTINUE starts again" },
+      { "kind": "fix", "text": "The blue globe no longer shows experience: always full, it shows your hero's mana as D2 counts it, and its box says what mana does here. Experience fills the experience bar, as in D2, with its numbers when you point at it" },
+      { "kind": "fix", "text": "CONTINUE on a run saved as an Act I began (a continued difficulty's, or one left through the cow portal) no longer fails to draw the screen while it loads" }
+    ]
+  },
+  {
+    "build": "20261017.18",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "new", "text": "Report a bug, a balance note or an idea from the Esc menu, the death and victory screens or Options: your run, build and gear and a screenshot go with it" }]
+  },
+  {
+    "build": "20261017.17",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "The developer's note no longer repeats the X handle above its X button" }]
+  },
+  {
+    "build": "20261017.16",
+    "date": "2026-10-17",
+    "lines": [
+      { "kind": "fix", "text": "A Druid shifts only while the spells he has put more levels in than his Werewolf or Werebear recharge, and turns back as soon as one is ready, so a wereform picked late no longer stops his spells; the wereforms' cards say No spells in red" },
+      { "kind": "fix", "text": "Dying after going on past Baal, or as the hero who beat him, shows the best time of such runs on that difficulty, no longer the fresh run's" },
+      { "kind": "fix", "text": "The menu and the credits say plainly that this is an unofficial fan project" },
+      { "kind": "fix", "text": "The campfire's START waits for a hero: pick one at the fire, then START (or Enter) begins the run" },
+      { "kind": "fix", "text": "On the credits, the X button sits on the right, opposite EXIT" },
+      { "kind": "fix", "text": "Louder at full volume: quiet areas no longer sound faint, and big fights still don't blast" }
+    ]
+  },
+  {
+    "build": "20261017.15",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "new", "text": "A one-time note from the developer on the main menu: the game is still a beta, and where to find me on X" }]
+  },
+  {
+    "build": "20261017.14",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "A fresh Nightmare or Hell run levels up faster again, so the gear you bring comes on within minutes" }]
+  },
+  {
+    "build": "20261017.13",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "A gentler first minute: a handful of Fallen and Zombies, no Quill Rats or Shamans until 0:30 and then two at a time, Corpsefire at 0:55, and the full field by 2:00" }]
+  },
+  {
+    "build": "20261017.12",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "new", "text": "Once a hero kills Baal, the menu starts her Nightmare (or Hell) as that hero, at her level, with her build and gear, as in D2" }]
+  },
+  {
+    "build": "20261017.11",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "The credits no longer have a tip button: the game is entirely non-commercial" }]
+  },
+  {
+    "build": "20261017.10",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "After Baal, opening Charsi's wares twice no longer hides your globes, skills and gold until you restart the game" }]
+  },
+  {
+    "build": "20261017.9",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "Nature's Peace's Oak Sage no longer grows your life without end: its life and Battle Orders' are each a share of your own, added together as in D2" }]
+  },
+  {
+    "build": "20261017.8",
+    "date": "2026-10-17",
+    "lines": [
+      { "kind": "fix", "text": "Nightmare and Hell shorten your chills, freezes, Terror, Dim Vision, Confuse and Attract on monsters to a half and a quarter, as D2 does, and no longer the monsters' chills and curses on you" },
+      { "kind": "fix", "text": "Monsters resist each element by D2's numbers, and immunities break only as D2's do: Amplify Damage, Decrepify, Lower Resist and Conviction lower resistances, a fifth as much on an immune" }
+    ]
+  },
+  {
+    "build": "20261017.7",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "Desktop app: the game's art loads sooner" }]
+  },
+  {
+    "build": "20261017.6",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "new", "text": "Gear asks its D2 Required Level again: wear it at any level, but above yours it shows red and gives nothing until you reach it" }]
+  },
+  {
+    "build": "20261017.5",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "Experience works as in D2: monsters well below your level give less, so you level close to them instead of racing far ahead" }]
+  },
+  {
+    "build": "20261017.4",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "The stamina bar is drawn as D2 draws it: a flat gold over the panel's stone, turning red with under a quarter left" }]
+  },
+  {
+    "build": "20261017.3",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "A run started on Nightmare or Hell has its skill and passive slots from the start: 8 and 8 on Nightmare, 10 and 10 in Hell" }]
+  },
+  {
+    "build": "20261017.2",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "fix", "text": "Champions' and uniques' chests give level-ups through Act II and now and then in Act III, then stat points or +1 to a skill tree: the build fills in Acts IV-V" }]
+  },
+  {
+    "build": "20261017.1",
+    "date": "2026-10-17",
+    "lines": [{ "kind": "new", "text": "A bigger stash, as in Resurrected: a 10×10 tab of your own for each hero and three shared ones (your old stash is the first)" }]
+  },
+  {
+    "build": "20261016.32",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Baal's last wave, the Minions of Destruction, no longer lasts until he falls: it comes as long as his other waves" }]
+  },
+  {
+    "build": "20261016.29",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "A unique's minions no longer teleport or curse, and Nightmare's and Hell's monsters hit with D2's share of fire, cold and lightning" }]
+  },
+  {
+    "build": "20261016.27",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "new", "text": "An act's portal waits for you: pick up the floor, then walk in (the monsters keep coming)" },
+      { "kind": "fix", "text": "Nightmare and Hell experience gems look their worth, even to a hero far above the monsters" },
+      { "kind": "new", "text": "The run's gold visibly goes into Charsi's purse as the run ends, and at her wares after Baal" }
+    ]
+  },
+  {
+    "build": "20261016.26",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "In Brave the hero and the world no longer vanish under a grey haze, and on older phones big sprites no longer draw as solid boxes" }]
+  },
+  {
+    "build": "20261016.25",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "fix", "text": "Quieter sound: the volume sliders turn down smoothly to silence, and big fights no longer blast" },
+      { "kind": "new", "text": "The first gear you can wear points you to the inventory, once" }
+    ]
+  },
+  {
+    "build": "20261016.23",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Korean speaks Diablo II: Resurrected's words, and much more of the game is in Korean" }]
+  },
+  {
+    "build": "20261016.22",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "A run continued into Nightmare and Hell meets their full strength, and its act bosses stand longer" }]
+  },
+  {
+    "build": "20261016.21",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "new", "text": "The game in Korean: pick it in Options, or a Korean browser picks it" },
+      { "kind": "fix", "text": "Item boxes show D2's own text again, without the damage comparison" }
+    ]
+  },
+  {
+    "build": "20261016.20",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "Desktop app: updates arrive within seconds, with a status line in the corner" }]
+  },
+  {
+    "build": "20261016.19",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "fix", "text": "The Druid's Raven, Oak Sage and shapeshifting grow with +skills past their maximum" },
+      { "kind": "fix", "text": "Claws of Thunder, Iron Golem, Hurricane, Blade Shield and Shadow Master no longer deal less than the skills they replace" }
+    ]
+  },
+  {
+    "build": "20261016.18",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Meteor and Blizzard get their full synergies from the skills they evolved from" }]
+  },
+  {
+    "build": "20261016.17",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "Stat-only level-ups no longer pause: spend the points on the character screen, or turn on Auto Stats" }]
+  },
+  {
+    "build": "20261016.16",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "On a phone, items sell to Charsi: pick one up and tap Sell" }]
+  },
+  {
+    "build": "20261016.15",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "fix", "text": "+skills on gear raise passives and auras too" },
+      { "kind": "fix", "text": "Evolved skills grow with +skills like the skills they replace" },
+      { "kind": "fix", "text": "The character screen counts area damage" }
+    ]
+  },
+  {
+    "build": "20261016.14",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "fix", "text": "D2's lighting now shows: the dark acts are darker, and fires light them up" },
+      { "kind": "fix", "text": "Chests glow and stand out in a crowd; act bosses drop D2's golden chest" }
+    ]
+  },
+  {
+    "build": "20261016.12",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Claw Vipers, Duriel and other chargers hit once per charge" }]
+  },
+  {
+    "build": "20261016.11",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "Charsi sells ranks past the maximum, and imbues rares" }]
+  },
+  {
+    "build": "20261016.10",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "new", "text": "After Baal, carry your hero on into Nightmare" },
+      { "kind": "new", "text": "Two more skill and passive slots each difficulty" },
+      { "kind": "new", "text": "Wirt's Leg stays in your inventory" },
+      { "kind": "new", "text": "The Secret Cow Level has a new way in" }
+    ]
+  },
+  {
+    "build": "20261016.9",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Nightmare and Hell runs level up at a steady pace" }]
+  },
+  {
+    "build": "20261016.8",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "Barbarians and Assassins can wield a weapon in each hand" }]
+  },
+  {
+    "build": "20261016.7",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "NEWS on the main menu: what changed, build by build" }]
+  },
+  {
+    "build": "20261016.5",
+    "date": "2026-10-16",
+    "lines": [
+      { "kind": "new", "text": "Rest a skill from its slot to stop casting it" },
+      { "kind": "fix", "text": "Whirlwind and Leap now go where you steer" }
+    ]
+  },
+  {
+    "build": "20261016.4",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "fix", "text": "Smaller downloads, so each act loads sooner" }]
+  },
+  {
+    "build": "20261016.1",
+    "date": "2026-10-16",
+    "lines": [{ "kind": "new", "text": "Diablo II's uniques drop on the new bases" }]
+  },
+  {
+    "build": "20261015.48",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "new", "text": "Skill slots and level-up cards read clearly" }]
+  },
+  {
+    "build": "20261015.47",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "new", "text": "Tab opens the automap, plus a corner mini-map" }]
+  },
+  {
+    "build": "20261015.46",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "fix", "text": "Act IV runs smoothly on slower machines" }]
+  },
+  {
+    "build": "20261015.45",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "new", "text": "Nightmare and Hell hit as hard as in Diablo II" }]
+  },
+  {
+    "build": "20261015.44",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "new", "text": "New bases: crossbows, spears, polearms and more" }]
+  },
+  {
+    "build": "20261015.41",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "fix", "text": "One tab plays at a time, keeping your save safe" }]
+  },
+  {
+    "build": "20261015.40",
+    "date": "2026-10-15",
+    "lines": [
+      { "kind": "new", "text": "Save and Exit keeps your run; Continue picks it up" },
+      { "kind": "fix", "text": "Closing the tab mid-run no longer loses its gold" }
+    ]
+  },
+  {
+    "build": "20261015.36",
+    "date": "2026-10-15",
+    "lines": [{ "kind": "fix", "text": "Less lag when the screen fills with monsters" }]
+  }
+]

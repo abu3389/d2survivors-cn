@@ -1,0 +1,4851 @@
+{
+  "firebolt": {
+    "file": "sprites/missiles/firebolt.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 116,
+    "frameHeight": 66,
+    "originX": 58,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "explosion": "fireexplode",
+    "light": {
+      "radius": 7,
+      "color": 16757312
+    }
+  },
+  "icebolt": {
+    "file": "sprites/missiles/icebolt.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "explosion": "iceexplode",
+    "light": {
+      "radius": 7,
+      "color": 5329407
+    }
+  },
+  "chargedbolt": {
+    "file": "sprites/missiles/chargedbolt.png",
+    "directions": 16,
+    "framesPerDirection": 10,
+    "frameWidth": 85,
+    "frameHeight": 78,
+    "originX": 41,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 2,
+    "loopEnd": 8,
+    "overlay": "lightning",
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "nova": {
+    "file": "sprites/missiles/electricnova.png",
+    "directions": 16,
+    "framesPerDirection": 13,
+    "frameWidth": 70,
+    "frameHeight": 48,
+    "originX": 35,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "overlay": "lightning"
+  },
+  "blaze": {
+    "file": "sprites/missiles/groundfirebig.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 167,
+    "originX": 33,
+    "originY": 156,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "light": {
+      "radius": 5,
+      "color": 16757312,
+      "flicker": 4
+    }
+  },
+  "firesmall": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "light": {
+      "radius": 2,
+      "color": 16757312,
+      "flicker": 2
+    }
+  },
+  "firemedium": {
+    "file": "sprites/missiles/groundfiremedium.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 136,
+    "originX": 33,
+    "originY": 125,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "light": {
+      "radius": 3,
+      "color": 16757312,
+      "flicker": 2
+    }
+  },
+  "firewallmaker": {
+    "file": "sprites/missiles/groundfirebig.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 167,
+    "originX": 33,
+    "originY": 156,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 1,
+    "loopEnd": 1,
+    "light": {
+      "radius": 8,
+      "color": 16757312
+    }
+  },
+  "meteorcenter": {
+    "file": "sprites/missiles/meteortargetindicator.png",
+    "directions": 1,
+    "framesPerDirection": 17,
+    "frameWidth": 112,
+    "frameHeight": 74,
+    "originX": 56,
+    "originY": 43,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 16,
+    "light": {
+      "radius": 4,
+      "color": 16728128
+    }
+  },
+  "frozenorb": {
+    "file": "sprites/missiles/iceorb.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 54,
+    "frameHeight": 53,
+    "originX": 27,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "light": {
+      "radius": 6,
+      "color": 5329407
+    }
+  },
+  "frozenorbexplode": {
+    "file": "sprites/missiles/iceorbexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 230,
+    "frameHeight": 191,
+    "originX": 111,
+    "originY": 113,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 6,
+      "color": 5329407
+    }
+  },
+  "chainlightning": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "overlay": "lightning",
+    "light": {
+      "radius": 4,
+      "color": 16777215
+    }
+  },
+  "thunderstorm1": {
+    "file": "sprites/missiles/lightningboltbig.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 36,
+    "frameHeight": 113,
+    "originX": 18,
+    "originY": 106,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "light": {
+      "radius": 10,
+      "color": 16777215
+    }
+  },
+  "fireexplode": {
+    "file": "sprites/missiles/firearrowexplode2.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 78,
+    "frameHeight": 70,
+    "originX": 39,
+    "originY": 81,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 13,
+      "color": 16757312
+    }
+  },
+  "iceexplode": {
+    "file": "sprites/missiles/icearrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 83,
+    "frameHeight": 110,
+    "originX": 43,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 11,
+      "color": 5329407
+    }
+  },
+  "firewall": {
+    "file": "sprites/missiles/groundfirebig.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 167,
+    "originX": 33,
+    "originY": 156,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "light": {
+      "radius": 5,
+      "color": 16757312,
+      "flicker": 4
+    }
+  },
+  "meteorfire": {
+    "file": "sprites/missiles/groundfiremedium.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 136,
+    "originX": 33,
+    "originY": 125,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "light": {
+      "radius": 3,
+      "color": 16757312,
+      "flicker": 2
+    }
+  },
+  "meteor": {
+    "file": "sprites/missiles/meteor.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 22,
+    "frameHeight": 22,
+    "originX": 7,
+    "originY": 55,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 11
+  },
+  "meteortail": {
+    "file": "sprites/missiles/meteortail.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 77,
+    "frameHeight": 125,
+    "originX": 49,
+    "originY": 143,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 11
+  },
+  "meteorexplode": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 13,
+      "color": 16757312
+    }
+  },
+  "frozenorbbolt": {
+    "file": "sprites/missiles/icebolt.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "light": {
+      "radius": 4,
+      "color": 5329407
+    }
+  },
+  "frozenorbnova": {
+    "file": "sprites/missiles/icebolt.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "light": {
+      "radius": 4,
+      "color": 5329407
+    }
+  },
+  "lightninghit": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "overlay": "lightning",
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "magicarrow": {
+    "file": "sprites/missiles/safearrow.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 59,
+    "frameHeight": 34,
+    "originX": 29,
+    "originY": 64,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 0,
+    "explosion": "teethexplode",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "firearrow": {
+    "file": "sprites/missiles/firearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 44,
+    "frameHeight": 25,
+    "originX": 22,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "explosion": "fireexplode",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "coldarrow": {
+    "file": "sprites/missiles/icearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 68,
+    "frameHeight": 35,
+    "originX": 34,
+    "originY": 64,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "explosion": "iceexplode",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 5329407
+    }
+  },
+  "multipleshotarrow": {
+    "file": "sprites/missiles/arrow.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 43,
+    "frameHeight": 18,
+    "originX": 22,
+    "originY": 58,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ]
+  },
+  "multipleshotbolt": {
+    "file": "sprites/missiles/xbowbolt.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 24,
+    "frameHeight": 12,
+    "originX": 12,
+    "originY": 62,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ]
+  },
+  "poisonjav": {
+    "file": "sprites/missiles/javelin.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 87,
+    "frameHeight": 35,
+    "originX": 43,
+    "originY": 72,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ]
+  },
+  "explodingarrow": {
+    "file": "sprites/missiles/firearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 44,
+    "frameHeight": 25,
+    "originX": 22,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "explosion": "explodingarrowexp",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "lightningjavelin": {
+    "file": "sprites/missiles/lightningjavelin.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 174,
+    "frameHeight": 79,
+    "originX": 86,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "overlay": "lightning",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "icearrow": {
+    "file": "sprites/missiles/icearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 68,
+    "frameHeight": 35,
+    "originX": 34,
+    "originY": 64,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "explosion": "iceexplode",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 5329407
+    }
+  },
+  "guidedarrow": {
+    "file": "sprites/missiles/safearrow.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 59,
+    "frameHeight": 34,
+    "originX": 29,
+    "originY": 64,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 0,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "chargedstrikebolt": {
+    "file": "sprites/missiles/chargedbolt.png",
+    "directions": 16,
+    "framesPerDirection": 10,
+    "frameWidth": 85,
+    "frameHeight": 78,
+    "originX": 41,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 2,
+    "loopEnd": 8,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "plaguejavelin": {
+    "file": "sprites/missiles/javelin.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 87,
+    "frameHeight": 35,
+    "originX": 43,
+    "originY": 72,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 8454016
+    }
+  },
+  "strafearrow": {
+    "file": "sprites/missiles/arrow.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 43,
+    "frameHeight": 18,
+    "originX": 22,
+    "originY": 58,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ]
+  },
+  "strafebolt": {
+    "file": "sprites/missiles/xbowbolt.png",
+    "directions": 32,
+    "framesPerDirection": 1,
+    "frameWidth": 24,
+    "frameHeight": 12,
+    "originX": 12,
+    "originY": 62,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "amazon"
+    ]
+  },
+  "immolationarrow": {
+    "file": "sprites/missiles/firearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 44,
+    "frameHeight": 25,
+    "originX": 22,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 16757312
+    }
+  },
+  "freezingarrow": {
+    "file": "sprites/missiles/icearrow.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 68,
+    "frameHeight": 35,
+    "originX": 34,
+    "originY": 64,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 5329407
+    }
+  },
+  "lightningstrike": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "overlay": "lightning",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 16777215
+    }
+  },
+  "lightningfury": {
+    "file": "sprites/missiles/lightningjavelin.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 174,
+    "frameHeight": 79,
+    "originX": 86,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "teethexplode": {
+    "file": "sprites/missiles/teethexplode.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 105,
+    "frameHeight": 106,
+    "originX": 52,
+    "originY": 100,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "necromancer",
+      "paladin"
+    ]
+  },
+  "poisonjavcloud": {
+    "file": "sprites/missiles/poisonsparks.png",
+    "directions": 8,
+    "framesPerDirection": 31,
+    "frameWidth": 58,
+    "frameHeight": 77,
+    "originX": 30,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 10,
+    "loopEnd": 19,
+    "classes": [
+      "amazon"
+    ]
+  },
+  "explodingarrowexp": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "necromancer",
+      "sorceress"
+    ],
+    "light": {
+      "radius": 15,
+      "color": 16757312
+    }
+  },
+  "fireexplosion2": {
+    "file": "sprites/missiles/firearrowexplode2.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 78,
+    "frameHeight": 70,
+    "originX": 39,
+    "originY": 81,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "sorceress"
+    ]
+  },
+  "plaguejavcloud": {
+    "file": "sprites/missiles/poisonsparks.png",
+    "directions": 8,
+    "framesPerDirection": 31,
+    "frameWidth": 58,
+    "frameHeight": 77,
+    "originX": 30,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 10,
+    "loopEnd": 19,
+    "classes": [
+      "amazon"
+    ]
+  },
+  "immolationfire": {
+    "file": "sprites/missiles/groundfirebig.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 167,
+    "originX": 33,
+    "originY": 156,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312,
+      "flicker": 4
+    }
+  },
+  "freezingarrowexp1": {
+    "file": "sprites/missiles/freezeexplodecenter.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 143,
+    "frameHeight": 107,
+    "originX": 75,
+    "originY": 67,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "sorceress"
+    ],
+    "light": {
+      "radius": 11,
+      "color": 5329407
+    }
+  },
+  "freezingarrowexp2": {
+    "file": "sprites/missiles/freezeexplodeejecta.png",
+    "directions": 8,
+    "framesPerDirection": 15,
+    "frameWidth": 300,
+    "frameHeight": 175,
+    "originX": 147,
+    "originY": 78,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "sorceress"
+    ]
+  },
+  "furylightning": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 16777215
+    }
+  },
+  "poisonpuff": {
+    "file": "sprites/missiles/poisonsmokepuff.png",
+    "directions": 4,
+    "framesPerDirection": 26,
+    "frameWidth": 105,
+    "frameHeight": 96,
+    "originX": 53,
+    "originY": 95,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon",
+      "necromancer"
+    ]
+  },
+  "bomb in air": {
+    "file": "sprites/missiles/firetraumamissile.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 12,
+    "frameHeight": 10,
+    "originX": 6,
+    "originY": 13,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 19,
+    "classes": [
+      "assassin"
+    ]
+  },
+  "shock field in air": {
+    "file": "sprites/missiles/caltrops.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 16,
+    "frameHeight": 12,
+    "originX": 8,
+    "originY": 1,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "fistsoffirefirewall": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "fistsoffireexplode": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 15,
+      "color": 16757312
+    }
+  },
+  "bladefragment1": {
+    "file": "sprites/missiles/bladefury.png",
+    "directions": 1,
+    "framesPerDirection": 7,
+    "frameWidth": 13,
+    "frameHeight": 6,
+    "originX": 6,
+    "originY": 34,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 6,
+    "classes": [
+      "assassin"
+    ]
+  },
+  "bladefragment2": {
+    "file": "sprites/missiles/bladefury_b.png",
+    "directions": 1,
+    "framesPerDirection": 7,
+    "frameWidth": 20,
+    "frameHeight": 9,
+    "originX": 10,
+    "originY": 35,
+    "fps": 50,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 6,
+    "classes": [
+      "assassin"
+    ]
+  },
+  "clawsofthundernova": {
+    "file": "sprites/missiles/electricnova.png",
+    "directions": 16,
+    "framesPerDirection": 13,
+    "frameWidth": 70,
+    "frameHeight": 48,
+    "originX": 35,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "clawsofthunderbolt": {
+    "file": "sprites/missiles/chargedbolt.png",
+    "directions": 16,
+    "framesPerDirection": 10,
+    "frameWidth": 85,
+    "frameHeight": 78,
+    "originX": 41,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 2,
+    "loopEnd": 8,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "dragontail missile": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "mindblast center": {
+    "file": "sprites/missiles/mindblast.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 52,
+    "frameHeight": 27,
+    "originX": 26,
+    "originY": 13,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "mindblast hit": {
+    "file": "sprites/missiles/mindblast.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 52,
+    "frameHeight": 27,
+    "originX": 26,
+    "originY": 13,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "bladesoficecubes": {
+    "file": "sprites/missiles/icebreaksmall.png",
+    "directions": 4,
+    "framesPerDirection": 15,
+    "frameWidth": 103,
+    "frameHeight": 86,
+    "originX": 49,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "bladesoficeexplode": {
+    "file": "sprites/missiles/icearrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 83,
+    "frameHeight": 110,
+    "originX": 43,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 11,
+      "color": 5329407
+    }
+  },
+  "royalstrikemeteorcenter": {
+    "file": "sprites/missiles/meteortargetindicator.png",
+    "directions": 1,
+    "framesPerDirection": 17,
+    "frameWidth": 112,
+    "frameHeight": 74,
+    "originX": 56,
+    "originY": 43,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 16,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 16728128
+    }
+  },
+  "royalstrikechainlightning": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "overlay": "lightning",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 16777215
+    }
+  },
+  "royalstrikechaosice": {
+    "file": "sprites/missiles/icebolt.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 5329407
+    }
+  },
+  "sentrychargedbolt": {
+    "file": "sprites/missiles/chargedbolt.png",
+    "directions": 16,
+    "framesPerDirection": 10,
+    "frameWidth": 85,
+    "frameHeight": 78,
+    "originX": 41,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 2,
+    "loopEnd": 8,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "sentrylightninghit": {
+    "file": "sprites/missiles/lightningstrike.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 148,
+    "frameHeight": 106,
+    "originX": 74,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "overlay": "lightning",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215,
+      "flicker": 4
+    }
+  },
+  "wake of destruction maker": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 1,
+    "loopEnd": 1,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 8,
+      "color": 16757312
+    }
+  },
+  "inferno sentry 1": {
+    "file": "sprites/missiles/flamethrower.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 76,
+    "frameHeight": 77,
+    "originX": 36,
+    "originY": 104,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "inferno sentry 2": {
+    "file": "sprites/missiles/flamethrower2.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 76,
+    "frameHeight": 84,
+    "originX": 38,
+    "originY": 111,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "deathsentryexplode": {
+    "file": "sprites/missiles/dethsentry02.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 115,
+    "frameHeight": 91,
+    "originX": 66,
+    "originY": 66,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "corpseexplosion": {
+    "file": "sprites/missiles/corpseexplodeguts.png",
+    "directions": 4,
+    "framesPerDirection": 13,
+    "frameWidth": 240,
+    "frameHeight": 134,
+    "originX": 123,
+    "originY": 63,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "assassin",
+      "necromancer"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "bomb on ground": {
+    "file": "sprites/missiles/firetraumaground.png",
+    "directions": 1,
+    "framesPerDirection": 1,
+    "frameWidth": 11,
+    "frameHeight": 10,
+    "originX": 5,
+    "originY": 13,
+    "fps": 25,
+    "blend": "normal",
+    "explosion": "bomb explosion",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "shock field on ground": {
+    "file": "sprites/missiles/shockfield.png",
+    "directions": 8,
+    "framesPerDirection": 10,
+    "frameWidth": 113,
+    "frameHeight": 80,
+    "originX": 56,
+    "originY": 34,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 9,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "blade shield missile": {
+    "file": "sprites/missiles/blade_shield_missile.png",
+    "directions": 1,
+    "framesPerDirection": 5,
+    "frameWidth": 20,
+    "frameHeight": 11,
+    "originX": 10,
+    "originY": 7,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16777215
+    }
+  },
+  "royalstrikemeteor": {
+    "file": "sprites/missiles/meteor.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 22,
+    "frameHeight": 22,
+    "originX": 7,
+    "originY": 55,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 11,
+    "classes": [
+      "assassin"
+    ]
+  },
+  "royalstrikemeteortail": {
+    "file": "sprites/missiles/meteortail.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 77,
+    "frameHeight": 125,
+    "originX": 49,
+    "originY": 143,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 11,
+    "classes": [
+      "assassin"
+    ]
+  },
+  "royalstrikemeteorexplode": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 13,
+      "color": 16757312
+    }
+  },
+  "wake of destruction": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312,
+      "flicker": 4
+    }
+  },
+  "bigblood1": {
+    "file": "sprites/missiles/bloodlarge01.png",
+    "directions": 8,
+    "framesPerDirection": 9,
+    "frameWidth": 67,
+    "frameHeight": 64,
+    "originX": 33,
+    "originY": 47,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "assassin",
+      "necromancer"
+    ]
+  },
+  "bigblood2": {
+    "file": "sprites/missiles/bloodlarge02.png",
+    "directions": 8,
+    "framesPerDirection": 9,
+    "frameWidth": 78,
+    "frameHeight": 65,
+    "originX": 39,
+    "originY": 45,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "assassin",
+      "necromancer"
+    ]
+  },
+  "bomb explosion": {
+    "file": "sprites/missiles/firetraumaxplosion.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 87,
+    "frameHeight": 112,
+    "originX": 45,
+    "originY": 111,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "royalstrikemeteorfire": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "howl": {
+    "file": "sprites/missiles/bayellshockwave01.png",
+    "directions": 32,
+    "framesPerDirection": 15,
+    "frameWidth": 76,
+    "frameHeight": 44,
+    "originX": 38,
+    "originY": 22,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "shout": {
+    "file": "sprites/overlays/shout.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 84,
+    "frameHeight": 55,
+    "originX": 42,
+    "originY": 32,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "battlecry": {
+    "file": "sprites/overlays/battlecry.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 36,
+    "frameHeight": 35,
+    "originX": 18,
+    "originY": 95,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "battleorders": {
+    "file": "sprites/overlays/battleorders.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 89,
+    "frameHeight": 53,
+    "originX": 44,
+    "originY": 31,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardmediumstart": {
+    "file": "sprites/missiles/grimwardmediumstart.png",
+    "directions": 4,
+    "framesPerDirection": 8,
+    "frameWidth": 79,
+    "frameHeight": 64,
+    "originX": 40,
+    "originY": 45,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardsmallstart": {
+    "file": "sprites/missiles/grimwardsmallstart.png",
+    "directions": 4,
+    "framesPerDirection": 5,
+    "frameWidth": 56,
+    "frameHeight": 43,
+    "originX": 28,
+    "originY": 30,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardlargestart": {
+    "file": "sprites/missiles/grimwardlargestart.png",
+    "directions": 4,
+    "framesPerDirection": 8,
+    "frameWidth": 94,
+    "frameHeight": 77,
+    "originX": 46,
+    "originY": 51,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "warcryshockwave": {
+    "file": "sprites/missiles/warcryshockwave.png",
+    "directions": 32,
+    "framesPerDirection": 16,
+    "frameWidth": 82,
+    "frameHeight": 43,
+    "originX": 41,
+    "originY": 22,
+    "fps": 25,
+    "blend": "add",
+    "overlay": "doubledamage1",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "battlecommand": {
+    "file": "sprites/overlays/battlecommand.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 84,
+    "frameHeight": 57,
+    "originX": 42,
+    "originY": 32,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "throwaxe": {
+    "file": "sprites/missiles/missilehandaxe.png",
+    "directions": 32,
+    "framesPerDirection": 8,
+    "frameWidth": 32,
+    "frameHeight": 27,
+    "originX": 16,
+    "originY": 69,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardmedium": {
+    "file": "sprites/missiles/grimwardmedium.png",
+    "directions": 4,
+    "framesPerDirection": 1,
+    "frameWidth": 48,
+    "frameHeight": 61,
+    "originX": 24,
+    "originY": 52,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 0,
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardsmall": {
+    "file": "sprites/missiles/grimwardsmall.png",
+    "directions": 4,
+    "framesPerDirection": 1,
+    "frameWidth": 46,
+    "frameHeight": 50,
+    "originX": 23,
+    "originY": 38,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 0,
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardlarge": {
+    "file": "sprites/missiles/grimwardlarge.png",
+    "directions": 4,
+    "framesPerDirection": 1,
+    "frameWidth": 86,
+    "frameHeight": 81,
+    "originX": 43,
+    "originY": 60,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 0,
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardmediumstop": {
+    "file": "sprites/missiles/grimwardmediumstop.png",
+    "directions": 4,
+    "framesPerDirection": 9,
+    "frameWidth": 69,
+    "frameHeight": 74,
+    "originX": 35,
+    "originY": 55,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardsmallstop": {
+    "file": "sprites/missiles/grimwardsmallstop.png",
+    "directions": 4,
+    "framesPerDirection": 9,
+    "frameWidth": 67,
+    "frameHeight": 61,
+    "originX": 34,
+    "originY": 45,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "grimwardlargestop": {
+    "file": "sprites/missiles/grimwardlargestop.png",
+    "directions": 4,
+    "framesPerDirection": 9,
+    "frameWidth": 102,
+    "frameHeight": 97,
+    "originX": 52,
+    "originY": 69,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "firestormmaker": {
+    "file": "sprites/missiles/firestormemitter.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 96,
+    "frameHeight": 83,
+    "originX": 48,
+    "originY": 50,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "classes": [
+      "druid"
+    ]
+  },
+  "moltenboulderemerge": {
+    "file": "sprites/missiles/moltenboulderemerge.png",
+    "directions": 8,
+    "framesPerDirection": 6,
+    "frameWidth": 66,
+    "frameHeight": 79,
+    "originX": 33,
+    "originY": 60,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "druid"
+    ]
+  },
+  "arcticblast1": {
+    "file": "sprites/missiles/arcticblastice.png",
+    "directions": 16,
+    "framesPerDirection": 16,
+    "frameWidth": 85,
+    "frameHeight": 95,
+    "originX": 42,
+    "originY": 94,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "arcticblast2": {
+    "file": "sprites/missiles/arcticblastice_2.png",
+    "directions": 16,
+    "framesPerDirection": 16,
+    "frameWidth": 87,
+    "frameHeight": 95,
+    "originX": 43,
+    "originY": 94,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "twister": {
+    "file": "sprites/missiles/twister.png",
+    "directions": 4,
+    "framesPerDirection": 40,
+    "frameWidth": 88,
+    "frameHeight": 102,
+    "originX": 44,
+    "originY": 66,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 18,
+    "loopEnd": 36,
+    "classes": [
+      "druid"
+    ]
+  },
+  "shockwave": {
+    "file": "sprites/missiles/shockwave.png",
+    "directions": 8,
+    "framesPerDirection": 7,
+    "frameWidth": 110,
+    "frameHeight": 63,
+    "originX": 54,
+    "originY": 33,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "volcano": {
+    "file": "sprites/missiles/volcano_base.png",
+    "directions": 1,
+    "framesPerDirection": 30,
+    "frameWidth": 122,
+    "frameHeight": 70,
+    "originX": 58,
+    "originY": 29,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 17,
+    "loopEnd": 18,
+    "classes": [
+      "druid"
+    ]
+  },
+  "volcano overlay fire": {
+    "file": "sprites/missiles/volcano_fire.png",
+    "directions": 1,
+    "framesPerDirection": 30,
+    "frameWidth": 118,
+    "frameHeight": 119,
+    "originX": 59,
+    "originY": 92,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 6,
+    "loopEnd": 14,
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 16728128
+    }
+  },
+  "tornado": {
+    "file": "sprites/missiles/tornado.png",
+    "directions": 1,
+    "framesPerDirection": 40,
+    "frameWidth": 112,
+    "frameHeight": 130,
+    "originX": 58,
+    "originY": 103,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "druid"
+    ]
+  },
+  "armageddontail": {
+    "file": "sprites/missiles/armageddon_fire.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 74,
+    "frameHeight": 137,
+    "originX": 22,
+    "originY": 127,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "classes": [
+      "druid"
+    ]
+  },
+  "armageddonrock": {
+    "file": "sprites/missiles/armageddon_rock.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 30,
+    "frameHeight": 30,
+    "originX": 17,
+    "originY": 31,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "classes": [
+      "druid"
+    ]
+  },
+  "hurricaneswoosh": {
+    "file": "sprites/missiles/hurricane_swoosh.png",
+    "directions": 8,
+    "framesPerDirection": 11,
+    "frameWidth": 84,
+    "frameHeight": 58,
+    "originX": 42,
+    "originY": 30,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "hurricanerock": {
+    "file": "sprites/missiles/hurricane_rocks.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 10,
+    "frameHeight": 12,
+    "originX": 6,
+    "originY": 6,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "druid"
+    ]
+  },
+  "hurricanetree": {
+    "file": "sprites/missiles/hurricane_tree.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 16,
+    "frameHeight": 19,
+    "originX": 10,
+    "originY": 10,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "druid"
+    ]
+  },
+  "firestorm": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312,
+      "flicker": 4
+    }
+  },
+  "moltenboulder": {
+    "file": "sprites/missiles/moltenboulderroll.png",
+    "directions": 8,
+    "framesPerDirection": 10,
+    "frameWidth": 52,
+    "frameHeight": 51,
+    "originX": 26,
+    "originY": 46,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 9,
+    "classes": [
+      "druid"
+    ]
+  },
+  "erruption crack 1": {
+    "file": "sprites/missiles/eruptioncrack.png",
+    "directions": 4,
+    "framesPerDirection": 41,
+    "frameWidth": 76,
+    "frameHeight": 38,
+    "originX": 39,
+    "originY": 18,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 40,
+    "overlay": "fire_hit",
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "erruption smoke 1": {
+    "file": "sprites/missiles/eruptionsmoke.png",
+    "directions": 1,
+    "framesPerDirection": 41,
+    "frameWidth": 54,
+    "frameHeight": 97,
+    "originX": 24,
+    "originY": 94,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 40,
+    "classes": [
+      "druid"
+    ]
+  },
+  "volcano debris 2": {
+    "file": "sprites/missiles/volcano_rock.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 34,
+    "frameHeight": 32,
+    "originX": 18,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 14,
+    "classes": [
+      "druid"
+    ]
+  },
+  "armageddonfire": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "armageddonexplosion": {
+    "file": "sprites/missiles/exparrowexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 208,
+    "frameHeight": 174,
+    "originX": 108,
+    "originY": 123,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16777215
+    }
+  },
+  "moltenboulderfirepath": {
+    "file": "sprites/missiles/groundfiresmall.png",
+    "directions": 1,
+    "framesPerDirection": 37,
+    "frameWidth": 66,
+    "frameHeight": 89,
+    "originX": 33,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 12,
+    "loopEnd": 36,
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "moltenboulder-flyingrocks": {
+    "file": "sprites/missiles/moltenfragmentd.png",
+    "directions": 8,
+    "framesPerDirection": 16,
+    "frameWidth": 22,
+    "frameHeight": 22,
+    "originX": 11,
+    "originY": 16,
+    "fps": 25,
+    "blend": "normal",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "classes": [
+      "druid"
+    ]
+  },
+  "volcano small fire": {
+    "file": "sprites/missiles/rock_lava_pool.png",
+    "directions": 1,
+    "framesPerDirection": 18,
+    "frameWidth": 80,
+    "frameHeight": 39,
+    "originX": 41,
+    "originY": 21,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "druid"
+    ]
+  },
+  "volcano explosion": {
+    "file": "sprites/missiles/rock_lava_explosion.png",
+    "directions": 1,
+    "framesPerDirection": 18,
+    "frameWidth": 109,
+    "frameHeight": 106,
+    "originX": 53,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "curseamplifydamage": {
+    "file": "sprites/overlays/curseamplifydamageeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 71,
+    "frameHeight": 63,
+    "originX": 27,
+    "originY": 120,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16728128
+    }
+  },
+  "cursecast": {
+    "file": "sprites/missiles/cursecast.png",
+    "directions": 1,
+    "framesPerDirection": 25,
+    "frameWidth": 96,
+    "frameHeight": 100,
+    "originX": 47,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 1,
+      "color": 16711680
+    }
+  },
+  "teeth": {
+    "file": "sprites/missiles/teethmissile.png",
+    "directions": 32,
+    "framesPerDirection": 30,
+    "frameWidth": 112,
+    "frameHeight": 76,
+    "originX": 56,
+    "originY": 63,
+    "fps": 25,
+    "blend": "add",
+    "explosion": "teethexplode",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "bonecast": {
+    "file": "sprites/missiles/bonecast.png",
+    "directions": 16,
+    "framesPerDirection": 16,
+    "frameWidth": 253,
+    "frameHeight": 135,
+    "originX": 127,
+    "originY": 110,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "cursedimvision": {
+    "file": "sprites/overlays/cursedimvisioneffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 35,
+    "frameHeight": 38,
+    "originX": 17,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16765650
+    }
+  },
+  "curseweaken": {
+    "file": "sprites/overlays/curseweakeneffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 64,
+    "frameHeight": 91,
+    "originX": 35,
+    "originY": 121,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16765650
+    }
+  },
+  "curseironmaiden": {
+    "file": "sprites/overlays/curseironmaideneffect.png",
+    "directions": 1,
+    "framesPerDirection": 29,
+    "frameWidth": 73,
+    "frameHeight": 58,
+    "originX": 35,
+    "originY": 103,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16711680
+    }
+  },
+  "curseterror": {
+    "file": "sprites/overlays/curseterroreffect.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 44,
+    "frameHeight": 117,
+    "originX": 26,
+    "originY": 149,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian",
+      "necromancer"
+    ]
+  },
+  "curseconfuse": {
+    "file": "sprites/overlays/curseconfuseeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 71,
+    "frameHeight": 78,
+    "originX": 35,
+    "originY": 117,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 65280
+    }
+  },
+  "cursereversevampire": {
+    "file": "sprites/overlays/cursereversevampireeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 84,
+    "frameHeight": 48,
+    "originX": 41,
+    "originY": 96,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "poisonexplosioncloud": {
+    "file": "sprites/missiles/poisonsparks.png",
+    "directions": 8,
+    "framesPerDirection": 31,
+    "frameWidth": 58,
+    "frameHeight": 77,
+    "originX": 30,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 10,
+    "loopEnd": 19,
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "poisoncorpseexplosion": {
+    "file": "sprites/missiles/corpseexplodegutspoison.png",
+    "directions": 4,
+    "framesPerDirection": 13,
+    "frameWidth": 240,
+    "frameHeight": 134,
+    "originX": 123,
+    "originY": 63,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "bonespear": {
+    "file": "sprites/missiles/bonespear.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 80,
+    "frameHeight": 57,
+    "originX": 40,
+    "originY": 68,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "explosion": "bonespearexplode",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "curseattract": {
+    "file": "sprites/overlays/curseattractharmeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 42,
+    "frameHeight": 44,
+    "originX": 20,
+    "originY": 98,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16711680
+    }
+  },
+  "cursedecrepify": {
+    "file": "sprites/overlays/cursedecrepifyeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 84,
+    "frameHeight": 65,
+    "originX": 35,
+    "originY": 119,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 255
+    }
+  },
+  "curselowerresist": {
+    "file": "sprites/overlays/curselowerresisteffect.png",
+    "directions": 1,
+    "framesPerDirection": 29,
+    "frameWidth": 81,
+    "frameHeight": 84,
+    "originX": 40,
+    "originY": 133,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 255
+    }
+  },
+  "poisonnova": {
+    "file": "sprites/missiles/poisonnova.png",
+    "directions": 32,
+    "framesPerDirection": 30,
+    "frameWidth": 236,
+    "frameHeight": 118,
+    "originX": 118,
+    "originY": 110,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "bonespirit": {
+    "file": "sprites/missiles/bonespirit.png",
+    "directions": 8,
+    "framesPerDirection": 8,
+    "frameWidth": 141,
+    "frameHeight": 132,
+    "originX": 71,
+    "originY": 61,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "explosion": "bonespiritexplode",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "revivemedium": {
+    "file": "sprites/missiles/revive.png",
+    "directions": 1,
+    "framesPerDirection": 25,
+    "frameWidth": 199,
+    "frameHeight": 224,
+    "originX": 96,
+    "originY": 185,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "revivesmall": {
+    "file": "sprites/missiles/revive.png",
+    "directions": 1,
+    "framesPerDirection": 25,
+    "frameWidth": 199,
+    "frameHeight": 224,
+    "originX": 96,
+    "originY": 185,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "revivelarge": {
+    "file": "sprites/missiles/revive.png",
+    "directions": 1,
+    "framesPerDirection": 25,
+    "frameWidth": 199,
+    "frameHeight": 224,
+    "originX": 96,
+    "originY": 185,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "bonespearexplode": {
+    "file": "sprites/missiles/teethexplode.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 105,
+    "frameHeight": 106,
+    "originX": 52,
+    "originY": 100,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "bonespeartrail": {
+    "file": "sprites/missiles/bonespeartrail.png",
+    "directions": 32,
+    "framesPerDirection": 9,
+    "frameWidth": 72,
+    "frameHeight": 77,
+    "originX": 36,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "bonespiritexplode": {
+    "file": "sprites/missiles/bonespiritexplode.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 128,
+    "frameHeight": 113,
+    "originX": 62,
+    "originY": 100,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "blood1": {
+    "file": "sprites/missiles/bloodsmall01.png",
+    "directions": 8,
+    "framesPerDirection": 9,
+    "frameWidth": 42,
+    "frameHeight": 62,
+    "originX": 21,
+    "originY": 51,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "holybolt": {
+    "file": "sprites/missiles/holyboltmissile.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 79,
+    "frameHeight": 45,
+    "originX": 39,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "overlay": "healing",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 7,
+      "color": 14606079
+    }
+  },
+  "blessedhammer": {
+    "file": "sprites/missiles/blessedhammer.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 36,
+    "frameHeight": 38,
+    "originX": 18,
+    "originY": 56,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 14606079
+    }
+  },
+  "sanctuarybolt": {
+    "file": "sprites/missiles/gleam.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 19,
+    "frameHeight": 16,
+    "originX": 9,
+    "originY": 8,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "paladin"
+    ]
+  },
+  "redemption": {
+    "file": "sprites/missiles/redemptionghost.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 64,
+    "frameHeight": 141,
+    "originX": 33,
+    "originY": 130,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "fistoftheheavensbolt": {
+    "file": "sprites/missiles/holyboltmissile.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 79,
+    "frameHeight": 45,
+    "originX": 39,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 15,
+    "explosion": "teethexplode",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 8,
+      "color": 14606079
+    }
+  },
+  "infernoflame1": {
+    "file": "sprites/missiles/flamethrower.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 76,
+    "frameHeight": 77,
+    "originX": 36,
+    "originY": 104,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "infernoflame2": {
+    "file": "sprites/missiles/flamethrower2.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 76,
+    "frameHeight": 84,
+    "originX": 38,
+    "originY": 111,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16757312
+    }
+  },
+  "frostnova": {
+    "file": "sprites/missiles/frostnova.png",
+    "directions": 16,
+    "framesPerDirection": 14,
+    "frameWidth": 118,
+    "frameHeight": 69,
+    "originX": 59,
+    "originY": 36,
+    "fps": 25,
+    "blend": "add",
+    "overlay": "ice_explode",
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "iceblast": {
+    "file": "sprites/missiles/iceblast.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 169,
+    "frameHeight": 94,
+    "originX": 85,
+    "originY": 78,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "explosion": "freezingarrowexp1",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 7,
+      "color": 5329407
+    }
+  },
+  "fireball": {
+    "file": "sprites/missiles/fireball.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 146,
+    "frameHeight": 79,
+    "originX": 72,
+    "originY": 81,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "explosion": "explodingarrowexp",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 7,
+      "color": 16757312
+    }
+  },
+  "sparkle": {
+    "file": "sprites/missiles/gleam.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 19,
+    "frameHeight": 16,
+    "originX": 9,
+    "originY": 8,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "glacialspike": {
+    "file": "sprites/missiles/glacialspike.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 180,
+    "frameHeight": 110,
+    "originX": 90,
+    "originY": 94,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 5329407
+    }
+  },
+  "chillingarmorbolt": {
+    "file": "sprites/missiles/icebolt.png",
+    "directions": 16,
+    "framesPerDirection": 6,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 71,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 4,
+      "color": 5329407
+    }
+  },
+  "hydra": {
+    "file": "sprites/missiles/firebolt.png",
+    "directions": 16,
+    "framesPerDirection": 5,
+    "frameWidth": 116,
+    "frameHeight": 66,
+    "originX": 58,
+    "originY": 76,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 4,
+    "explosion": "fireexplode",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16777215
+    }
+  },
+  "blizzard1": {
+    "file": "sprites/missiles/icestormfallvar01.png",
+    "directions": 1,
+    "framesPerDirection": 6,
+    "frameWidth": 56,
+    "frameHeight": 198,
+    "originX": 50,
+    "originY": 208,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 5,
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "blizzard4": {
+    "file": "sprites/missiles/blizzard.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 97,
+    "frameHeight": 153,
+    "originX": 71,
+    "originY": 153,
+    "fps": 25,
+    "blend": "add",
+    "loopStart": 0,
+    "loopEnd": 7,
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "blizzardexplode1": {
+    "file": "sprites/missiles/icestormimpactvar01.png",
+    "directions": 1,
+    "framesPerDirection": 6,
+    "frameWidth": 113,
+    "frameHeight": 72,
+    "originX": 54,
+    "originY": 31,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "blizzardexplode3": {
+    "file": "sprites/missiles/icestormimpactvar02.png",
+    "directions": 1,
+    "framesPerDirection": 6,
+    "frameWidth": 117,
+    "frameHeight": 70,
+    "originX": 55,
+    "originY": 30,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "light_cast_1": {
+    "file": "sprites/overlays/lightningcast.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 164,
+    "frameHeight": 144,
+    "originX": 79,
+    "originY": 107,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 9,
+      "color": 16777215
+    }
+  },
+  "hit_holyfire": {
+    "file": "sprites/overlays/auraholyfirehit.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 84,
+    "frameHeight": 59,
+    "originX": 42,
+    "originY": 58,
+    "fps": 25,
+    "blend": "add"
+  },
+  "charge": {
+    "file": "sprites/overlays/charge.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 65,
+    "frameHeight": 46,
+    "originX": 32,
+    "originY": 27,
+    "fps": 25,
+    "blend": "add"
+  },
+  "lightning": {
+    "file": "sprites/overlays/shockhitsm.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 65,
+    "frameHeight": 71,
+    "originX": 33,
+    "originY": 75,
+    "fps": 25,
+    "blend": "add",
+    "light": {
+      "radius": 11,
+      "color": 16777215
+    }
+  },
+  "cast_innersight": {
+    "file": "sprites/overlays/eozcast.png",
+    "directions": 1,
+    "framesPerDirection": 29,
+    "frameWidth": 139,
+    "frameHeight": 119,
+    "originX": 76,
+    "originY": 148,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "innersight": {
+    "file": "sprites/overlays/hardenarmor.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 30,
+    "frameHeight": 64,
+    "originX": 16,
+    "originY": 63,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "cast_slowmissiles": {
+    "file": "sprites/overlays/hoacast.png",
+    "directions": 1,
+    "framesPerDirection": 21,
+    "frameWidth": 151,
+    "frameHeight": 152,
+    "originX": 78,
+    "originY": 143,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "amazon"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "psychic_hammer_hit": {
+    "file": "sprites/overlays/psyhammerhit.png",
+    "directions": 1,
+    "framesPerDirection": 7,
+    "frameWidth": 95,
+    "frameHeight": 96,
+    "originX": 47,
+    "originY": 84,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "psychic_hammer_curse": {
+    "file": "sprites/overlays/psyhammeroverlay.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 121,
+    "frameHeight": 108,
+    "originX": 59,
+    "originY": 102,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "assassinfootimpact": {
+    "file": "sprites/overlays/deadlyfisthit.png",
+    "directions": 1,
+    "framesPerDirection": 5,
+    "frameWidth": 85,
+    "frameHeight": 85,
+    "originX": 42,
+    "originY": 78,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "progressive_damage_1": {
+    "file": "sprites/overlays/missile_a_a.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 89,
+    "frameHeight": 50,
+    "originX": 46,
+    "originY": 60,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "quickness": {
+    "file": "sprites/overlays/quickness.png",
+    "directions": 1,
+    "framesPerDirection": 9,
+    "frameWidth": 66,
+    "frameHeight": 36,
+    "originX": 33,
+    "originY": 20,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_fire_1": {
+    "file": "sprites/overlays/missile_red_a.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 90,
+    "frameHeight": 52,
+    "originX": 46,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "cloaked": {
+    "file": "sprites/overlays/cloakofshadows.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 95,
+    "frameHeight": 97,
+    "originX": 48,
+    "originY": 91,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 2,
+      "color": 16765650
+    }
+  },
+  "progressive_steal_1": {
+    "file": "sprites/overlays/missile_b_a.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 89,
+    "frameHeight": 55,
+    "originX": 46,
+    "originY": 46,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "fade": {
+    "file": "sprites/overlays/fade.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 65,
+    "frameHeight": 36,
+    "originX": 32,
+    "originY": 20,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_lightning_1": {
+    "file": "sprites/overlays/missile_white_a.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 52,
+    "originX": 47,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "fist_will_cast": {
+    "file": "sprites/overlays/psyhammeroverlay.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 121,
+    "frameHeight": 108,
+    "originX": 59,
+    "originY": 102,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_cold_1": {
+    "file": "sprites/overlays/missile_blue_a.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 52,
+    "originX": 47,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "dragonflight": {
+    "file": "sprites/overlays/dragonflight.png",
+    "directions": 1,
+    "framesPerDirection": 9,
+    "frameWidth": 105,
+    "frameHeight": 154,
+    "originX": 52,
+    "originY": 91,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "bladeshield": {
+    "file": "sprites/overlays/blade_shield.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 64,
+    "frameHeight": 66,
+    "originX": 33,
+    "originY": 68,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_other_1": {
+    "file": "sprites/overlays/missile_c_a.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 90,
+    "frameHeight": 61,
+    "originX": 46,
+    "originY": 40,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_damage_2": {
+    "file": "sprites/overlays/missile_a_b.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 89,
+    "frameHeight": 52,
+    "originX": 46,
+    "originY": 62,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_damage_3": {
+    "file": "sprites/overlays/missile_a_c.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 90,
+    "frameHeight": 52,
+    "originX": 46,
+    "originY": 62,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_steal_2": {
+    "file": "sprites/overlays/missile_b_b.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 89,
+    "frameHeight": 56,
+    "originX": 46,
+    "originY": 47,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_steal_3": {
+    "file": "sprites/overlays/missile_b_c.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 90,
+    "frameHeight": 57,
+    "originX": 46,
+    "originY": 48,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_other_2": {
+    "file": "sprites/overlays/missile_c_b.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 90,
+    "frameHeight": 63,
+    "originX": 46,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_other_3": {
+    "file": "sprites/overlays/missile_c_c.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 90,
+    "frameHeight": 63,
+    "originX": 46,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_fire_2": {
+    "file": "sprites/overlays/missile_red_b.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 90,
+    "frameHeight": 52,
+    "originX": 46,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_fire_3": {
+    "file": "sprites/overlays/missile_red_c.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 91,
+    "frameHeight": 54,
+    "originX": 46,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_cold_2": {
+    "file": "sprites/overlays/missile_blue_b.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 53,
+    "originX": 47,
+    "originY": 56,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_cold_3": {
+    "file": "sprites/overlays/missile_blue_c.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 55,
+    "originX": 47,
+    "originY": 56,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_lightning_2": {
+    "file": "sprites/overlays/missile_white_b.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 52,
+    "originX": 47,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "progressive_lightning_3": {
+    "file": "sprites/overlays/missile_white_c.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 92,
+    "frameHeight": 54,
+    "originX": 47,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "death_sentry": {
+    "file": "sprites/overlays/dethsentry01.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 130,
+    "frameHeight": 136,
+    "originX": 73,
+    "originY": 93,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "shadowwarriorappear": {
+    "file": "sprites/overlays/shadowappear.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 228,
+    "frameHeight": 228,
+    "originX": 115,
+    "originY": 152,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ]
+  },
+  "assassinfistimpact": {
+    "file": "sprites/overlays/deadlyfisthit.png",
+    "directions": 1,
+    "framesPerDirection": 5,
+    "frameWidth": 85,
+    "frameHeight": 85,
+    "originX": 42,
+    "originY": 78,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin"
+    ],
+    "light": {
+      "radius": 3,
+      "color": 16777215
+    }
+  },
+  "stun": {
+    "file": "sprites/overlays/stun.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 69,
+    "frameHeight": 49,
+    "originX": 34,
+    "originY": 87,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "assassin",
+      "barbarian"
+    ]
+  },
+  "curse_hit": {
+    "file": "sprites/overlays/cursehit.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 67,
+    "frameHeight": 71,
+    "originX": 33,
+    "originY": 70,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian",
+      "necromancer"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 16761191
+    }
+  },
+  "taunt": {
+    "file": "sprites/overlays/curseconfuseeffect.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 71,
+    "frameHeight": 78,
+    "originX": 35,
+    "originY": 117,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16761191
+    }
+  },
+  "shoutstart": {
+    "file": "sprites/overlays/shoutstart.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 84,
+    "frameHeight": 55,
+    "originX": 42,
+    "originY": 32,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777215
+    }
+  },
+  "bash": {
+    "file": "sprites/overlays/babash.png",
+    "directions": 1,
+    "framesPerDirection": 9,
+    "frameWidth": 67,
+    "frameHeight": 57,
+    "originX": 34,
+    "originY": 66,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "doubledamage1": {
+    "file": "sprites/overlays/impacting01.png",
+    "directions": 1,
+    "framesPerDirection": 4,
+    "frameWidth": 90,
+    "frameHeight": 101,
+    "originX": 51,
+    "originY": 93,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "frenzy": {
+    "file": "sprites/overlays/frenzy.png",
+    "directions": 1,
+    "framesPerDirection": 25,
+    "frameWidth": 90,
+    "frameHeight": 55,
+    "originX": 47,
+    "originY": 39,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "battleorderscast": {
+    "file": "sprites/overlays/battleordersstart.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 98,
+    "frameHeight": 56,
+    "originX": 49,
+    "originY": 28,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "whirlwind": {
+    "file": "sprites/overlays/bawhirlwind01.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 117,
+    "frameHeight": 98,
+    "originX": 59,
+    "originY": 80,
+    "fps": 25,
+    "blend": "normal",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "berserkfront": {
+    "file": "sprites/overlays/berserkoverlay.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 67,
+    "frameHeight": 57,
+    "originX": 37,
+    "originY": 105,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "warcry": {
+    "file": "sprites/overlays/warcryhit.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 118,
+    "frameHeight": 64,
+    "originX": 58,
+    "originY": 77,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "battlecommandcast": {
+    "file": "sprites/overlays/battlecommandstart.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 84,
+    "frameHeight": 56,
+    "originX": 42,
+    "originY": 32,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "barbarian"
+    ]
+  },
+  "wolf_into": {
+    "file": "sprites/overlays/druidmorph.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 161,
+    "frameHeight": 217,
+    "originX": 79,
+    "originY": 136,
+    "fps": 31.25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "wolf_undo": {
+    "file": "sprites/overlays/druidmorph.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 161,
+    "frameHeight": 217,
+    "originX": 79,
+    "originY": 136,
+    "fps": 15.625,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "druid_fire_cast_1": {
+    "file": "sprites/overlays/fire_overlay_a.png",
+    "directions": 1,
+    "framesPerDirection": 21,
+    "frameWidth": 131,
+    "frameHeight": 160,
+    "originX": 66,
+    "originY": 127,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "bear_into": {
+    "file": "sprites/overlays/druidmorph.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 161,
+    "frameHeight": 217,
+    "originX": 79,
+    "originY": 136,
+    "fps": 31.25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "bear_undo": {
+    "file": "sprites/overlays/druidmorph.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 161,
+    "frameHeight": 217,
+    "originX": 79,
+    "originY": 136,
+    "fps": 15.625,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "feralrage1": {
+    "file": "sprites/overlays/feral_rage_a_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 113,
+    "frameHeight": 53,
+    "originX": 56,
+    "originY": 44,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "feralrage5": {
+    "file": "sprites/overlays/feral_rage_e_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 133,
+    "frameHeight": 76,
+    "originX": 66,
+    "originY": 55,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "feralrage1back": {
+    "file": "sprites/overlays/feral_rage_a_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 103,
+    "frameHeight": 61,
+    "originX": 51,
+    "originY": 60,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "feralrage5back": {
+    "file": "sprites/overlays/feral_rage_e_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 125,
+    "frameHeight": 71,
+    "originX": 62,
+    "originY": 70,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "maul1": {
+    "file": "sprites/overlays/maul_a_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 127,
+    "frameHeight": 54,
+    "originX": 63,
+    "originY": 42,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "maul5": {
+    "file": "sprites/overlays/maul_e_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 178,
+    "frameHeight": 110,
+    "originX": 90,
+    "originY": 70,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "maul1back": {
+    "file": "sprites/overlays/maul_a_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 117,
+    "frameHeight": 62,
+    "originX": 58,
+    "originY": 61,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "maul5back": {
+    "file": "sprites/overlays/maul_e_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 165,
+    "frameHeight": 95,
+    "originX": 80,
+    "originY": 86,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "druid_fire_cast_2": {
+    "file": "sprites/overlays/fire_overlay_b.png",
+    "directions": 1,
+    "framesPerDirection": 21,
+    "frameWidth": 144,
+    "frameHeight": 98,
+    "originX": 71,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "cyclonearmor1front": {
+    "file": "sprites/overlays/cyclonearmorafront.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 70,
+    "frameHeight": 60,
+    "originX": 35,
+    "originY": 59,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "cyclonearmor2front": {
+    "file": "sprites/overlays/cyclonearmorbfront.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 59,
+    "frameHeight": 56,
+    "originX": 29,
+    "originY": 56,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "cyclonearmor3front": {
+    "file": "sprites/overlays/cyclonearmorcfront.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 66,
+    "frameHeight": 46,
+    "originX": 33,
+    "originY": 41,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "rabiesplague": {
+    "file": "sprites/overlays/rabies.png",
+    "directions": 1,
+    "framesPerDirection": 30,
+    "frameWidth": 78,
+    "frameHeight": 71,
+    "originX": 39,
+    "originY": 62,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ]
+  },
+  "fire_hit": {
+    "file": "sprites/overlays/firehit.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 59,
+    "frameHeight": 55,
+    "originX": 29,
+    "originY": 73,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "druid"
+    ],
+    "light": {
+      "radius": 1,
+      "color": 16761191
+    }
+  },
+  "bonearmor_front": {
+    "file": "sprites/overlays/boneshieldfront.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 102,
+    "frameHeight": 63,
+    "originX": 51,
+    "originY": 63,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "bonearmor_back": {
+    "file": "sprites/overlays/boneshieldback.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 102,
+    "frameHeight": 63,
+    "originX": 51,
+    "originY": 63,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "bonearmor_cast": {
+    "file": "sprites/overlays/boneshieldemerge.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 80,
+    "frameHeight": 44,
+    "originX": 31,
+    "originY": 48,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer"
+    ]
+  },
+  "aura_thorns_front": {
+    "file": "sprites/overlays/aurathornsfront.png",
+    "directions": 1,
+    "framesPerDirection": 18,
+    "frameWidth": 89,
+    "frameHeight": 31,
+    "originX": 45,
+    "originY": 6,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer",
+      "paladin"
+    ]
+  },
+  "aura_thorns_back": {
+    "file": "sprites/overlays/aurathornsback.png",
+    "directions": 1,
+    "framesPerDirection": 18,
+    "frameWidth": 88,
+    "frameHeight": 30,
+    "originX": 44,
+    "originY": 25,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "necromancer",
+      "paladin"
+    ]
+  },
+  "aura_might_front": {
+    "file": "sprites/overlays/auramightfront.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 72,
+    "frameHeight": 26,
+    "originX": 36,
+    "originY": 7,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_might_back": {
+    "file": "sprites/overlays/auramightback.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 72,
+    "frameHeight": 27,
+    "originX": 36,
+    "originY": 21,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_prayer_front": {
+    "file": "sprites/overlays/auraprayerfront.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 83,
+    "frameHeight": 49,
+    "originX": 42,
+    "originY": 23,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_prayer_back": {
+    "file": "sprites/overlays/auraprayerback.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 83,
+    "frameHeight": 36,
+    "originX": 42,
+    "originY": 30,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_resistfire": {
+    "file": "sprites/overlays/auraresistfirefront.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 77,
+    "frameHeight": 45,
+    "originX": 40,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16761191
+    }
+  },
+  "cast_resistfire": {
+    "file": "sprites/overlays/auraresistfirefrontcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 119,
+    "frameHeight": 45,
+    "originX": 59,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 16761191
+    }
+  },
+  "cast_undead": {
+    "file": "sprites/overlays/holyboltcloud.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 183,
+    "frameHeight": 129,
+    "originX": 93,
+    "originY": 110,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_holyfire_front": {
+    "file": "sprites/overlays/auraholyfirefront.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 89,
+    "frameHeight": 35,
+    "originX": 44,
+    "originY": 10,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_holyfire_back": {
+    "file": "sprites/overlays/auraholyfireback.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 89,
+    "frameHeight": 34,
+    "originX": 44,
+    "originY": 26,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_defiance_front": {
+    "file": "sprites/overlays/auradefiancefront.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 74,
+    "frameHeight": 47,
+    "originX": 38,
+    "originY": 24,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_defiance_back": {
+    "file": "sprites/overlays/auradefianceback.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 75,
+    "frameHeight": 38,
+    "originX": 38,
+    "originY": 29,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_resistcold": {
+    "file": "sprites/overlays/auraresistcoldback.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 80,
+    "frameHeight": 46,
+    "originX": 41,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 13816575
+    }
+  },
+  "cast_resistcold": {
+    "file": "sprites/overlays/auraresistcoldbackcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 123,
+    "frameHeight": 45,
+    "originX": 62,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 13816575
+    }
+  },
+  "blessedaimfront": {
+    "file": "sprites/overlays/blessedaim_front.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 78,
+    "frameHeight": 25,
+    "originX": 39,
+    "originY": 5,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "blessedaimback": {
+    "file": "sprites/overlays/blessedaim_back.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 59,
+    "frameHeight": 22,
+    "originX": 27,
+    "originY": 19,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "cleansingfront": {
+    "file": "sprites/overlays/cleansing_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 97,
+    "frameHeight": 45,
+    "originX": 43,
+    "originY": 11,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "cleansingback": {
+    "file": "sprites/overlays/cleansing_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 93,
+    "frameHeight": 41,
+    "originX": 53,
+    "originY": 30,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_resistlight": {
+    "file": "sprites/overlays/auraresistlightningback.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 79,
+    "frameHeight": 45,
+    "originX": 41,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 16777160
+    }
+  },
+  "cast_resistlight": {
+    "file": "sprites/overlays/auraresistlightningbackcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 119,
+    "frameHeight": 45,
+    "originX": 59,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 16777160
+    }
+  },
+  "concentrationfront": {
+    "file": "sprites/overlays/concentration_front.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 108,
+    "frameHeight": 46,
+    "originX": 58,
+    "originY": 12,
+    "fps": 4.6875,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "concentrationback": {
+    "file": "sprites/overlays/concentration_back.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 122,
+    "frameHeight": 43,
+    "originX": 60,
+    "originY": 32,
+    "fps": 4.6875,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "holyfreeze": {
+    "file": "sprites/overlays/holyfreeze.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 114,
+    "frameHeight": 93,
+    "originX": 57,
+    "originY": 50,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "ice_explode": {
+    "file": "sprites/overlays/iceexplode.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 83,
+    "frameHeight": 110,
+    "originX": 43,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin",
+      "sorceress"
+    ],
+    "light": {
+      "radius": 14,
+      "color": 13816575
+    }
+  },
+  "staminafront": {
+    "file": "sprites/overlays/stamina_front.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 94,
+    "frameHeight": 46,
+    "originX": 44,
+    "originY": 15,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "staminaback": {
+    "file": "sprites/overlays/stamina_back.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 91,
+    "frameHeight": 44,
+    "originX": 51,
+    "originY": 30,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "conversionaura": {
+    "file": "sprites/overlays/conversion.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 46,
+    "frameHeight": 52,
+    "originX": 23,
+    "originY": 81,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "holyshockfront": {
+    "file": "sprites/overlays/holyshock_front.png",
+    "directions": 1,
+    "framesPerDirection": 14,
+    "frameWidth": 72,
+    "frameHeight": 25,
+    "originX": 37,
+    "originY": 5,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "holyshockback": {
+    "file": "sprites/overlays/holyshock_back.png",
+    "directions": 1,
+    "framesPerDirection": 14,
+    "frameWidth": 67,
+    "frameHeight": 19,
+    "originX": 35,
+    "originY": 19,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "sanctuaryfront": {
+    "file": "sprites/overlays/sanctuaryaura_front.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 119,
+    "frameHeight": 30,
+    "originX": 59,
+    "originY": 1,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "sanctuaryback": {
+    "file": "sprites/overlays/sanctuaryaura_back.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 119,
+    "frameHeight": 31,
+    "originX": 59,
+    "originY": 32,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "meditationfront": {
+    "file": "sprites/overlays/meditation.png",
+    "directions": 1,
+    "framesPerDirection": 13,
+    "frameWidth": 92,
+    "frameHeight": 94,
+    "originX": 49,
+    "originY": 81,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "handofgod": {
+    "file": "sprites/overlays/holyshockhit.png",
+    "directions": 1,
+    "framesPerDirection": 21,
+    "frameWidth": 62,
+    "frameHeight": 256,
+    "originX": 29,
+    "originY": 240,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 2,
+      "color": 16777215
+    }
+  },
+  "fanaticismfront": {
+    "file": "sprites/overlays/fanatacism_front.png",
+    "directions": 1,
+    "framesPerDirection": 30,
+    "frameWidth": 108,
+    "frameHeight": 46,
+    "originX": 58,
+    "originY": 12,
+    "fps": 9.375,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "fanaticismback": {
+    "file": "sprites/overlays/fanatacism_back.png",
+    "directions": 1,
+    "framesPerDirection": 30,
+    "frameWidth": 122,
+    "frameHeight": 43,
+    "originX": 60,
+    "originY": 32,
+    "fps": 9.375,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "convictionback": {
+    "file": "sprites/overlays/conviction.png",
+    "directions": 1,
+    "framesPerDirection": 21,
+    "frameWidth": 109,
+    "frameHeight": 51,
+    "originX": 54,
+    "originY": 26,
+    "fps": 9.375,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "redemptionback": {
+    "file": "sprites/overlays/redemption.png",
+    "directions": 1,
+    "framesPerDirection": 12,
+    "frameWidth": 104,
+    "frameHeight": 60,
+    "originX": 53,
+    "originY": 27,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "aura_resistall_front": {
+    "file": "sprites/overlays/auraresistallfront.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 78,
+    "frameHeight": 46,
+    "originX": 40,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 13866239
+    }
+  },
+  "aura_resistall_back": {
+    "file": "sprites/overlays/auraresistallback.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 79,
+    "frameHeight": 45,
+    "originX": 41,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 13866239
+    }
+  },
+  "cast_resistall": {
+    "file": "sprites/overlays/auraresistallcast.png",
+    "directions": 1,
+    "framesPerDirection": 20,
+    "frameWidth": 90,
+    "frameHeight": 44,
+    "originX": 47,
+    "originY": 24,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ],
+    "light": {
+      "radius": 10,
+      "color": 13866239
+    }
+  },
+  "healing": {
+    "file": "sprites/overlays/overlayh.png",
+    "directions": 1,
+    "framesPerDirection": 17,
+    "frameWidth": 113,
+    "frameHeight": 95,
+    "originX": 52,
+    "originY": 89,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "paladin"
+    ]
+  },
+  "fire_cast_1": {
+    "file": "sprites/overlays/firecast_for_sorceress.png",
+    "directions": 1,
+    "framesPerDirection": 14,
+    "frameWidth": 117,
+    "frameHeight": 164,
+    "originX": 55,
+    "originY": 127,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 16757312
+    }
+  },
+  "ice_cast_1": {
+    "file": "sprites/overlays/icecastnew01.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 97,
+    "frameHeight": 55,
+    "originX": 49,
+    "originY": 90,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 5329407
+    }
+  },
+  "frozenarmor_hit": {
+    "file": "sprites/overlays/auraresistcoldcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 104,
+    "frameHeight": 191,
+    "originX": 56,
+    "originY": 133,
+    "fps": 37.5,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 5329407
+    }
+  },
+  "frozenarmor": {
+    "file": "sprites/overlays/frozenarmor.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 72,
+    "frameHeight": 122,
+    "originX": 36,
+    "originY": 107,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 13,
+      "color": 13158655
+    }
+  },
+  "light_cast_2": {
+    "file": "sprites/overlays/lightningcastrunesfront.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 147,
+    "frameHeight": 190,
+    "originX": 73,
+    "originY": 154,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 16777215
+    }
+  },
+  "ice_cast_2": {
+    "file": "sprites/overlays/icecastnew02.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 115,
+    "frameHeight": 123,
+    "originX": 58,
+    "originY": 100,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 5329407
+    }
+  },
+  "fire_cast_2": {
+    "file": "sprites/overlays/firecast2.png",
+    "directions": 1,
+    "framesPerDirection": 16,
+    "frameWidth": 145,
+    "frameHeight": 133,
+    "originX": 74,
+    "originY": 89,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 16757312
+    }
+  },
+  "shiverarmor_hit": {
+    "file": "sprites/overlays/auraresistcoldcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 104,
+    "frameHeight": 191,
+    "originX": 56,
+    "originY": 133,
+    "fps": 37.5,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 5329407
+    }
+  },
+  "shiverarmor": {
+    "file": "sprites/overlays/frozenarmor.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 72,
+    "frameHeight": 122,
+    "originX": 36,
+    "originY": 107,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 13,
+      "color": 13158655
+    }
+  },
+  "enchant": {
+    "file": "sprites/overlays/fireenchant.png",
+    "directions": 1,
+    "framesPerDirection": 17,
+    "frameWidth": 116,
+    "frameHeight": 135,
+    "originX": 57,
+    "originY": 106,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 16757312
+    }
+  },
+  "teleport": {
+    "file": "sprites/overlays/teleport.png",
+    "directions": 1,
+    "framesPerDirection": 18,
+    "frameWidth": 136,
+    "frameHeight": 154,
+    "originX": 61,
+    "originY": 108,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 5,
+      "color": 16777160
+    }
+  },
+  "thunderstormback": {
+    "file": "sprites/overlays/thunderstormcast_operate.png",
+    "directions": 1,
+    "framesPerDirection": 19,
+    "frameWidth": 81,
+    "frameHeight": 60,
+    "originX": 41,
+    "originY": 21,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 8,
+      "color": 16777215
+    }
+  },
+  "thunderstormcast": {
+    "file": "sprites/overlays/thunderstormcast.png",
+    "directions": 1,
+    "framesPerDirection": 10,
+    "frameWidth": 79,
+    "frameHeight": 52,
+    "originX": 39,
+    "originY": 30,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 8,
+      "color": 16777215
+    }
+  },
+  "energyshield": {
+    "file": "sprites/overlays/manashieldball.png",
+    "directions": 1,
+    "framesPerDirection": 8,
+    "frameWidth": 21,
+    "frameHeight": 21,
+    "originX": 11,
+    "originY": 94,
+    "fps": 12.5,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ]
+  },
+  "ice_cast_3": {
+    "file": "sprites/overlays/icecastnew03.png",
+    "directions": 1,
+    "framesPerDirection": 15,
+    "frameWidth": 127,
+    "frameHeight": 148,
+    "originX": 63,
+    "originY": 113,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 9,
+      "color": 5329407
+    }
+  },
+  "chillarmor_hit": {
+    "file": "sprites/overlays/auraresistcoldcast.png",
+    "directions": 1,
+    "framesPerDirection": 11,
+    "frameWidth": 104,
+    "frameHeight": 191,
+    "originX": 56,
+    "originY": 133,
+    "fps": 37.5,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 6,
+      "color": 5329407
+    }
+  },
+  "chillarmor": {
+    "file": "sprites/overlays/frozenarmor.png",
+    "directions": 1,
+    "framesPerDirection": 24,
+    "frameWidth": 72,
+    "frameHeight": 122,
+    "originX": 36,
+    "originY": 107,
+    "fps": 25,
+    "blend": "add",
+    "classes": [
+      "sorceress"
+    ],
+    "light": {
+      "radius": 13,
+      "color": 13158655
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "title": "frontend/title.png",
+  "menu": "frontend/menu.png",
+  "credits": "frontend/credits.png",
+  "logo": {
+    "x": 400,
+    "y": 120,
+    "layers": [
+      {
+        "file": "frontend/logo-d2logoblackleft.png",
+        "frames": 30,
+        "columns": 25,
+        "width": 159,
+        "height": 122,
+        "originX": 169,
+        "originY": 75,
+        "fps": 25
+      },
+      {
+        "file": "frontend/logo-d2logoblackright.png",
+        "frames": 30,
+        "columns": 25,
+        "width": 159,
+        "height": 122,
+        "originX": -9,
+        "originY": 75,
+        "fps": 25
+      },
+      {
+        "file": "frontend/logo-d2logofireleft.png",
+        "frames": 30,
+        "columns": 23,
+        "width": 178,
+        "height": 165,
+        "originX": 180,
+        "originY": 111,
+        "fps": 25,
+        "blend": "add"
+      },
+      {
+        "file": "frontend/logo-d2logofireright.png",
+        "frames": 30,
+        "columns": 22,
+        "width": 184,
+        "height": 171,
+        "originX": 4,
+        "originY": 110,
+        "fps": 25,
+        "blend": "add"
+      }
+    ]
+  },
+  "heroSelect": {
+    "background": "frontend/heroselect.png",
+    "fire": {
+      "file": "frontend/campfire.png",
+      "frames": 30,
+      "columns": 30,
+      "width": 110,
+      "height": 176,
+      "originX": 34,
+      "originY": 44,
+      "fps": 25,
+      "blend": "add",
+      "x": 380,
+      "y": 335
+    },
+    "heroes": {
+      "amazon": {
+        "x": 100,
+        "y": 339,
+        "idle": {
+          "file": "frontend/heroes/amazon-nu1.png",
+          "frames": 26,
+          "columns": 26,
+          "width": 119,
+          "height": 198,
+          "originX": 76,
+          "originY": 118,
+          "fps": 20
+        },
+        "hover": {
+          "file": "frontend/heroes/amazon-nu2.png",
+          "frames": 26,
+          "columns": 26,
+          "width": 119,
+          "height": 198,
+          "originX": 76,
+          "originY": 118,
+          "fps": 20
+        },
+        "forward": {
+          "file": "frontend/heroes/amazon-fw.png",
+          "frames": 54,
+          "columns": 16,
+          "width": 246,
+          "height": 262,
+          "originX": 158,
+          "originY": 148,
+          "fps": 25
+        },
+        "forwardOverlay": {
+          "file": "frontend/heroes/amazon-fws.png",
+          "frames": 44,
+          "columns": 14,
+          "width": 287,
+          "height": 275,
+          "originX": 187,
+          "originY": 171,
+          "fps": 25
+        },
+        "selected": {
+          "file": "frontend/heroes/amazon-nu3.png",
+          "frames": 18,
+          "columns": 18,
+          "width": 123,
+          "height": 234,
+          "originX": 69,
+          "originY": 127,
+          "fps": 13.33
+        },
+        "back": {
+          "file": "frontend/heroes/amazon-bw.png",
+          "frames": 30,
+          "columns": 30,
+          "width": 130,
+          "height": 233,
+          "originX": 73,
+          "originY": 127,
+          "fps": 25
+        },
+        "hit": [
+          69,
+          221,
+          73,
+          198
+        ],
+        "description": "Skilled with the spear and the bow, she is a very versatile fighter."
+      },
+      "assassin": {
+        "x": 231,
+        "y": 365,
+        "idle": {
+          "file": "frontend/heroes/assassin-nu1.png",
+          "frames": 31,
+          "columns": 31,
+          "width": 52,
+          "height": 189,
+          "originX": 56,
+          "originY": 135,
+          "fps": 20.67
+        },
+        "hover": {
+          "file": "frontend/heroes/assassin-nu2.png",
+          "frames": 31,
+          "columns": 31,
+          "width": 52,
+          "height": 189,
+          "originX": 56,
+          "originY": 135,
+          "fps": 20.67
+        },
+        "forward": {
+          "file": "frontend/heroes/assassin-fw.png",
+          "frames": 91,
+          "columns": 17,
+          "width": 236,
+          "height": 211,
+          "originX": 107,
+          "originY": 144,
+          "fps": 25
+        },
+        "selected": {
+          "file": "frontend/heroes/assassin-nu3.png",
+          "frames": 31,
+          "columns": 31,
+          "width": 86,
+          "height": 187,
+          "originX": 41,
+          "originY": 120,
+          "fps": 12.4
+        },
+        "back": {
+          "file": "frontend/heroes/assassin-bw.png",
+          "frames": 51,
+          "columns": 35,
+          "width": 117,
+          "height": 203,
+          "originX": 72,
+          "originY": 135,
+          "fps": 25
+        },
+        "hit": [
+          177,
+          230,
+          48,
+          189
+        ],
+        "description": "Schooled in the Martial Arts, her mind and body are deadly weapons."
+      },
+      "necromancer": {
+        "x": 300,
+        "y": 335,
+        "idle": {
+          "file": "frontend/heroes/necromancer-nu1.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 60,
+          "height": 183,
+          "originX": 31,
+          "originY": 120,
+          "fps": 10
+        },
+        "hover": {
+          "file": "frontend/heroes/necromancer-nu2.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 60,
+          "height": 183,
+          "originX": 31,
+          "originY": 120,
+          "fps": 10
+        },
+        "forward": {
+          "file": "frontend/heroes/necromancer-fw.png",
+          "frames": 38,
+          "columns": 25,
+          "width": 160,
+          "height": 233,
+          "originX": 82,
+          "originY": 131,
+          "fps": 25
+        },
+        "forwardOverlay": {
+          "file": "frontend/heroes/necromancer-fws.png",
+          "frames": 38,
+          "columns": 21,
+          "width": 194,
+          "height": 242,
+          "originX": 95,
+          "originY": 241,
+          "fps": 25,
+          "blend": "add"
+        },
+        "selected": {
+          "file": "frontend/heroes/necromancer-nu3.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 131,
+          "height": 233,
+          "originX": 51,
+          "originY": 131,
+          "fps": 10
+        },
+        "selectedOverlay": {
+          "file": "frontend/heroes/necromancer-nu3s.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 182,
+          "height": 243,
+          "originX": 82,
+          "originY": 241,
+          "fps": 10,
+          "blend": "add"
+        },
+        "back": {
+          "file": "frontend/heroes/necromancer-bw.png",
+          "frames": 28,
+          "columns": 25,
+          "width": 162,
+          "height": 235,
+          "originX": 79,
+          "originY": 133,
+          "fps": 25
+        },
+        "backOverlay": {
+          "file": "frontend/heroes/necromancer-bws.png",
+          "frames": 28,
+          "columns": 21,
+          "width": 190,
+          "height": 242,
+          "originX": 90,
+          "originY": 241,
+          "fps": 25,
+          "blend": "add"
+        },
+        "hit": [
+          270,
+          215,
+          53,
+          183
+        ],
+        "description": "Summoning undead minions and cursing his enemies are his specialties."
+      },
+      "barbarian": {
+        "x": 400,
+        "y": 330,
+        "idle": {
+          "file": "frontend/heroes/barbarian-nu1.png",
+          "frames": 16,
+          "columns": 16,
+          "width": 87,
+          "height": 183,
+          "originX": 39,
+          "originY": 132,
+          "fps": 6.4
+        },
+        "hover": {
+          "file": "frontend/heroes/barbarian-nu2.png",
+          "frames": 16,
+          "columns": 16,
+          "width": 87,
+          "height": 183,
+          "originX": 39,
+          "originY": 132,
+          "fps": 6.4
+        },
+        "forward": {
+          "file": "frontend/heroes/barbarian-fw.png",
+          "frames": 64,
+          "columns": 24,
+          "width": 170,
+          "height": 227,
+          "originX": 87,
+          "originY": 147,
+          "fps": 25
+        },
+        "forwardOverlay": {
+          "file": "frontend/heroes/barbarian-fws.png",
+          "frames": 64,
+          "columns": 23,
+          "width": 177,
+          "height": 245,
+          "originX": 79,
+          "originY": 187,
+          "fps": 25
+        },
+        "selected": {
+          "file": "frontend/heroes/barbarian-nu3.png",
+          "frames": 26,
+          "columns": 26,
+          "width": 97,
+          "height": 203,
+          "originX": 52,
+          "originY": 135,
+          "fps": 25
+        },
+        "back": {
+          "file": "frontend/heroes/barbarian-bw.png",
+          "frames": 19,
+          "columns": 19,
+          "width": 117,
+          "height": 202,
+          "originX": 50,
+          "originY": 134,
+          "fps": 25
+        },
+        "hit": [
+          364,
+          198,
+          82,
+          183
+        ],
+        "description": "He is unequaled in close-quarters combat and mastery of weapons."
+      },
+      "paladin": {
+        "x": 521,
+        "y": 338,
+        "idle": {
+          "file": "frontend/heroes/paladin-nu1.png",
+          "frames": 26,
+          "columns": 26,
+          "width": 84,
+          "height": 179,
+          "originX": 35,
+          "originY": 127,
+          "fps": 10.4
+        },
+        "hover": {
+          "file": "frontend/heroes/paladin-nu2.png",
+          "frames": 26,
+          "columns": 26,
+          "width": 84,
+          "height": 179,
+          "originX": 35,
+          "originY": 127,
+          "fps": 10.4
+        },
+        "forward": {
+          "file": "frontend/heroes/paladin-fw.png",
+          "frames": 80,
+          "columns": 21,
+          "width": 189,
+          "height": 247,
+          "originX": 115,
+          "originY": 149,
+          "fps": 25
+        },
+        "forwardOverlay": {
+          "file": "frontend/heroes/paladin-fws.png",
+          "frames": 80,
+          "columns": 21,
+          "width": 188,
+          "height": 215,
+          "originX": 117,
+          "originY": 184,
+          "fps": 25
+        },
+        "selected": {
+          "file": "frontend/heroes/paladin-nu3.png",
+          "frames": 9,
+          "columns": 9,
+          "width": 132,
+          "height": 173,
+          "originX": 117,
+          "originY": 75,
+          "fps": 13.85
+        },
+        "back": {
+          "file": "frontend/heroes/paladin-bw.png",
+          "frames": 40,
+          "columns": 24,
+          "width": 169,
+          "height": 226,
+          "originX": 117,
+          "originY": 128,
+          "fps": 25
+        },
+        "hit": [
+          487,
+          211,
+          81,
+          179
+        ],
+        "description": "He is a natural party leader, holy man, and blessed warrior."
+      },
+      "sorceress": {
+        "x": 626,
+        "y": 352,
+        "idle": {
+          "file": "frontend/heroes/sorceress-nu1.png",
+          "frames": 32,
+          "columns": 32,
+          "width": 93,
+          "height": 166,
+          "originX": 64,
+          "originY": 113,
+          "fps": 12.8
+        },
+        "hover": {
+          "file": "frontend/heroes/sorceress-nu2.png",
+          "frames": 32,
+          "columns": 32,
+          "width": 93,
+          "height": 166,
+          "originX": 64,
+          "originY": 113,
+          "fps": 12.8
+        },
+        "forward": {
+          "file": "frontend/heroes/sorceress-fw.png",
+          "frames": 52,
+          "columns": 34,
+          "width": 119,
+          "height": 222,
+          "originX": 64,
+          "originY": 139,
+          "fps": 25
+        },
+        "forwardOverlay": {
+          "file": "frontend/heroes/sorceress-fws.png",
+          "frames": 52,
+          "columns": 39,
+          "width": 105,
+          "height": 95,
+          "originX": 64,
+          "originY": 170,
+          "fps": 25,
+          "blend": "add"
+        },
+        "selected": {
+          "file": "frontend/heroes/sorceress-nu3.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 109,
+          "height": 209,
+          "originX": 52,
+          "originY": 135,
+          "fps": 25
+        },
+        "selectedOverlay": {
+          "file": "frontend/heroes/sorceress-nu3s.png",
+          "frames": 12,
+          "columns": 12,
+          "width": 107,
+          "height": 77,
+          "originX": 57,
+          "originY": 180,
+          "fps": 25,
+          "blend": "add"
+        },
+        "back": {
+          "file": "frontend/heroes/sorceress-bw.png",
+          "frames": 30,
+          "columns": 30,
+          "width": 134,
+          "height": 212,
+          "originX": 73,
+          "originY": 138,
+          "fps": 25
+        },
+        "backOverlay": {
+          "file": "frontend/heroes/sorceress-bws.png",
+          "frames": 30,
+          "columns": 30,
+          "width": 123,
+          "height": 96,
+          "originX": 73,
+          "originY": 179,
+          "fps": 25,
+          "blend": "add"
+        },
+        "hit": [
+          571,
+          239,
+          78,
+          166
+        ],
+        "description": "She has mastered the elemental magicks -- fire, lightning, and ice."
+      },
+      "druid": {
+        "x": 720,
+        "y": 370,
+        "idle": {
+          "file": "frontend/heroes/druid-nu1.png",
+          "frames": 21,
+          "columns": 21,
+          "width": 87,
+          "height": 199,
+          "originX": 40,
+          "originY": 151,
+          "fps": 14
+        },
+        "hover": {
+          "file": "frontend/heroes/druid-nu2.png",
+          "frames": 21,
+          "columns": 21,
+          "width": 87,
+          "height": 199,
+          "originX": 40,
+          "originY": 151,
+          "fps": 14
+        },
+        "forward": {
+          "file": "frontend/heroes/druid-fw.png",
+          "frames": 121,
+          "columns": 28,
+          "width": 145,
+          "height": 244,
+          "originX": 91,
+          "originY": 166,
+          "fps": 25
+        },
+        "selected": {
+          "file": "frontend/heroes/druid-nu3.png",
+          "frames": 21,
+          "columns": 21,
+          "width": 112,
+          "height": 241,
+          "originX": 75,
+          "originY": 163,
+          "fps": 14
+        },
+        "back": {
+          "file": "frontend/heroes/druid-bw.png",
+          "frames": 40,
+          "columns": 32,
+          "width": 127,
+          "height": 241,
+          "originX": 75,
+          "originY": 163,
+          "fps": 25
+        },
+        "hit": [
+          684,
+          219,
+          65,
+          199
+        ],
+        "description": "Commanding the forces of nature, he summons wild beasts and raging storms to his side."
+      }
+    },
+    "heading": "Select Hero Class"
+  },
+  "loading": {
+    "file": "frontend/loading.png",
+    "frames": 10,
+    "columns": 10,
+    "width": 256,
+    "height": 256,
+    "originX": 0,
+    "originY": 256,
+    "fps": 25
+  },
+  "buttons": {
+    "wide": [
+      "frontend/button-wide.png",
+      "frontend/button-wide-down.png"
+    ],
+    "medium": [
+      "frontend/button-medium.png",
+      "frontend/button-medium-down.png"
+    ]
+  },
+  "options": {
+    "bar": "frontend/optbar.png",
+    "skull": "frontend/optskull.png",
+    "pentagram": {
+      "file": "frontend/pentspin.png",
+      "frames": 8,
+      "columns": 8,
+      "width": 52,
+      "height": 53,
+      "originX": 1,
+      "originY": 53,
+      "fps": 20
+    }
+  },
+  "popup": "frontend/popup.png",
+  "audio": {
+    "sounds": {
+      "select.amazon": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/amazon-select.m4a"
+          }
+        ]
+      },
+      "deselect.amazon": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/amazon-deselect.m4a"
+          }
+        ]
+      },
+      "select.assassin": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/assassin-select.m4a"
+          }
+        ]
+      },
+      "deselect.assassin": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/assassin-deselect.m4a"
+          }
+        ]
+      },
+      "select.necromancer": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/necromancer-select.m4a"
+          }
+        ]
+      },
+      "deselect.necromancer": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/necromancer-deselect.m4a"
+          }
+        ]
+      },
+      "select.barbarian": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/barbarian-select.m4a"
+          }
+        ]
+      },
+      "deselect.barbarian": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/barbarian-deselect.m4a"
+          }
+        ]
+      },
+      "select.paladin": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/paladin-select.m4a"
+          }
+        ]
+      },
+      "deselect.paladin": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/paladin-deselect.m4a"
+          }
+        ]
+      },
+      "select.sorceress": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/sorceress-select.m4a"
+          }
+        ]
+      },
+      "deselect.sorceress": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/sorceress-deselect.m4a"
+          }
+        ]
+      },
+      "select.druid": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/druid-select.m4a"
+          }
+        ]
+      },
+      "deselect.druid": {
+        "volume": 1,
+        "variants": [
+          {
+            "file": "frontend/sounds/druid-deselect.m4a"
+          }
+        ]
+      }
+    },
+    "music": {
+      "title": {
+        "file": "frontend/title.m4a",
+        "volume": 0.43137254901960786
+      }
+    }
+  }
+}

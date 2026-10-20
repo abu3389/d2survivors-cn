@@ -1,0 +1,7215 @@
+{
+  "amazon": {
+    "NU": {
+      "file": "sprites/classes/amazon-BOW-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 82,
+      "originX": 37,
+      "originY": 66,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/amazon-BOW-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 82,
+      "originX": 36,
+      "originY": 67,
+      "fps": 25
+    },
+    "RN": {
+      "file": "sprites/classes/amazon-BOW-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 82,
+      "originX": 40,
+      "originY": 67,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/amazon-BOW-GH.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 76,
+      "frameHeight": 87,
+      "originX": 38,
+      "originY": 71,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/amazon-BOW-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 62,
+      "frameHeight": 80,
+      "originX": 31,
+      "originY": 69,
+      "fps": 7.8125
+    },
+    "TW": {
+      "file": "sprites/classes/amazon-BOW-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 82,
+      "originX": 34,
+      "originY": 69,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/amazon-BOW-A1.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 85,
+      "frameHeight": 98,
+      "originX": 43,
+      "originY": 82,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/amazon-BOW-SC.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 85,
+      "frameHeight": 110,
+      "originX": 42,
+      "originY": 94,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/amazon-BOW-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 118,
+      "frameHeight": 100,
+      "originX": 60,
+      "originY": 83,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/amazon-BOW-S1.png",
+      "directions": 16,
+      "framesPerDirection": 9,
+      "frameWidth": 108,
+      "frameHeight": 86,
+      "originX": 54,
+      "originY": 66,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/amazon-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 23,
+      "frameWidth": 158,
+      "frameHeight": 120,
+      "originX": 79,
+      "originY": 72,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/amazon-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 158,
+      "frameHeight": 78,
+      "originX": 79,
+      "originY": 30,
+      "fps": 25
+    },
+    "BOW-NU": {
+      "file": "sprites/classes/amazon-BOW-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 82,
+      "originX": 37,
+      "originY": 66,
+      "fps": 12.5
+    },
+    "BOW-WL": {
+      "file": "sprites/classes/amazon-BOW-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 82,
+      "originX": 36,
+      "originY": 67,
+      "fps": 25
+    },
+    "BOW-RN": {
+      "file": "sprites/classes/amazon-BOW-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 82,
+      "originX": 40,
+      "originY": 67,
+      "fps": 25
+    },
+    "BOW-GH": {
+      "file": "sprites/classes/amazon-BOW-GH.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 76,
+      "frameHeight": 87,
+      "originX": 38,
+      "originY": 71,
+      "fps": 25
+    },
+    "BOW-TN": {
+      "file": "sprites/classes/amazon-BOW-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 62,
+      "frameHeight": 80,
+      "originX": 31,
+      "originY": 69,
+      "fps": 7.8125
+    },
+    "BOW-TW": {
+      "file": "sprites/classes/amazon-BOW-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 82,
+      "originX": 34,
+      "originY": 69,
+      "fps": 25
+    },
+    "BOW-A1": {
+      "file": "sprites/classes/amazon-BOW-A1.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 85,
+      "frameHeight": 98,
+      "originX": 43,
+      "originY": 82,
+      "fps": 25
+    },
+    "BOW-SC": {
+      "file": "sprites/classes/amazon-BOW-SC.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 85,
+      "frameHeight": 110,
+      "originX": 42,
+      "originY": 94,
+      "fps": 25
+    },
+    "BOW-KK": {
+      "file": "sprites/classes/amazon-BOW-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 118,
+      "frameHeight": 100,
+      "originX": 60,
+      "originY": 83,
+      "fps": 25
+    },
+    "BOW-S1": {
+      "file": "sprites/classes/amazon-BOW-S1.png",
+      "directions": 16,
+      "framesPerDirection": 9,
+      "frameWidth": 108,
+      "frameHeight": 86,
+      "originX": 54,
+      "originY": 66,
+      "fps": 25
+    },
+    "1HT-NU": {
+      "file": "sprites/classes/amazon-1HT-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 104,
+      "frameHeight": 92,
+      "originX": 52,
+      "originY": 76,
+      "fps": 12.5
+    },
+    "1HT-WL": {
+      "file": "sprites/classes/amazon-1HT-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 99,
+      "frameHeight": 96,
+      "originX": 50,
+      "originY": 81,
+      "fps": 25
+    },
+    "1HT-RN": {
+      "file": "sprites/classes/amazon-1HT-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 94,
+      "frameHeight": 99,
+      "originX": 48,
+      "originY": 84,
+      "fps": 25
+    },
+    "1HT-GH": {
+      "file": "sprites/classes/amazon-1HT-GH.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 104,
+      "frameHeight": 104,
+      "originX": 52,
+      "originY": 88,
+      "fps": 25
+    },
+    "1HT-TN": {
+      "file": "sprites/classes/amazon-1HT-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 87,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 69,
+      "fps": 7.8125
+    },
+    "1HT-TW": {
+      "file": "sprites/classes/amazon-1HT-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 92,
+      "frameHeight": 82,
+      "originX": 46,
+      "originY": 69,
+      "fps": 25
+    },
+    "1HT-A1": {
+      "file": "sprites/classes/amazon-1HT-A1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 151,
+      "frameHeight": 99,
+      "originX": 76,
+      "originY": 77,
+      "fps": 25
+    },
+    "1HT-A2": {
+      "file": "sprites/classes/amazon-1HT-A2.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 165,
+      "frameHeight": 111,
+      "originX": 82,
+      "originY": 91,
+      "fps": 25
+    },
+    "1HT-BL": {
+      "file": "sprites/classes/amazon-1HT-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 104,
+      "frameHeight": 92,
+      "originX": 52,
+      "originY": 76,
+      "fps": 25
+    },
+    "1HT-SC": {
+      "file": "sprites/classes/amazon-1HT-SC.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 104,
+      "frameHeight": 124,
+      "originX": 52,
+      "originY": 108,
+      "fps": 25
+    },
+    "1HT-TH": {
+      "file": "sprites/classes/amazon-1HT-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 145,
+      "frameHeight": 107,
+      "originX": 72,
+      "originY": 80,
+      "fps": 25
+    },
+    "1HT-KK": {
+      "file": "sprites/classes/amazon-1HT-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 118,
+      "frameHeight": 107,
+      "originX": 60,
+      "originY": 90,
+      "fps": 25
+    },
+    "1HT-S1": {
+      "file": "sprites/classes/amazon-1HT-S1.png",
+      "directions": 16,
+      "framesPerDirection": 9,
+      "frameWidth": 153,
+      "frameHeight": 97,
+      "originX": 76,
+      "originY": 75,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/amazon-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 23,
+      "frameWidth": 158,
+      "frameHeight": 120,
+      "originX": 79,
+      "originY": 72,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/amazon-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 158,
+      "frameHeight": 78,
+      "originX": 79,
+      "originY": 30,
+      "fps": 25
+    }
+  },
+  "assassin": {
+    "NU": {
+      "file": "sprites/classes/assassin-HT1-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 46,
+      "frameHeight": 75,
+      "originX": 23,
+      "originY": 67,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/assassin-HT1-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 42,
+      "frameHeight": 76,
+      "originX": 21,
+      "originY": 69,
+      "fps": 25
+    },
+    "RN": {
+      "file": "sprites/classes/assassin-HT1-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 62,
+      "frameHeight": 80,
+      "originX": 31,
+      "originY": 68,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/assassin-HT1-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 52,
+      "frameHeight": 79,
+      "originX": 26,
+      "originY": 71,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/assassin-HT1-TN.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 34,
+      "frameHeight": 77,
+      "originX": 17,
+      "originY": 69,
+      "fps": 6.25
+    },
+    "TW": {
+      "file": "sprites/classes/assassin-HT1-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 40,
+      "frameHeight": 76,
+      "originX": 20,
+      "originY": 69,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/assassin-HT1-A1.png",
+      "directions": 16,
+      "framesPerDirection": 11,
+      "frameWidth": 107,
+      "frameHeight": 88,
+      "originX": 53,
+      "originY": 76,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/assassin-HT1-A2.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 104,
+      "frameHeight": 76,
+      "originX": 52,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "BL": {
+      "file": "sprites/classes/assassin-HT1-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 53,
+      "frameHeight": 76,
+      "originX": 26,
+      "originY": 68,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/assassin-HT1-SC.png",
+      "directions": 16,
+      "framesPerDirection": 17,
+      "frameWidth": 78,
+      "frameHeight": 78,
+      "originX": 39,
+      "originY": 67,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/assassin-HT1-KK.png",
+      "directions": 16,
+      "framesPerDirection": 13,
+      "frameWidth": 91,
+      "frameHeight": 80,
+      "originX": 45,
+      "originY": 74,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/assassin-HT1-S1.png",
+      "directions": 16,
+      "framesPerDirection": 17,
+      "frameWidth": 90,
+      "frameHeight": 101,
+      "originX": 45,
+      "originY": 79,
+      "fps": 25
+    },
+    "S2": {
+      "file": "sprites/classes/assassin-HT1-S2.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 89,
+      "originX": 34,
+      "originY": 81,
+      "fps": 12.5
+    },
+    "S3": {
+      "file": "sprites/classes/assassin-HT1-S3.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 60,
+      "frameHeight": 76,
+      "originX": 30,
+      "originY": 67,
+      "fps": 25
+    },
+    "S4": {
+      "file": "sprites/classes/assassin-HT1-S4.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 69,
+      "frameHeight": 76,
+      "originX": 35,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DT": {
+      "file": "sprites/classes/assassin-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 117,
+      "frameHeight": 113,
+      "originX": 58,
+      "originY": 81,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/assassin-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 117,
+      "frameHeight": 62,
+      "originX": 58,
+      "originY": 30,
+      "fps": 25
+    },
+    "HT1-NU": {
+      "file": "sprites/classes/assassin-HT1-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 46,
+      "frameHeight": 75,
+      "originX": 23,
+      "originY": 67,
+      "fps": 12.5
+    },
+    "HT1-WL": {
+      "file": "sprites/classes/assassin-HT1-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 42,
+      "frameHeight": 76,
+      "originX": 21,
+      "originY": 69,
+      "fps": 25
+    },
+    "HT1-RN": {
+      "file": "sprites/classes/assassin-HT1-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 62,
+      "frameHeight": 80,
+      "originX": 31,
+      "originY": 68,
+      "fps": 25
+    },
+    "HT1-GH": {
+      "file": "sprites/classes/assassin-HT1-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 52,
+      "frameHeight": 79,
+      "originX": 26,
+      "originY": 71,
+      "fps": 25
+    },
+    "HT1-TN": {
+      "file": "sprites/classes/assassin-HT1-TN.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 34,
+      "frameHeight": 77,
+      "originX": 17,
+      "originY": 69,
+      "fps": 6.25
+    },
+    "HT1-TW": {
+      "file": "sprites/classes/assassin-HT1-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 40,
+      "frameHeight": 76,
+      "originX": 20,
+      "originY": 69,
+      "fps": 25
+    },
+    "HT1-A1": {
+      "file": "sprites/classes/assassin-HT1-A1.png",
+      "directions": 16,
+      "framesPerDirection": 11,
+      "frameWidth": 107,
+      "frameHeight": 88,
+      "originX": 53,
+      "originY": 76,
+      "fps": 20.3125
+    },
+    "HT1-A2": {
+      "file": "sprites/classes/assassin-HT1-A2.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 104,
+      "frameHeight": 76,
+      "originX": 52,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HT1-BL": {
+      "file": "sprites/classes/assassin-HT1-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 53,
+      "frameHeight": 76,
+      "originX": 26,
+      "originY": 68,
+      "fps": 25
+    },
+    "HT1-SC": {
+      "file": "sprites/classes/assassin-HT1-SC.png",
+      "directions": 16,
+      "framesPerDirection": 17,
+      "frameWidth": 78,
+      "frameHeight": 78,
+      "originX": 39,
+      "originY": 67,
+      "fps": 25
+    },
+    "HT1-KK": {
+      "file": "sprites/classes/assassin-HT1-KK.png",
+      "directions": 16,
+      "framesPerDirection": 13,
+      "frameWidth": 91,
+      "frameHeight": 80,
+      "originX": 45,
+      "originY": 74,
+      "fps": 25
+    },
+    "HT1-S1": {
+      "file": "sprites/classes/assassin-HT1-S1.png",
+      "directions": 16,
+      "framesPerDirection": 17,
+      "frameWidth": 90,
+      "frameHeight": 101,
+      "originX": 45,
+      "originY": 79,
+      "fps": 25
+    },
+    "HT1-S2": {
+      "file": "sprites/classes/assassin-HT1-S2.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 89,
+      "originX": 34,
+      "originY": 81,
+      "fps": 12.5
+    },
+    "HT1-S3": {
+      "file": "sprites/classes/assassin-HT1-S3.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 60,
+      "frameHeight": 76,
+      "originX": 30,
+      "originY": 67,
+      "fps": 25
+    },
+    "HT1-S4": {
+      "file": "sprites/classes/assassin-HT1-S4.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 69,
+      "frameHeight": 76,
+      "originX": 35,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HT2-NU": {
+      "file": "sprites/classes/assassin-HT2-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 46,
+      "frameHeight": 75,
+      "originX": 23,
+      "originY": 67,
+      "fps": 12.5
+    },
+    "HT2-WL": {
+      "file": "sprites/classes/assassin-HT2-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 53,
+      "frameHeight": 76,
+      "originX": 27,
+      "originY": 69,
+      "fps": 25
+    },
+    "HT2-RN": {
+      "file": "sprites/classes/assassin-HT2-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 80,
+      "originX": 36,
+      "originY": 68,
+      "fps": 25
+    },
+    "HT2-GH": {
+      "file": "sprites/classes/assassin-HT2-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 54,
+      "frameHeight": 79,
+      "originX": 27,
+      "originY": 71,
+      "fps": 25
+    },
+    "HT2-TN": {
+      "file": "sprites/classes/assassin-HT2-TN.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 34,
+      "frameHeight": 77,
+      "originX": 17,
+      "originY": 69,
+      "fps": 6.25
+    },
+    "HT2-TW": {
+      "file": "sprites/classes/assassin-HT2-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 40,
+      "frameHeight": 76,
+      "originX": 20,
+      "originY": 69,
+      "fps": 25
+    },
+    "HT2-A1": {
+      "file": "sprites/classes/assassin-HT2-A1.png",
+      "directions": 16,
+      "framesPerDirection": 11,
+      "frameWidth": 107,
+      "frameHeight": 88,
+      "originX": 53,
+      "originY": 76,
+      "fps": 20.3125
+    },
+    "HT2-A2": {
+      "file": "sprites/classes/assassin-HT2-A2.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 104,
+      "frameHeight": 76,
+      "originX": 52,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HT2-BL": {
+      "file": "sprites/classes/assassin-HT2-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 62,
+      "frameHeight": 84,
+      "originX": 31,
+      "originY": 76,
+      "fps": 25
+    },
+    "HT2-SC": {
+      "file": "sprites/classes/assassin-HT2-SC.png",
+      "directions": 16,
+      "framesPerDirection": 17,
+      "frameWidth": 78,
+      "frameHeight": 78,
+      "originX": 39,
+      "originY": 67,
+      "fps": 25
+    },
+    "HT2-KK": {
+      "file": "sprites/classes/assassin-HT2-KK.png",
+      "directions": 16,
+      "framesPerDirection": 13,
+      "frameWidth": 91,
+      "frameHeight": 80,
+      "originX": 45,
+      "originY": 74,
+      "fps": 25
+    },
+    "HT2-S1": {
+      "file": "sprites/classes/assassin-HT2-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 90,
+      "frameHeight": 101,
+      "originX": 45,
+      "originY": 79,
+      "fps": 25
+    },
+    "HT2-S2": {
+      "file": "sprites/classes/assassin-HT2-S2.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 86,
+      "frameHeight": 98,
+      "originX": 43,
+      "originY": 90,
+      "fps": 12.5
+    },
+    "HT2-S3": {
+      "file": "sprites/classes/assassin-HT2-S3.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 64,
+      "frameHeight": 82,
+      "originX": 32,
+      "originY": 67,
+      "fps": 25
+    },
+    "HT2-S4": {
+      "file": "sprites/classes/assassin-HT2-S4.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 90,
+      "frameHeight": 88,
+      "originX": 45,
+      "originY": 80,
+      "fps": 20.3125
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/assassin-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 117,
+      "frameHeight": 113,
+      "originX": 58,
+      "originY": 81,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/assassin-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 117,
+      "frameHeight": 62,
+      "originX": 58,
+      "originY": 30,
+      "fps": 25
+    }
+  },
+  "barbarian": {
+    "NU": {
+      "file": "sprites/classes/barbarian-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 80,
+      "originX": 36,
+      "originY": 69,
+      "fps": 9.375
+    },
+    "WL": {
+      "file": "sprites/classes/barbarian-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 66,
+      "frameHeight": 84,
+      "originX": 33,
+      "originY": 73,
+      "fps": 16.40625
+    },
+    "RN": {
+      "file": "sprites/classes/barbarian-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 86,
+      "originX": 34,
+      "originY": 75,
+      "fps": 21.09375
+    },
+    "GH": {
+      "file": "sprites/classes/barbarian-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 100,
+      "frameHeight": 83,
+      "originX": 50,
+      "originY": 72,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/barbarian-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 54,
+      "frameHeight": 81,
+      "originX": 27,
+      "originY": 73,
+      "fps": 7.8125
+    },
+    "TW": {
+      "file": "sprites/classes/barbarian-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 54,
+      "frameHeight": 82,
+      "originX": 27,
+      "originY": 73,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/barbarian-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 142,
+      "frameHeight": 104,
+      "originX": 71,
+      "originY": 84,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/barbarian-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 148,
+      "frameHeight": 124,
+      "originX": 74,
+      "originY": 97,
+      "fps": 25
+    },
+    "BL": {
+      "file": "sprites/classes/barbarian-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 4,
+      "frameWidth": 75,
+      "frameHeight": 80,
+      "originX": 38,
+      "originY": 69,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/barbarian-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 81,
+      "frameHeight": 100,
+      "originX": 40,
+      "originY": 89,
+      "fps": 25
+    },
+    "TH": {
+      "file": "sprites/classes/barbarian-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 117,
+      "frameHeight": 110,
+      "originX": 58,
+      "originY": 92,
+      "shadow": "sprites/classes/barbarian-1HS-TH-shadow.png",
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/barbarian-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 134,
+      "frameHeight": 98,
+      "originX": 67,
+      "originY": 87,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/barbarian-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 72,
+      "frameHeight": 97,
+      "originX": 36,
+      "originY": 86,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/barbarian-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 27,
+      "frameWidth": 115,
+      "frameHeight": 100,
+      "originX": 58,
+      "originY": 69,
+      "fps": 23.4375
+    },
+    "DD": {
+      "file": "sprites/classes/barbarian-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 115,
+      "frameHeight": 61,
+      "originX": 58,
+      "originY": 30,
+      "fps": 25
+    },
+    "1HS-NU": {
+      "file": "sprites/classes/barbarian-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 80,
+      "originX": 36,
+      "originY": 69,
+      "fps": 9.375
+    },
+    "1HS-WL": {
+      "file": "sprites/classes/barbarian-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 66,
+      "frameHeight": 84,
+      "originX": 33,
+      "originY": 73,
+      "fps": 16.40625
+    },
+    "1HS-RN": {
+      "file": "sprites/classes/barbarian-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 86,
+      "originX": 34,
+      "originY": 75,
+      "fps": 21.09375
+    },
+    "1HS-GH": {
+      "file": "sprites/classes/barbarian-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 100,
+      "frameHeight": 83,
+      "originX": 50,
+      "originY": 72,
+      "fps": 25
+    },
+    "1HS-TN": {
+      "file": "sprites/classes/barbarian-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 54,
+      "frameHeight": 81,
+      "originX": 27,
+      "originY": 73,
+      "fps": 7.8125
+    },
+    "1HS-TW": {
+      "file": "sprites/classes/barbarian-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 54,
+      "frameHeight": 82,
+      "originX": 27,
+      "originY": 73,
+      "fps": 25
+    },
+    "1HS-A1": {
+      "file": "sprites/classes/barbarian-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 142,
+      "frameHeight": 104,
+      "originX": 71,
+      "originY": 84,
+      "fps": 25
+    },
+    "1HS-A2": {
+      "file": "sprites/classes/barbarian-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 148,
+      "frameHeight": 124,
+      "originX": 74,
+      "originY": 97,
+      "fps": 25
+    },
+    "1HS-BL": {
+      "file": "sprites/classes/barbarian-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 4,
+      "frameWidth": 75,
+      "frameHeight": 80,
+      "originX": 38,
+      "originY": 69,
+      "fps": 25
+    },
+    "1HS-SC": {
+      "file": "sprites/classes/barbarian-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 81,
+      "frameHeight": 100,
+      "originX": 40,
+      "originY": 89,
+      "fps": 25
+    },
+    "1HS-TH": {
+      "file": "sprites/classes/barbarian-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 117,
+      "frameHeight": 110,
+      "originX": 58,
+      "originY": 92,
+      "shadow": "sprites/classes/barbarian-1HS-TH-shadow.png",
+      "fps": 25
+    },
+    "1HS-KK": {
+      "file": "sprites/classes/barbarian-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 134,
+      "frameHeight": 98,
+      "originX": 67,
+      "originY": 87,
+      "fps": 25
+    },
+    "1HS-S1": {
+      "file": "sprites/classes/barbarian-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 72,
+      "frameHeight": 97,
+      "originX": 36,
+      "originY": 86,
+      "fps": 25
+    },
+    "2HS-NU": {
+      "file": "sprites/classes/barbarian-2HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 46,
+      "frameHeight": 112,
+      "originX": 23,
+      "originY": 101,
+      "fps": 9.375
+    },
+    "2HS-WL": {
+      "file": "sprites/classes/barbarian-2HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 50,
+      "frameHeight": 112,
+      "originX": 25,
+      "originY": 101,
+      "fps": 16.40625
+    },
+    "2HS-RN": {
+      "file": "sprites/classes/barbarian-2HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 121,
+      "originX": 36,
+      "originY": 110,
+      "fps": 21.09375
+    },
+    "2HS-GH": {
+      "file": "sprites/classes/barbarian-2HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 146,
+      "frameHeight": 114,
+      "originX": 73,
+      "originY": 103,
+      "fps": 25
+    },
+    "2HS-TN": {
+      "file": "sprites/classes/barbarian-2HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 68,
+      "frameHeight": 105,
+      "originX": 34,
+      "originY": 97,
+      "fps": 7.8125
+    },
+    "2HS-TW": {
+      "file": "sprites/classes/barbarian-2HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 78,
+      "frameHeight": 99,
+      "originX": 39,
+      "originY": 90,
+      "fps": 25
+    },
+    "2HS-A1": {
+      "file": "sprites/classes/barbarian-2HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 201,
+      "frameHeight": 145,
+      "originX": 100,
+      "originY": 105,
+      "fps": 25
+    },
+    "2HS-A2": {
+      "file": "sprites/classes/barbarian-2HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 183,
+      "frameHeight": 153,
+      "originX": 91,
+      "originY": 113,
+      "fps": 25
+    },
+    "2HS-SC": {
+      "file": "sprites/classes/barbarian-2HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 94,
+      "frameHeight": 121,
+      "originX": 47,
+      "originY": 110,
+      "fps": 25
+    },
+    "2HS-KK": {
+      "file": "sprites/classes/barbarian-2HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 134,
+      "frameHeight": 117,
+      "originX": 67,
+      "originY": 106,
+      "fps": 25
+    },
+    "2HS-S1": {
+      "file": "sprites/classes/barbarian-2HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 130,
+      "frameHeight": 113,
+      "originX": 65,
+      "originY": 102,
+      "fps": 25
+    },
+    "1SS-NU": {
+      "file": "sprites/classes/barbarian-1SS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 79,
+      "frameHeight": 80,
+      "originX": 40,
+      "originY": 69,
+      "fps": 9.375
+    },
+    "1SS-WL": {
+      "file": "sprites/classes/barbarian-1SS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 84,
+      "originX": 40,
+      "originY": 73,
+      "fps": 16.40625
+    },
+    "1SS-RN": {
+      "file": "sprites/classes/barbarian-1SS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 87,
+      "originX": 37,
+      "originY": 76,
+      "fps": 21.09375
+    },
+    "1SS-GH": {
+      "file": "sprites/classes/barbarian-1SS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 100,
+      "frameHeight": 93,
+      "originX": 50,
+      "originY": 82,
+      "fps": 25
+    },
+    "1SS-TN": {
+      "file": "sprites/classes/barbarian-1SS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 58,
+      "frameHeight": 81,
+      "originX": 29,
+      "originY": 73,
+      "fps": 7.8125
+    },
+    "1SS-TW": {
+      "file": "sprites/classes/barbarian-1SS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 58,
+      "frameHeight": 82,
+      "originX": 29,
+      "originY": 73,
+      "fps": 25
+    },
+    "1SS-A1": {
+      "file": "sprites/classes/barbarian-1SS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 142,
+      "frameHeight": 104,
+      "originX": 71,
+      "originY": 84,
+      "fps": 25
+    },
+    "1SS-A2": {
+      "file": "sprites/classes/barbarian-1SS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 148,
+      "frameHeight": 124,
+      "originX": 74,
+      "originY": 97,
+      "fps": 25
+    },
+    "1SS-SC": {
+      "file": "sprites/classes/barbarian-1SS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 86,
+      "frameHeight": 110,
+      "originX": 43,
+      "originY": 99,
+      "fps": 25
+    },
+    "1SS-TH": {
+      "file": "sprites/classes/barbarian-1SS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 117,
+      "frameHeight": 110,
+      "originX": 58,
+      "originY": 92,
+      "shadow": "sprites/classes/barbarian-1SS-TH-shadow.png",
+      "fps": 25
+    },
+    "1SS-KK": {
+      "file": "sprites/classes/barbarian-1SS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 134,
+      "frameHeight": 98,
+      "originX": 67,
+      "originY": 87,
+      "fps": 25
+    },
+    "1SS-S1": {
+      "file": "sprites/classes/barbarian-1SS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 79,
+      "frameHeight": 97,
+      "originX": 40,
+      "originY": 86,
+      "fps": 25
+    },
+    "1SS-S3": {
+      "file": "sprites/classes/barbarian-1SS-S3.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 121,
+      "frameHeight": 105,
+      "originX": 61,
+      "originY": 94,
+      "fps": 25
+    },
+    "1SS-S4": {
+      "file": "sprites/classes/barbarian-1SS-S4.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 107,
+      "frameHeight": 110,
+      "originX": 54,
+      "originY": 96,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/barbarian-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 27,
+      "frameWidth": 115,
+      "frameHeight": 100,
+      "originX": 58,
+      "originY": 69,
+      "fps": 23.4375
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/barbarian-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 115,
+      "frameHeight": 61,
+      "originX": 58,
+      "originY": 30,
+      "fps": 25
+    }
+  },
+  "druid": {
+    "NU": {
+      "file": "sprites/classes/druid-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 51,
+      "frameHeight": 78,
+      "originX": 26,
+      "originY": 69,
+      "fps": 11.71875
+    },
+    "WL": {
+      "file": "sprites/classes/druid-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 60,
+      "frameHeight": 81,
+      "originX": 30,
+      "originY": 70,
+      "fps": 13.28125
+    },
+    "RN": {
+      "file": "sprites/classes/druid-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 84,
+      "originX": 37,
+      "originY": 73,
+      "fps": 16.40625
+    },
+    "GH": {
+      "file": "sprites/classes/druid-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 73,
+      "frameHeight": 91,
+      "originX": 37,
+      "originY": 82,
+      "fps": 24.21875
+    },
+    "TN": {
+      "file": "sprites/classes/druid-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 46,
+      "frameHeight": 77,
+      "originX": 23,
+      "originY": 71,
+      "fps": 9.375
+    },
+    "TW": {
+      "file": "sprites/classes/druid-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 64,
+      "frameHeight": 81,
+      "originX": 32,
+      "originY": 71,
+      "fps": 12.5
+    },
+    "A1": {
+      "file": "sprites/classes/druid-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 131,
+      "frameHeight": 86,
+      "originX": 65,
+      "originY": 71,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/druid-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 98,
+      "originX": 63,
+      "originY": 83,
+      "fps": 25
+    },
+    "BL": {
+      "file": "sprites/classes/druid-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 54,
+      "frameHeight": 78,
+      "originX": 27,
+      "originY": 69,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/druid-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 80,
+      "frameHeight": 98,
+      "originX": 40,
+      "originY": 89,
+      "fps": 20.3125
+    },
+    "TH": {
+      "file": "sprites/classes/druid-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 96,
+      "frameHeight": 97,
+      "originX": 48,
+      "originY": 83,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/druid-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 115,
+      "frameHeight": 95,
+      "originX": 58,
+      "originY": 86,
+      "fps": 21.875
+    },
+    "S1": {
+      "file": "sprites/classes/druid-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 77,
+      "frameHeight": 92,
+      "originX": 38,
+      "originY": 83,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/druid-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 25,
+      "frameWidth": 181,
+      "frameHeight": 121,
+      "originX": 90,
+      "originY": 70,
+      "fps": 17.1875
+    },
+    "DD": {
+      "file": "sprites/classes/druid-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 177,
+      "frameHeight": 97,
+      "originX": 88,
+      "originY": 46,
+      "fps": 25
+    },
+    "1HS-NU": {
+      "file": "sprites/classes/druid-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 51,
+      "frameHeight": 78,
+      "originX": 26,
+      "originY": 69,
+      "fps": 11.71875
+    },
+    "1HS-WL": {
+      "file": "sprites/classes/druid-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 60,
+      "frameHeight": 81,
+      "originX": 30,
+      "originY": 70,
+      "fps": 13.28125
+    },
+    "1HS-RN": {
+      "file": "sprites/classes/druid-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 84,
+      "originX": 37,
+      "originY": 73,
+      "fps": 16.40625
+    },
+    "1HS-GH": {
+      "file": "sprites/classes/druid-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 73,
+      "frameHeight": 91,
+      "originX": 37,
+      "originY": 82,
+      "fps": 24.21875
+    },
+    "1HS-TN": {
+      "file": "sprites/classes/druid-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 46,
+      "frameHeight": 77,
+      "originX": 23,
+      "originY": 71,
+      "fps": 9.375
+    },
+    "1HS-TW": {
+      "file": "sprites/classes/druid-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 64,
+      "frameHeight": 81,
+      "originX": 32,
+      "originY": 71,
+      "fps": 12.5
+    },
+    "1HS-A1": {
+      "file": "sprites/classes/druid-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 131,
+      "frameHeight": 86,
+      "originX": 65,
+      "originY": 71,
+      "fps": 25
+    },
+    "1HS-A2": {
+      "file": "sprites/classes/druid-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 98,
+      "originX": 63,
+      "originY": 83,
+      "fps": 25
+    },
+    "1HS-BL": {
+      "file": "sprites/classes/druid-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 54,
+      "frameHeight": 78,
+      "originX": 27,
+      "originY": 69,
+      "fps": 25
+    },
+    "1HS-SC": {
+      "file": "sprites/classes/druid-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 80,
+      "frameHeight": 98,
+      "originX": 40,
+      "originY": 89,
+      "fps": 20.3125
+    },
+    "1HS-TH": {
+      "file": "sprites/classes/druid-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 96,
+      "frameHeight": 97,
+      "originX": 48,
+      "originY": 83,
+      "fps": 25
+    },
+    "1HS-KK": {
+      "file": "sprites/classes/druid-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 115,
+      "frameHeight": 95,
+      "originX": 58,
+      "originY": 86,
+      "fps": 21.875
+    },
+    "1HS-S1": {
+      "file": "sprites/classes/druid-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 77,
+      "frameHeight": 92,
+      "originX": 38,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/druid-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 25,
+      "frameWidth": 181,
+      "frameHeight": 121,
+      "originX": 90,
+      "originY": 70,
+      "fps": 17.1875
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/druid-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 177,
+      "frameHeight": 97,
+      "originX": 88,
+      "originY": 46,
+      "fps": 25
+    }
+  },
+  "necromancer": {
+    "NU": {
+      "file": "sprites/classes/necromancer-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 74,
+      "originX": 36,
+      "originY": 67,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/necromancer-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 77,
+      "originX": 35,
+      "originY": 67,
+      "fps": 25
+    },
+    "RN": {
+      "file": "sprites/classes/necromancer-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 62,
+      "frameHeight": 78,
+      "originX": 31,
+      "originY": 68,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/necromancer-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 72,
+      "frameHeight": 74,
+      "originX": 36,
+      "originY": 67,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/necromancer-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 34,
+      "frameHeight": 73,
+      "originX": 17,
+      "originY": 68,
+      "fps": 7.8125
+    },
+    "TW": {
+      "file": "sprites/classes/necromancer-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 41,
+      "frameHeight": 75,
+      "originX": 20,
+      "originY": 67,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/necromancer-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 122,
+      "frameHeight": 90,
+      "originX": 61,
+      "originY": 74,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/necromancer-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 135,
+      "frameHeight": 96,
+      "originX": 67,
+      "originY": 80,
+      "fps": 25
+    },
+    "BL": {
+      "file": "sprites/classes/necromancer-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 74,
+      "frameHeight": 75,
+      "originX": 37,
+      "originY": 68,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/necromancer-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 78,
+      "frameHeight": 79,
+      "originX": 39,
+      "originY": 72,
+      "fps": 25
+    },
+    "TH": {
+      "file": "sprites/classes/necromancer-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 104,
+      "frameHeight": 92,
+      "originX": 52,
+      "originY": 76,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/necromancer-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 73,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/necromancer-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 72,
+      "frameHeight": 98,
+      "originX": 36,
+      "originY": 91,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/necromancer-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 27,
+      "frameWidth": 128,
+      "frameHeight": 102,
+      "originX": 64,
+      "originY": 66,
+      "fps": 17.1875
+    },
+    "DD": {
+      "file": "sprites/classes/necromancer-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 122,
+      "frameHeight": 64,
+      "originX": 61,
+      "originY": 31,
+      "fps": 25
+    },
+    "1HS-NU": {
+      "file": "sprites/classes/necromancer-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 74,
+      "originX": 36,
+      "originY": 67,
+      "fps": 12.5
+    },
+    "1HS-WL": {
+      "file": "sprites/classes/necromancer-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 77,
+      "originX": 35,
+      "originY": 67,
+      "fps": 25
+    },
+    "1HS-RN": {
+      "file": "sprites/classes/necromancer-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 62,
+      "frameHeight": 78,
+      "originX": 31,
+      "originY": 68,
+      "fps": 25
+    },
+    "1HS-GH": {
+      "file": "sprites/classes/necromancer-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 72,
+      "frameHeight": 74,
+      "originX": 36,
+      "originY": 67,
+      "fps": 25
+    },
+    "1HS-TN": {
+      "file": "sprites/classes/necromancer-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 34,
+      "frameHeight": 73,
+      "originX": 17,
+      "originY": 68,
+      "fps": 7.8125
+    },
+    "1HS-TW": {
+      "file": "sprites/classes/necromancer-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 41,
+      "frameHeight": 75,
+      "originX": 20,
+      "originY": 67,
+      "fps": 25
+    },
+    "1HS-A1": {
+      "file": "sprites/classes/necromancer-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 122,
+      "frameHeight": 90,
+      "originX": 61,
+      "originY": 74,
+      "fps": 25
+    },
+    "1HS-A2": {
+      "file": "sprites/classes/necromancer-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 19,
+      "frameWidth": 135,
+      "frameHeight": 96,
+      "originX": 67,
+      "originY": 80,
+      "fps": 25
+    },
+    "1HS-BL": {
+      "file": "sprites/classes/necromancer-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 74,
+      "frameHeight": 75,
+      "originX": 37,
+      "originY": 68,
+      "fps": 25
+    },
+    "1HS-SC": {
+      "file": "sprites/classes/necromancer-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 78,
+      "frameHeight": 79,
+      "originX": 39,
+      "originY": 72,
+      "fps": 25
+    },
+    "1HS-TH": {
+      "file": "sprites/classes/necromancer-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 104,
+      "frameHeight": 92,
+      "originX": 52,
+      "originY": 76,
+      "fps": 25
+    },
+    "1HS-KK": {
+      "file": "sprites/classes/necromancer-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 73,
+      "fps": 25
+    },
+    "1HS-S1": {
+      "file": "sprites/classes/necromancer-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 72,
+      "frameHeight": 98,
+      "originX": 36,
+      "originY": 91,
+      "fps": 25
+    },
+    "STF-NU": {
+      "file": "sprites/classes/necromancer-STF-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 81,
+      "originX": 36,
+      "originY": 74,
+      "fps": 12.5
+    },
+    "STF-WL": {
+      "file": "sprites/classes/necromancer-STF-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 67,
+      "frameHeight": 88,
+      "originX": 33,
+      "originY": 78,
+      "fps": 25
+    },
+    "STF-RN": {
+      "file": "sprites/classes/necromancer-STF-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 72,
+      "frameHeight": 88,
+      "originX": 36,
+      "originY": 78,
+      "fps": 25
+    },
+    "STF-GH": {
+      "file": "sprites/classes/necromancer-STF-GH.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 82,
+      "frameHeight": 79,
+      "originX": 41,
+      "originY": 72,
+      "fps": 25
+    },
+    "STF-TN": {
+      "file": "sprites/classes/necromancer-STF-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 62,
+      "frameHeight": 87,
+      "originX": 31,
+      "originY": 82,
+      "fps": 7.8125
+    },
+    "STF-TW": {
+      "file": "sprites/classes/necromancer-STF-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 61,
+      "frameHeight": 89,
+      "originX": 31,
+      "originY": 81,
+      "fps": 25
+    },
+    "STF-A1": {
+      "file": "sprites/classes/necromancer-STF-A1.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 158,
+      "frameHeight": 124,
+      "originX": 79,
+      "originY": 93,
+      "fps": 25
+    },
+    "STF-A2": {
+      "file": "sprites/classes/necromancer-STF-A2.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 176,
+      "frameHeight": 94,
+      "originX": 88,
+      "originY": 79,
+      "fps": 25
+    },
+    "STF-SC": {
+      "file": "sprites/classes/necromancer-STF-SC.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 90,
+      "frameHeight": 81,
+      "originX": 45,
+      "originY": 74,
+      "fps": 25
+    },
+    "STF-KK": {
+      "file": "sprites/classes/necromancer-STF-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 100,
+      "frameHeight": 84,
+      "originX": 50,
+      "originY": 77,
+      "fps": 25
+    },
+    "STF-S1": {
+      "file": "sprites/classes/necromancer-STF-S1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 72,
+      "frameHeight": 108,
+      "originX": 36,
+      "originY": 101,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/necromancer-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 27,
+      "frameWidth": 128,
+      "frameHeight": 102,
+      "originX": 64,
+      "originY": 66,
+      "fps": 17.1875
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/necromancer-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 122,
+      "frameHeight": 64,
+      "originX": 61,
+      "originY": 31,
+      "fps": 25
+    }
+  },
+  "paladin": {
+    "NU": {
+      "file": "sprites/classes/paladin-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 94,
+      "originX": 35,
+      "originY": 81,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/paladin-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 84,
+      "frameHeight": 89,
+      "originX": 42,
+      "originY": 80,
+      "fps": 28.125
+    },
+    "RN": {
+      "file": "sprites/classes/paladin-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 78,
+      "frameHeight": 92,
+      "originX": 39,
+      "originY": 85,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/paladin-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 75,
+      "frameHeight": 88,
+      "originX": 37,
+      "originY": 77,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/paladin-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 46,
+      "frameHeight": 75,
+      "originX": 23,
+      "originY": 70,
+      "fps": 12.5
+    },
+    "TW": {
+      "file": "sprites/classes/paladin-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 81,
+      "frameHeight": 78,
+      "originX": 41,
+      "originY": 70,
+      "fps": 28.125
+    },
+    "A1": {
+      "file": "sprites/classes/paladin-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 158,
+      "frameHeight": 114,
+      "originX": 79,
+      "originY": 95,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/paladin-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 155,
+      "frameHeight": 106,
+      "originX": 78,
+      "originY": 93,
+      "fps": 25
+    },
+    "BL": {
+      "file": "sprites/classes/paladin-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 72,
+      "frameHeight": 87,
+      "originX": 36,
+      "originY": 76,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/paladin-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 77,
+      "frameHeight": 101,
+      "originX": 39,
+      "originY": 89,
+      "fps": 25
+    },
+    "TH": {
+      "file": "sprites/classes/paladin-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 107,
+      "frameHeight": 95,
+      "originX": 54,
+      "originY": 83,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/paladin-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 122,
+      "frameHeight": 108,
+      "originX": 61,
+      "originY": 95,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/paladin-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 153,
+      "frameHeight": 111,
+      "originX": 76,
+      "originY": 86,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/paladin-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 28,
+      "frameWidth": 97,
+      "frameHeight": 86,
+      "originX": 49,
+      "originY": 62,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/paladin-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 97,
+      "frameHeight": 54,
+      "originX": 49,
+      "originY": 30,
+      "fps": 25
+    },
+    "1HS-NU": {
+      "file": "sprites/classes/paladin-1HS-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 94,
+      "originX": 35,
+      "originY": 81,
+      "fps": 12.5
+    },
+    "1HS-WL": {
+      "file": "sprites/classes/paladin-1HS-WL.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 84,
+      "frameHeight": 89,
+      "originX": 42,
+      "originY": 80,
+      "fps": 28.125
+    },
+    "1HS-RN": {
+      "file": "sprites/classes/paladin-1HS-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 78,
+      "frameHeight": 92,
+      "originX": 39,
+      "originY": 85,
+      "fps": 25
+    },
+    "1HS-GH": {
+      "file": "sprites/classes/paladin-1HS-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 75,
+      "frameHeight": 88,
+      "originX": 37,
+      "originY": 77,
+      "fps": 25
+    },
+    "1HS-TN": {
+      "file": "sprites/classes/paladin-1HS-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 46,
+      "frameHeight": 75,
+      "originX": 23,
+      "originY": 70,
+      "fps": 12.5
+    },
+    "1HS-TW": {
+      "file": "sprites/classes/paladin-1HS-TW.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 81,
+      "frameHeight": 78,
+      "originX": 41,
+      "originY": 70,
+      "fps": 28.125
+    },
+    "1HS-A1": {
+      "file": "sprites/classes/paladin-1HS-A1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 158,
+      "frameHeight": 114,
+      "originX": 79,
+      "originY": 95,
+      "fps": 25
+    },
+    "1HS-A2": {
+      "file": "sprites/classes/paladin-1HS-A2.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 155,
+      "frameHeight": 106,
+      "originX": 78,
+      "originY": 93,
+      "fps": 25
+    },
+    "1HS-BL": {
+      "file": "sprites/classes/paladin-1HS-BL.png",
+      "directions": 16,
+      "framesPerDirection": 3,
+      "frameWidth": 72,
+      "frameHeight": 87,
+      "originX": 36,
+      "originY": 76,
+      "fps": 25
+    },
+    "1HS-SC": {
+      "file": "sprites/classes/paladin-1HS-SC.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 77,
+      "frameHeight": 101,
+      "originX": 39,
+      "originY": 89,
+      "fps": 25
+    },
+    "1HS-TH": {
+      "file": "sprites/classes/paladin-1HS-TH.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 107,
+      "frameHeight": 95,
+      "originX": 54,
+      "originY": 83,
+      "fps": 25
+    },
+    "1HS-KK": {
+      "file": "sprites/classes/paladin-1HS-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 122,
+      "frameHeight": 108,
+      "originX": 61,
+      "originY": 95,
+      "fps": 25
+    },
+    "1HS-S1": {
+      "file": "sprites/classes/paladin-1HS-S1.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 153,
+      "frameHeight": 111,
+      "originX": 76,
+      "originY": 86,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/paladin-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 28,
+      "frameWidth": 97,
+      "frameHeight": 86,
+      "originX": 49,
+      "originY": 62,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/paladin-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 97,
+      "frameHeight": 54,
+      "originX": 49,
+      "originY": 30,
+      "fps": 25
+    }
+  },
+  "sorceress": {
+    "NU": {
+      "file": "sprites/classes/sorceress-STF-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 88,
+      "frameHeight": 91,
+      "originX": 44,
+      "originY": 84,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/sorceress-STF-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 96,
+      "originX": 40,
+      "originY": 87,
+      "fps": 25
+    },
+    "RN": {
+      "file": "sprites/classes/sorceress-STF-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 83,
+      "frameHeight": 94,
+      "originX": 42,
+      "originY": 84,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/sorceress-STF-GH.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 88,
+      "frameHeight": 96,
+      "originX": 44,
+      "originY": 89,
+      "fps": 25
+    },
+    "TN": {
+      "file": "sprites/classes/sorceress-STF-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 60,
+      "frameHeight": 89,
+      "originX": 30,
+      "originY": 81,
+      "fps": 7.8125
+    },
+    "TW": {
+      "file": "sprites/classes/sorceress-STF-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 58,
+      "frameHeight": 92,
+      "originX": 29,
+      "originY": 83,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/sorceress-STF-A1.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 177,
+      "frameHeight": 116,
+      "originX": 89,
+      "originY": 84,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/sorceress-STF-A2.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 187,
+      "frameHeight": 148,
+      "originX": 93,
+      "originY": 114,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/sorceress-STF-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 106,
+      "frameHeight": 114,
+      "originX": 53,
+      "originY": 107,
+      "fps": 25
+    },
+    "KK": {
+      "file": "sprites/classes/sorceress-STF-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 106,
+      "frameHeight": 96,
+      "originX": 53,
+      "originY": 88,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/sorceress-STF-S1.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 109,
+      "frameHeight": 97,
+      "originX": 55,
+      "originY": 90,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/sorceress-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 24,
+      "frameWidth": 92,
+      "frameHeight": 88,
+      "originX": 46,
+      "originY": 66,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/sorceress-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 89,
+      "frameHeight": 48,
+      "originX": 45,
+      "originY": 26,
+      "fps": 25
+    },
+    "STF-NU": {
+      "file": "sprites/classes/sorceress-STF-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 88,
+      "frameHeight": 91,
+      "originX": 44,
+      "originY": 84,
+      "fps": 12.5
+    },
+    "STF-WL": {
+      "file": "sprites/classes/sorceress-STF-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 96,
+      "originX": 40,
+      "originY": 87,
+      "fps": 25
+    },
+    "STF-RN": {
+      "file": "sprites/classes/sorceress-STF-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 83,
+      "frameHeight": 94,
+      "originX": 42,
+      "originY": 84,
+      "fps": 25
+    },
+    "STF-GH": {
+      "file": "sprites/classes/sorceress-STF-GH.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 88,
+      "frameHeight": 96,
+      "originX": 44,
+      "originY": 89,
+      "fps": 25
+    },
+    "STF-TN": {
+      "file": "sprites/classes/sorceress-STF-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 60,
+      "frameHeight": 89,
+      "originX": 30,
+      "originY": 81,
+      "fps": 7.8125
+    },
+    "STF-TW": {
+      "file": "sprites/classes/sorceress-STF-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 58,
+      "frameHeight": 92,
+      "originX": 29,
+      "originY": 83,
+      "fps": 25
+    },
+    "STF-A1": {
+      "file": "sprites/classes/sorceress-STF-A1.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 177,
+      "frameHeight": 116,
+      "originX": 89,
+      "originY": 84,
+      "fps": 25
+    },
+    "STF-A2": {
+      "file": "sprites/classes/sorceress-STF-A2.png",
+      "directions": 16,
+      "framesPerDirection": 18,
+      "frameWidth": 187,
+      "frameHeight": 148,
+      "originX": 93,
+      "originY": 114,
+      "fps": 25
+    },
+    "STF-SC": {
+      "file": "sprites/classes/sorceress-STF-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 106,
+      "frameHeight": 114,
+      "originX": 53,
+      "originY": 107,
+      "fps": 25
+    },
+    "STF-KK": {
+      "file": "sprites/classes/sorceress-STF-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 106,
+      "frameHeight": 96,
+      "originX": 53,
+      "originY": 88,
+      "fps": 25
+    },
+    "STF-S1": {
+      "file": "sprites/classes/sorceress-STF-S1.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 109,
+      "frameHeight": 97,
+      "originX": 55,
+      "originY": 90,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/sorceress-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 35,
+      "frameHeight": 72,
+      "originX": 17,
+      "originY": 65,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/sorceress-HTH-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 42,
+      "frameHeight": 76,
+      "originX": 21,
+      "originY": 67,
+      "fps": 25
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/sorceress-HTH-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 61,
+      "frameHeight": 76,
+      "originX": 30,
+      "originY": 66,
+      "fps": 25
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/sorceress-HTH-GH.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 44,
+      "frameHeight": 73,
+      "originX": 22,
+      "originY": 66,
+      "fps": 25
+    },
+    "HTH-TN": {
+      "file": "sprites/classes/sorceress-HTH-TN.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 35,
+      "frameHeight": 73,
+      "originX": 17,
+      "originY": 65,
+      "fps": 7.8125
+    },
+    "HTH-TW": {
+      "file": "sprites/classes/sorceress-HTH-TW.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 40,
+      "frameHeight": 75,
+      "originX": 20,
+      "originY": 66,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/sorceress-HTH-A1.png",
+      "directions": 16,
+      "framesPerDirection": 16,
+      "frameWidth": 97,
+      "frameHeight": 78,
+      "originX": 48,
+      "originY": 65,
+      "fps": 25
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/sorceress-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 50,
+      "frameHeight": 73,
+      "originX": 25,
+      "originY": 66,
+      "fps": 25
+    },
+    "HTH-SC": {
+      "file": "sprites/classes/sorceress-HTH-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 85,
+      "frameHeight": 90,
+      "originX": 42,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-TH": {
+      "file": "sprites/classes/sorceress-HTH-TH.png",
+      "directions": 16,
+      "framesPerDirection": 20,
+      "frameWidth": 106,
+      "frameHeight": 90,
+      "originX": 53,
+      "originY": 74,
+      "fps": 25
+    },
+    "HTH-KK": {
+      "file": "sprites/classes/sorceress-HTH-KK.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 52,
+      "originY": 69,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/sorceress-HTH-S1.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 70,
+      "frameHeight": 91,
+      "originX": 35,
+      "originY": 84,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/sorceress-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 24,
+      "frameWidth": 92,
+      "frameHeight": 88,
+      "originX": 46,
+      "originY": 66,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/sorceress-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 89,
+      "frameHeight": 48,
+      "originX": 45,
+      "originY": 26,
+      "fps": 25
+    }
+  },
+  "hydra": {
+    "NU": {
+      "file": "sprites/classes/hydra-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 64,
+      "frameHeight": 65,
+      "originX": 45,
+      "originY": 62,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/hydra-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 92,
+      "frameHeight": 72,
+      "originX": 53,
+      "originY": 69,
+      "fps": 25
+    },
+    "S2": {
+      "file": "sprites/classes/hydra-HTH-S2.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 82,
+      "frameHeight": 71,
+      "originX": 52,
+      "originY": 68,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/hydra-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 74,
+      "frameHeight": 79,
+      "originX": 56,
+      "originY": 76,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/hydra-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/hydra-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 64,
+      "frameHeight": 65,
+      "originX": 45,
+      "originY": 62,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/hydra-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 92,
+      "frameHeight": 72,
+      "originX": 53,
+      "originY": 69,
+      "fps": 25
+    },
+    "HTH-S2": {
+      "file": "sprites/classes/hydra-HTH-S2.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 82,
+      "frameHeight": 71,
+      "originX": 52,
+      "originY": 68,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/hydra-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 74,
+      "frameHeight": 79,
+      "originX": 56,
+      "originY": 76,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/hydra-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "valkyrie": {
+    "NU": {
+      "file": "sprites/classes/valkyrie-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25
+    },
+    "RN": {
+      "file": "sprites/classes/valkyrie-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25,
+      "velocity": 11
+    },
+    "GH": {
+      "file": "sprites/classes/valkyrie-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/valkyrie-HTH-A1.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 6,
+      "frameHeight": 6,
+      "originX": 3,
+      "originY": 3,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/valkyrie-HTH-DT.png",
+      "directions": 4,
+      "framesPerDirection": 25,
+      "frameWidth": 134,
+      "frameHeight": 158,
+      "originX": 67,
+      "originY": 143,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/valkyrie-HTH-DD.png",
+      "directions": 4,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/valkyrie-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/valkyrie-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25,
+      "velocity": 11
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/valkyrie-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 1,
+      "originY": 1,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/valkyrie-HTH-A1.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 6,
+      "frameHeight": 6,
+      "originX": 3,
+      "originY": 3,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/valkyrie-HTH-DT.png",
+      "directions": 4,
+      "framesPerDirection": 25,
+      "frameWidth": 134,
+      "frameHeight": 158,
+      "originX": 67,
+      "originY": 143,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/valkyrie-HTH-DD.png",
+      "directions": 4,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "fps": 25
+    }
+  },
+  "werewolf": {
+    "NU": {
+      "file": "sprites/classes/werewolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 9,
+      "frameWidth": 71,
+      "frameHeight": 90,
+      "originX": 36,
+      "originY": 72,
+      "fps": 14.0625
+    },
+    "WL": {
+      "file": "sprites/classes/werewolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 71,
+      "frameHeight": 99,
+      "originX": 35,
+      "originY": 81,
+      "fps": 12.5,
+      "velocity": 6
+    },
+    "RN": {
+      "file": "sprites/classes/werewolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 95,
+      "frameHeight": 86,
+      "originX": 48,
+      "originY": 63,
+      "fps": 10.15625,
+      "velocity": 6
+    },
+    "GH": {
+      "file": "sprites/classes/werewolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 84,
+      "frameHeight": 102,
+      "originX": 41,
+      "originY": 84,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/werewolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 181,
+      "frameHeight": 99,
+      "originX": 91,
+      "originY": 81,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/werewolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 163,
+      "frameHeight": 101,
+      "originX": 80,
+      "originY": 83,
+      "fps": 25
+    },
+    "BL": {
+      "file": "sprites/classes/werewolf-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 5,
+      "frameWidth": 74,
+      "frameHeight": 101,
+      "originX": 37,
+      "originY": 83,
+      "fps": 25
+    },
+    "SC": {
+      "file": "sprites/classes/werewolf-HTH-SC.png",
+      "directions": 16,
+      "framesPerDirection": 11,
+      "frameWidth": 114,
+      "frameHeight": 109,
+      "originX": 57,
+      "originY": 90,
+      "fps": 16.40625
+    },
+    "S1": {
+      "file": "sprites/classes/werewolf-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 40,
+      "frameHeight": 87,
+      "originX": 21,
+      "originY": 69,
+      "fps": 25
+    },
+    "S3": {
+      "file": "sprites/classes/werewolf-HTH-S3.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 106,
+      "frameHeight": 94,
+      "originX": 53,
+      "originY": 76,
+      "fps": 23.4375
+    },
+    "S4": {
+      "file": "sprites/classes/werewolf-HTH-S4.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 140,
+      "frameHeight": 104,
+      "originX": 70,
+      "originY": 84,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/werewolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 9,
+      "frameWidth": 71,
+      "frameHeight": 90,
+      "originX": 36,
+      "originY": 72,
+      "fps": 14.0625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/werewolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 71,
+      "frameHeight": 99,
+      "originX": 35,
+      "originY": 81,
+      "fps": 12.5,
+      "velocity": 6
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/werewolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 95,
+      "frameHeight": 86,
+      "originX": 48,
+      "originY": 63,
+      "fps": 10.15625,
+      "velocity": 6
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/werewolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 84,
+      "frameHeight": 102,
+      "originX": 41,
+      "originY": 84,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/werewolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 181,
+      "frameHeight": 99,
+      "originX": 91,
+      "originY": 81,
+      "fps": 25
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/werewolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 163,
+      "frameHeight": 101,
+      "originX": 80,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/werewolf-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 5,
+      "frameWidth": 74,
+      "frameHeight": 101,
+      "originX": 37,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-SC": {
+      "file": "sprites/classes/werewolf-HTH-SC.png",
+      "directions": 16,
+      "framesPerDirection": 11,
+      "frameWidth": 114,
+      "frameHeight": 109,
+      "originX": 57,
+      "originY": 90,
+      "fps": 16.40625
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/werewolf-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 40,
+      "frameHeight": 87,
+      "originX": 21,
+      "originY": 69,
+      "fps": 25
+    },
+    "HTH-S3": {
+      "file": "sprites/classes/werewolf-HTH-S3.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 106,
+      "frameHeight": 94,
+      "originX": 53,
+      "originY": 76,
+      "fps": 23.4375
+    },
+    "HTH-S4": {
+      "file": "sprites/classes/werewolf-HTH-S4.png",
+      "directions": 16,
+      "framesPerDirection": 7,
+      "frameWidth": 140,
+      "frameHeight": 104,
+      "originX": 70,
+      "originY": 84,
+      "fps": 14.84375
+    }
+  },
+  "werebear": {
+    "NU": {
+      "file": "sprites/classes/werebear-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 82,
+      "frameHeight": 111,
+      "originX": 41,
+      "originY": 95,
+      "fps": 13.28125
+    },
+    "WL": {
+      "file": "sprites/classes/werebear-HTH-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 100,
+      "frameHeight": 109,
+      "originX": 50,
+      "originY": 95,
+      "fps": 16.40625,
+      "velocity": 6
+    },
+    "RN": {
+      "file": "sprites/classes/werebear-HTH-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 115,
+      "frameHeight": 115,
+      "originX": 58,
+      "originY": 98,
+      "fps": 11.71875,
+      "velocity": 6
+    },
+    "GH": {
+      "file": "sprites/classes/werebear-HTH-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 106,
+      "frameHeight": 111,
+      "originX": 53,
+      "originY": 95,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/werebear-HTH-A1.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 190,
+      "frameHeight": 127,
+      "originX": 95,
+      "originY": 95,
+      "fps": 21.875
+    },
+    "A2": {
+      "file": "sprites/classes/werebear-HTH-A2.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 158,
+      "frameHeight": 112,
+      "originX": 79,
+      "originY": 96,
+      "fps": 21.875
+    },
+    "BL": {
+      "file": "sprites/classes/werebear-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 97,
+      "frameHeight": 111,
+      "originX": 49,
+      "originY": 95,
+      "fps": 19.53125
+    },
+    "SC": {
+      "file": "sprites/classes/werebear-HTH-SC.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 165,
+      "frameHeight": 136,
+      "originX": 82,
+      "originY": 115,
+      "fps": 14.84375
+    },
+    "S1": {
+      "file": "sprites/classes/werebear-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 79,
+      "frameHeight": 95,
+      "originX": 40,
+      "originY": 83,
+      "fps": 25
+    },
+    "S3": {
+      "file": "sprites/classes/werebear-HTH-S3.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 144,
+      "frameHeight": 127,
+      "originX": 72,
+      "originY": 95,
+      "fps": 20.3125
+    },
+    "S4": {
+      "file": "sprites/classes/werebear-HTH-S4.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 126,
+      "frameHeight": 119,
+      "originX": 64,
+      "originY": 100,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/werebear-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 10,
+      "frameWidth": 82,
+      "frameHeight": 111,
+      "originX": 41,
+      "originY": 95,
+      "fps": 13.28125
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/werebear-HTH-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 100,
+      "frameHeight": 109,
+      "originX": 50,
+      "originY": 95,
+      "fps": 16.40625,
+      "velocity": 6
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/werebear-HTH-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 115,
+      "frameHeight": 115,
+      "originX": 58,
+      "originY": 98,
+      "fps": 11.71875,
+      "velocity": 6
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/werebear-HTH-GH.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 106,
+      "frameHeight": 111,
+      "originX": 53,
+      "originY": 95,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/werebear-HTH-A1.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 190,
+      "frameHeight": 127,
+      "originX": 95,
+      "originY": 95,
+      "fps": 21.875
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/werebear-HTH-A2.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 158,
+      "frameHeight": 112,
+      "originX": 79,
+      "originY": 96,
+      "fps": 21.875
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/werebear-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 5,
+      "frameWidth": 97,
+      "frameHeight": 111,
+      "originX": 49,
+      "originY": 95,
+      "fps": 19.53125
+    },
+    "HTH-SC": {
+      "file": "sprites/classes/werebear-HTH-SC.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 165,
+      "frameHeight": 136,
+      "originX": 82,
+      "originY": 115,
+      "fps": 14.84375
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/werebear-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 79,
+      "frameHeight": 95,
+      "originX": 40,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-S3": {
+      "file": "sprites/classes/werebear-HTH-S3.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 144,
+      "frameHeight": 127,
+      "originX": 72,
+      "originY": 95,
+      "fps": 20.3125
+    },
+    "HTH-S4": {
+      "file": "sprites/classes/werebear-HTH-S4.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 126,
+      "frameHeight": 119,
+      "originX": 64,
+      "originY": 100,
+      "fps": 14.84375
+    }
+  },
+  "raven": {
+    "NU": {
+      "file": "sprites/classes/raven-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 70,
+      "frameHeight": 54,
+      "originX": 35,
+      "originY": 122,
+      "fps": 20.3125
+    },
+    "WL": {
+      "file": "sprites/classes/raven-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 70,
+      "frameHeight": 54,
+      "originX": 35,
+      "originY": 122,
+      "fps": 20.3125,
+      "velocity": 10
+    },
+    "A1": {
+      "file": "sprites/classes/raven-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 23,
+      "frameWidth": 142,
+      "frameHeight": 130,
+      "originX": 70,
+      "originY": 139,
+      "fps": 23.4375
+    },
+    "S1": {
+      "file": "sprites/classes/raven-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 11,
+      "frameWidth": 110,
+      "frameHeight": 149,
+      "originX": 55,
+      "originY": 148,
+      "shadow": null,
+      "fps": 20.3125
+    },
+    "DT": {
+      "file": "sprites/classes/raven-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 11,
+      "frameWidth": 111,
+      "frameHeight": 94,
+      "originX": 55,
+      "originY": 148,
+      "shadow": null,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/raven-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/raven-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 70,
+      "frameHeight": 54,
+      "originX": 35,
+      "originY": 122,
+      "fps": 20.3125
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/raven-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 70,
+      "frameHeight": 54,
+      "originX": 35,
+      "originY": 122,
+      "fps": 20.3125,
+      "velocity": 10
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/raven-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 23,
+      "frameWidth": 142,
+      "frameHeight": 130,
+      "originX": 70,
+      "originY": 139,
+      "fps": 23.4375
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/raven-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 11,
+      "frameWidth": 110,
+      "frameHeight": 149,
+      "originX": 55,
+      "originY": 148,
+      "shadow": null,
+      "fps": 20.3125
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/raven-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 11,
+      "frameWidth": 111,
+      "frameHeight": 94,
+      "originX": 55,
+      "originY": 148,
+      "shadow": null,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/raven-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "poisonCreeper": {
+    "NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    }
+  },
+  "carrionVine": {
+    "NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    }
+  },
+  "solarCreeper": {
+    "NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/poisonCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 2,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/poisonCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 1,
+      "frameHeight": 1,
+      "originX": 0,
+      "originY": 0,
+      "fps": 25
+    }
+  },
+  "spiritWolf": {
+    "NU": {
+      "file": "sprites/classes/spiritWolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 78,
+      "frameHeight": 64,
+      "originX": 39,
+      "originY": 51,
+      "fps": 17.1875
+    },
+    "WL": {
+      "file": "sprites/classes/spiritWolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 65,
+      "originX": 40,
+      "originY": 50,
+      "fps": 11.71875,
+      "velocity": 5
+    },
+    "RN": {
+      "file": "sprites/classes/spiritWolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 67,
+      "originX": 40,
+      "originY": 52,
+      "fps": 7.8125,
+      "velocity": 10
+    },
+    "GH": {
+      "file": "sprites/classes/spiritWolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 78,
+      "frameHeight": 68,
+      "originX": 39,
+      "originY": 50,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/spiritWolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "A2": {
+      "file": "sprites/classes/spiritWolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 15,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "BL": {
+      "file": "sprites/classes/spiritWolf-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 112,
+      "frameHeight": 96,
+      "originX": 56,
+      "originY": 80,
+      "fps": 13.28125
+    },
+    "S1": {
+      "file": "sprites/classes/spiritWolf-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 78,
+      "frameHeight": 63,
+      "originX": 39,
+      "originY": 50,
+      "fps": 7.03125
+    },
+    "DT": {
+      "file": "sprites/classes/spiritWolf-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 52,
+      "originX": 43,
+      "originY": 37,
+      "fps": 7.03125
+    },
+    "DD": {
+      "file": "sprites/classes/spiritWolf-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 7,
+      "frameHeight": 21,
+      "originX": 0,
+      "originY": 20,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/spiritWolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 78,
+      "frameHeight": 64,
+      "originX": 39,
+      "originY": 51,
+      "fps": 17.1875
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/spiritWolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 65,
+      "originX": 40,
+      "originY": 50,
+      "fps": 11.71875,
+      "velocity": 5
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/spiritWolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 67,
+      "originX": 40,
+      "originY": 52,
+      "fps": 7.8125,
+      "velocity": 10
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/spiritWolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 78,
+      "frameHeight": 68,
+      "originX": 39,
+      "originY": 50,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/spiritWolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/spiritWolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 15,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/spiritWolf-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 112,
+      "frameHeight": 96,
+      "originX": 56,
+      "originY": 80,
+      "fps": 13.28125
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/spiritWolf-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 78,
+      "frameHeight": 63,
+      "originX": 39,
+      "originY": 50,
+      "fps": 7.03125
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/spiritWolf-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 52,
+      "originX": 43,
+      "originY": 37,
+      "fps": 7.03125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/spiritWolf-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 7,
+      "frameHeight": 21,
+      "originX": 0,
+      "originY": 20,
+      "fps": 25
+    }
+  },
+  "direWolf": {
+    "NU": {
+      "file": "sprites/classes/spiritWolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 78,
+      "frameHeight": 64,
+      "originX": 39,
+      "originY": 51,
+      "fps": 17.1875
+    },
+    "WL": {
+      "file": "sprites/classes/spiritWolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 65,
+      "originX": 40,
+      "originY": 50,
+      "fps": 11.71875,
+      "velocity": 5
+    },
+    "RN": {
+      "file": "sprites/classes/spiritWolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 67,
+      "originX": 40,
+      "originY": 52,
+      "fps": 7.8125,
+      "velocity": 10
+    },
+    "GH": {
+      "file": "sprites/classes/spiritWolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 78,
+      "frameHeight": 68,
+      "originX": 39,
+      "originY": 50,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/spiritWolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "A2": {
+      "file": "sprites/classes/spiritWolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 15,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "BL": {
+      "file": "sprites/classes/spiritWolf-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 112,
+      "frameHeight": 96,
+      "originX": 56,
+      "originY": 80,
+      "fps": 13.28125
+    },
+    "S1": {
+      "file": "sprites/classes/spiritWolf-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 78,
+      "frameHeight": 63,
+      "originX": 39,
+      "originY": 50,
+      "fps": 7.03125
+    },
+    "DT": {
+      "file": "sprites/classes/spiritWolf-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 52,
+      "originX": 43,
+      "originY": 37,
+      "fps": 7.03125
+    },
+    "DD": {
+      "file": "sprites/classes/spiritWolf-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 7,
+      "frameHeight": 21,
+      "originX": 0,
+      "originY": 20,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/spiritWolf-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 78,
+      "frameHeight": 64,
+      "originX": 39,
+      "originY": 51,
+      "fps": 17.1875
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/spiritWolf-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 65,
+      "originX": 40,
+      "originY": 50,
+      "fps": 11.71875,
+      "velocity": 5
+    },
+    "HTH-RN": {
+      "file": "sprites/classes/spiritWolf-HTH-RN.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 81,
+      "frameHeight": 67,
+      "originX": 40,
+      "originY": 52,
+      "fps": 7.8125,
+      "velocity": 10
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/spiritWolf-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 7,
+      "frameWidth": 78,
+      "frameHeight": 68,
+      "originX": 39,
+      "originY": 50,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/spiritWolf-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/spiritWolf-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 15,
+      "frameWidth": 104,
+      "frameHeight": 77,
+      "originX": 51,
+      "originY": 50,
+      "fps": 17.1875
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/spiritWolf-HTH-BL.png",
+      "directions": 16,
+      "framesPerDirection": 6,
+      "frameWidth": 112,
+      "frameHeight": 96,
+      "originX": 56,
+      "originY": 80,
+      "fps": 13.28125
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/spiritWolf-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 78,
+      "frameHeight": 63,
+      "originX": 39,
+      "originY": 50,
+      "fps": 7.03125
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/spiritWolf-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 86,
+      "frameHeight": 52,
+      "originX": 43,
+      "originY": 37,
+      "fps": 7.03125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/spiritWolf-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 7,
+      "frameHeight": 21,
+      "originX": 0,
+      "originY": 20,
+      "fps": 25
+    }
+  },
+  "grizzly": {
+    "NU": {
+      "file": "sprites/classes/grizzly-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 130,
+      "frameHeight": 87,
+      "originX": 65,
+      "originY": 66,
+      "fps": 15.625
+    },
+    "WL": {
+      "file": "sprites/classes/grizzly-HTH-WL.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 140,
+      "frameHeight": 105,
+      "originX": 70,
+      "originY": 77,
+      "fps": 22.65625,
+      "velocity": 5
+    },
+    "GH": {
+      "file": "sprites/classes/grizzly-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 5,
+      "frameWidth": 124,
+      "frameHeight": 86,
+      "originX": 62,
+      "originY": 65,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/grizzly-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 181,
+      "frameHeight": 125,
+      "originX": 89,
+      "originY": 84,
+      "fps": 25
+    },
+    "A2": {
+      "file": "sprites/classes/grizzly-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 17,
+      "frameWidth": 232,
+      "frameHeight": 121,
+      "originX": 119,
+      "originY": 72,
+      "fps": 24.21875
+    },
+    "S1": {
+      "file": "sprites/classes/grizzly-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 128,
+      "frameHeight": 116,
+      "originX": 64,
+      "originY": 95,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/grizzly-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 18,
+      "frameWidth": 120,
+      "frameHeight": 83,
+      "originX": 60,
+      "originY": 62,
+      "fps": 12.5
+    },
+    "DD": {
+      "file": "sprites/classes/raven-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/grizzly-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 130,
+      "frameHeight": 87,
+      "originX": 65,
+      "originY": 66,
+      "fps": 15.625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/grizzly-HTH-WL.png",
+      "directions": 16,
+      "framesPerDirection": 12,
+      "frameWidth": 140,
+      "frameHeight": 105,
+      "originX": 70,
+      "originY": 77,
+      "fps": 22.65625,
+      "velocity": 5
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/grizzly-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 5,
+      "frameWidth": 124,
+      "frameHeight": 86,
+      "originX": 62,
+      "originY": 65,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/grizzly-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 181,
+      "frameHeight": 125,
+      "originX": 89,
+      "originY": 84,
+      "fps": 25
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/grizzly-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 17,
+      "frameWidth": 232,
+      "frameHeight": 121,
+      "originX": 119,
+      "originY": 72,
+      "fps": 24.21875
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/grizzly-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 128,
+      "frameHeight": 116,
+      "originX": 64,
+      "originY": 95,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/grizzly-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 18,
+      "frameWidth": 120,
+      "frameHeight": 83,
+      "originX": 60,
+      "originY": 62,
+      "fps": 12.5
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/raven-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 2,
+      "frameHeight": 2,
+      "originX": 0,
+      "originY": 1,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "oakSage": {
+    "NU": {
+      "file": "sprites/classes/oakSage-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/oakSage-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 12.5,
+      "velocity": 6
+    },
+    "GH": {
+      "file": "sprites/classes/oakSage-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/oakSage-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 13,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 18.75
+    },
+    "DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/oakSage-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/oakSage-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 12.5,
+      "velocity": 6
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/oakSage-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/oakSage-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 13,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 18.75
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "heartOfWolverine": {
+    "NU": {
+      "file": "sprites/classes/heartOfWolverine-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 14.0625
+    },
+    "WL": {
+      "file": "sprites/classes/heartOfWolverine-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 22.65625,
+      "velocity": 6
+    },
+    "GH": {
+      "file": "sprites/classes/heartOfWolverine-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 9.375
+    },
+    "DT": {
+      "file": "sprites/classes/heartOfWolverine-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 21.875
+    },
+    "DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/heartOfWolverine-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 14.0625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/heartOfWolverine-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 22.65625,
+      "velocity": 6
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/heartOfWolverine-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 9.375
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/heartOfWolverine-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 21.875
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "spiritOfBarbs": {
+    "NU": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 16.40625
+    },
+    "WL": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 24.21875,
+      "velocity": 6
+    },
+    "GH": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 7,
+      "frameWidth": 114,
+      "frameHeight": 115,
+      "originX": 57,
+      "originY": 124,
+      "shadow": null,
+      "fps": 16.40625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-WL.png",
+      "directions": 4,
+      "framesPerDirection": 7,
+      "frameWidth": 115,
+      "frameHeight": 116,
+      "originX": 58,
+      "originY": 125,
+      "shadow": null,
+      "fps": 24.21875,
+      "velocity": 6
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 113,
+      "frameHeight": 115,
+      "originX": 56,
+      "originY": 124,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/spiritOfBarbs-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 218,
+      "frameHeight": 225,
+      "originX": 108,
+      "originY": 200,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/oakSage-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 10,
+      "frameHeight": 8,
+      "originX": 2,
+      "originY": 77,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "skeleton": {
+    "NU": {
+      "file": "sprites/classes/skeleton-1HS-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 92,
+      "frameHeight": 80,
+      "originX": 46,
+      "originY": 65,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeleton-1HS-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 75,
+      "originX": 39,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 13
+    },
+    "GH": {
+      "file": "sprites/classes/skeleton-1HS-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 115,
+      "frameHeight": 84,
+      "originX": 59,
+      "originY": 65,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/skeleton-1HS-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 130,
+      "frameHeight": 113,
+      "originX": 67,
+      "originY": 88,
+      "fps": 21.875
+    },
+    "A2": {
+      "file": "sprites/classes/skeleton-1HS-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 121,
+      "frameHeight": 98,
+      "originX": 60,
+      "originY": 79,
+      "fps": 21.875
+    },
+    "BL": {
+      "file": "sprites/classes/skeleton-1HS-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 95,
+      "frameHeight": 85,
+      "originX": 48,
+      "originY": 64,
+      "fps": 21.875
+    },
+    "S1": {
+      "file": "sprites/classes/skeleton-1HS-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 92,
+      "frameHeight": 89,
+      "originX": 46,
+      "originY": 60,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "1HS-NU": {
+      "file": "sprites/classes/skeleton-1HS-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 92,
+      "frameHeight": 80,
+      "originX": 46,
+      "originY": 65,
+      "fps": 12.5
+    },
+    "1HS-WL": {
+      "file": "sprites/classes/skeleton-1HS-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 80,
+      "frameHeight": 75,
+      "originX": 39,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 13
+    },
+    "1HS-GH": {
+      "file": "sprites/classes/skeleton-1HS-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 115,
+      "frameHeight": 84,
+      "originX": 59,
+      "originY": 65,
+      "fps": 25
+    },
+    "1HS-A1": {
+      "file": "sprites/classes/skeleton-1HS-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 130,
+      "frameHeight": 113,
+      "originX": 67,
+      "originY": 88,
+      "fps": 21.875
+    },
+    "1HS-A2": {
+      "file": "sprites/classes/skeleton-1HS-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 121,
+      "frameHeight": 98,
+      "originX": 60,
+      "originY": 79,
+      "fps": 21.875
+    },
+    "1HS-BL": {
+      "file": "sprites/classes/skeleton-1HS-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 95,
+      "frameHeight": 85,
+      "originX": 48,
+      "originY": 64,
+      "fps": 21.875
+    },
+    "1HS-S1": {
+      "file": "sprites/classes/skeleton-1HS-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 92,
+      "frameHeight": 89,
+      "originX": 46,
+      "originY": 60,
+      "fps": 12.5
+    },
+    "1HS-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "1HS-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "skeletalMage": {
+    "NU": {
+      "file": "sprites/classes/skeletalMage-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 69,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeletalMage-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 55,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "GH": {
+      "file": "sprites/classes/skeletalMage-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/skeletalMage-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 146,
+      "frameHeight": 101,
+      "originX": 74,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "S1": {
+      "file": "sprites/classes/skeletalMage-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/skeletalMage-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 69,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/skeletalMage-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 55,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/skeletalMage-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/skeletalMage-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 146,
+      "frameHeight": 101,
+      "originX": 74,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/skeletalMage-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "skeletalMageFire": {
+    "NU": {
+      "file": "sprites/classes/skeletalMageFire-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeletalMageFire-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 54,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "GH": {
+      "file": "sprites/classes/skeletalMageFire-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 87,
+      "frameHeight": 80,
+      "originX": 44,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/skeletalMageFire-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 131,
+      "frameHeight": 95,
+      "originX": 68,
+      "originY": 76,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "S1": {
+      "file": "sprites/classes/skeletalMageFire-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 65,
+      "frameHeight": 76,
+      "originX": 32,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/skeletalMageFire-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 68,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/skeletalMageFire-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 54,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/skeletalMageFire-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 87,
+      "frameHeight": 80,
+      "originX": 44,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/skeletalMageFire-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 131,
+      "frameHeight": 95,
+      "originX": 68,
+      "originY": 76,
+      "fps": 20.3125
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/skeletalMageFire-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 65,
+      "frameHeight": 76,
+      "originX": 32,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "skeletalMageCold": {
+    "NU": {
+      "file": "sprites/classes/skeletalMageCold-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeletalMageCold-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 56,
+      "frameHeight": 75,
+      "originX": 29,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "GH": {
+      "file": "sprites/classes/skeletalMageCold-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 89,
+      "frameHeight": 80,
+      "originX": 44,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/skeletalMageCold-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 148,
+      "frameHeight": 101,
+      "originX": 78,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "S1": {
+      "file": "sprites/classes/skeletalMageCold-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/skeletalMageCold-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 70,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/skeletalMageCold-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 56,
+      "frameHeight": 75,
+      "originX": 29,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/skeletalMageCold-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 89,
+      "frameHeight": 80,
+      "originX": 44,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/skeletalMageCold-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 148,
+      "frameHeight": 101,
+      "originX": 78,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/skeletalMageCold-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "skeletalMageLightning": {
+    "NU": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 66,
+      "frameHeight": 72,
+      "originX": 33,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 52,
+      "frameHeight": 75,
+      "originX": 26,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "GH": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 85,
+      "frameHeight": 78,
+      "originX": 43,
+      "originY": 59,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 102,
+      "frameHeight": 94,
+      "originX": 51,
+      "originY": 75,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "S1": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 64,
+      "frameHeight": 74,
+      "originX": 32,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 66,
+      "frameHeight": 72,
+      "originX": 33,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 52,
+      "frameHeight": 75,
+      "originX": 26,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 85,
+      "frameHeight": 78,
+      "originX": 43,
+      "originY": 59,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 102,
+      "frameHeight": 94,
+      "originX": 51,
+      "originY": 75,
+      "fps": 20.3125
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/skeletalMageLightning-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 64,
+      "frameHeight": 74,
+      "originX": 32,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "skeletalMagePoison": {
+    "NU": {
+      "file": "sprites/classes/skeletalMage-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 69,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/classes/skeletalMage-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 55,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "GH": {
+      "file": "sprites/classes/skeletalMage-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "A1": {
+      "file": "sprites/classes/skeletalMage-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 146,
+      "frameHeight": 101,
+      "originX": 74,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "S1": {
+      "file": "sprites/classes/skeletalMage-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/skeletalMage-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 69,
+      "frameHeight": 72,
+      "originX": 34,
+      "originY": 57,
+      "fps": 12.5
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/skeletalMage-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 55,
+      "frameHeight": 75,
+      "originX": 28,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 12
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/skeletalMage-HTH-GH.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 86,
+      "frameHeight": 80,
+      "originX": 43,
+      "originY": 61,
+      "fps": 17.96875
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/skeletalMage-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 146,
+      "frameHeight": 101,
+      "originX": 74,
+      "originY": 82,
+      "fps": 20.3125
+    },
+    "HTH-A2": {
+      "file": "sprites/classes/skeletalMage-HTH-A2.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 75,
+      "frameHeight": 77,
+      "originX": 37,
+      "originY": 58,
+      "fps": 12.5
+    },
+    "HTH-BL": {
+      "file": "sprites/classes/skeletalMage-HTH-BL.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 60,
+      "frameHeight": 77,
+      "originX": 30,
+      "originY": 56,
+      "fps": 12.5
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/skeletalMage-HTH-S1.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 68,
+      "frameHeight": 77,
+      "originX": 34,
+      "originY": 52,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/skeleton-1HS-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 126,
+      "frameHeight": 108,
+      "originX": 64,
+      "originY": 68,
+      "fps": 20.3125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/skeleton-1HS-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 126,
+      "frameHeight": 65,
+      "originX": 64,
+      "originY": 25,
+      "fps": 14.84375
+    }
+  },
+  "clayGolem": {
+    "NU": {
+      "file": "sprites/classes/clayGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 52,
+      "frameHeight": 70,
+      "originX": 26,
+      "originY": 58,
+      "fps": 3.90625
+    },
+    "WL": {
+      "file": "sprites/classes/clayGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 63,
+      "frameHeight": 75,
+      "originX": 32,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 8
+    },
+    "A1": {
+      "file": "sprites/classes/clayGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 97,
+      "frameHeight": 94,
+      "originX": 49,
+      "originY": 76,
+      "fps": 22.65625
+    },
+    "S1": {
+      "file": "sprites/classes/clayGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 70,
+      "frameHeight": 68,
+      "originX": 36,
+      "originY": 50,
+      "fps": 12.5
+    },
+    "DT": {
+      "file": "sprites/classes/clayGolem-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 105,
+      "frameHeight": 84,
+      "originX": 50,
+      "originY": 52,
+      "fps": 16.40625
+    },
+    "DD": {
+      "file": "sprites/classes/clayGolem-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 105,
+      "frameHeight": 67,
+      "originX": 50,
+      "originY": 35,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/clayGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 52,
+      "frameHeight": 70,
+      "originX": 26,
+      "originY": 58,
+      "fps": 3.90625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/clayGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 63,
+      "frameHeight": 75,
+      "originX": 32,
+      "originY": 57,
+      "fps": 12.5,
+      "velocity": 8
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/clayGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 97,
+      "frameHeight": 94,
+      "originX": 49,
+      "originY": 76,
+      "fps": 22.65625
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/clayGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 70,
+      "frameHeight": 68,
+      "originX": 36,
+      "originY": 50,
+      "fps": 12.5
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/clayGolem-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 105,
+      "frameHeight": 84,
+      "originX": 50,
+      "originY": 52,
+      "fps": 16.40625
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/clayGolem-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 105,
+      "frameHeight": 67,
+      "originX": 50,
+      "originY": 35,
+      "fps": 25
+    }
+  },
+  "bloodGolem": {
+    "NU": {
+      "file": "sprites/classes/bloodGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 52,
+      "frameHeight": 73,
+      "originX": 26,
+      "originY": 61,
+      "fps": 5.46875
+    },
+    "WL": {
+      "file": "sprites/classes/bloodGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 64,
+      "frameHeight": 80,
+      "originX": 32,
+      "originY": 62,
+      "fps": 17.96875,
+      "velocity": 9
+    },
+    "A1": {
+      "file": "sprites/classes/bloodGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 118,
+      "frameHeight": 93,
+      "originX": 59,
+      "originY": 79,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/bloodGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 67,
+      "frameHeight": 71,
+      "originX": 39,
+      "originY": 52,
+      "fps": 15.625
+    },
+    "DT": {
+      "file": "sprites/classes/bloodGolem-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 83,
+      "frameHeight": 81,
+      "originX": 41,
+      "originY": 61,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bloodGolem-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 87,
+      "frameHeight": 63,
+      "originX": 43,
+      "originY": 40,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bloodGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 52,
+      "frameHeight": 73,
+      "originX": 26,
+      "originY": 61,
+      "fps": 5.46875
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/bloodGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 64,
+      "frameHeight": 80,
+      "originX": 32,
+      "originY": 62,
+      "fps": 17.96875,
+      "velocity": 9
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/bloodGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 118,
+      "frameHeight": 93,
+      "originX": 59,
+      "originY": 79,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bloodGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 67,
+      "frameHeight": 71,
+      "originX": 39,
+      "originY": 52,
+      "fps": 15.625
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bloodGolem-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 83,
+      "frameHeight": 81,
+      "originX": 41,
+      "originY": 61,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bloodGolem-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 87,
+      "frameHeight": 63,
+      "originX": 43,
+      "originY": 40,
+      "fps": 25
+    }
+  },
+  "ironGolem": {
+    "NU": {
+      "file": "sprites/classes/ironGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 75,
+      "frameHeight": 79,
+      "originX": 38,
+      "originY": 68,
+      "fps": 3.90625
+    },
+    "WL": {
+      "file": "sprites/classes/ironGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 87,
+      "originX": 37,
+      "originY": 70,
+      "fps": 10.9375,
+      "velocity": 9
+    },
+    "A1": {
+      "file": "sprites/classes/ironGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 120,
+      "frameHeight": 114,
+      "originX": 59,
+      "originY": 92,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/ironGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 46,
+      "frameHeight": 77,
+      "originX": 24,
+      "originY": 60,
+      "fps": 10.15625
+    },
+    "DT": {
+      "file": "sprites/classes/ironGolem-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 112,
+      "frameHeight": 102,
+      "originX": 57,
+      "originY": 72,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/ironGolem-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 116,
+      "frameHeight": 65,
+      "originX": 59,
+      "originY": 34,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/ironGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 4,
+      "frameWidth": 75,
+      "frameHeight": 79,
+      "originX": 38,
+      "originY": 68,
+      "fps": 3.90625
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/ironGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 74,
+      "frameHeight": 87,
+      "originX": 37,
+      "originY": 70,
+      "fps": 10.9375,
+      "velocity": 9
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/ironGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 120,
+      "frameHeight": 114,
+      "originX": 59,
+      "originY": 92,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/ironGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 46,
+      "frameHeight": 77,
+      "originX": 24,
+      "originY": 60,
+      "fps": 10.15625
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/ironGolem-HTH-DT.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 112,
+      "frameHeight": 102,
+      "originX": 57,
+      "originY": 72,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/ironGolem-HTH-DD.png",
+      "directions": 8,
+      "framesPerDirection": 1,
+      "frameWidth": 116,
+      "frameHeight": 65,
+      "originX": 59,
+      "originY": 34,
+      "fps": 25
+    }
+  },
+  "fireGolem": {
+    "NU": {
+      "file": "sprites/classes/fireGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 56,
+      "frameHeight": 92,
+      "originX": 28,
+      "originY": 78,
+      "fps": 10.9375
+    },
+    "WL": {
+      "file": "sprites/classes/fireGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 73,
+      "frameHeight": 98,
+      "originX": 36,
+      "originY": 78,
+      "fps": 18.75,
+      "velocity": 10
+    },
+    "A1": {
+      "file": "sprites/classes/fireGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 17,
+      "frameWidth": 134,
+      "frameHeight": 106,
+      "originX": 67,
+      "originY": 77,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/fireGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 209,
+      "frameHeight": 136,
+      "originX": 109,
+      "originY": 78,
+      "fps": 16.40625
+    },
+    "DT": {
+      "file": "sprites/classes/fireGolem-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 19,
+      "frameWidth": 221,
+      "frameHeight": 226,
+      "originX": 118,
+      "originY": 187,
+      "shadow": null,
+      "fps": 19.53125
+    },
+    "DD": {
+      "file": "sprites/classes/fireGolem-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 118,
+      "frameHeight": 58,
+      "originX": 58,
+      "originY": 27,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/fireGolem-HTH-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 56,
+      "frameHeight": 92,
+      "originX": 28,
+      "originY": 78,
+      "fps": 10.9375
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/fireGolem-HTH-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 73,
+      "frameHeight": 98,
+      "originX": 36,
+      "originY": 78,
+      "fps": 18.75,
+      "velocity": 10
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/fireGolem-HTH-A1.png",
+      "directions": 8,
+      "framesPerDirection": 17,
+      "frameWidth": 134,
+      "frameHeight": 106,
+      "originX": 67,
+      "originY": 77,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/fireGolem-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 209,
+      "frameHeight": 136,
+      "originX": 109,
+      "originY": 78,
+      "fps": 16.40625
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/fireGolem-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 19,
+      "frameWidth": 221,
+      "frameHeight": 226,
+      "originX": 118,
+      "originY": 187,
+      "shadow": null,
+      "fps": 19.53125
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/fireGolem-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 118,
+      "frameHeight": 58,
+      "originX": 58,
+      "originY": 27,
+      "fps": 25
+    }
+  },
+  "bonePrison1": {
+    "NU": {
+      "file": "sprites/classes/bonePrison1-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 59,
+      "frameHeight": 101,
+      "originX": 44,
+      "originY": 74,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/bonePrison1-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 59,
+      "frameHeight": 103,
+      "originX": 44,
+      "originY": 76,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/bonePrison1-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 59,
+      "frameHeight": 101,
+      "originX": 44,
+      "originY": 74,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/bonePrison1-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 101,
+      "frameHeight": 143,
+      "originX": 86,
+      "originY": 79,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bonePrison1-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 99,
+      "frameHeight": 76,
+      "originX": 84,
+      "originY": 13,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bonePrison1-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 59,
+      "frameHeight": 101,
+      "originX": 44,
+      "originY": 74,
+      "fps": 25
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/bonePrison1-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 59,
+      "frameHeight": 103,
+      "originX": 44,
+      "originY": 76,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bonePrison1-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 59,
+      "frameHeight": 101,
+      "originX": 44,
+      "originY": 74,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bonePrison1-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 101,
+      "frameHeight": 143,
+      "originX": 86,
+      "originY": 79,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bonePrison1-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 99,
+      "frameHeight": 76,
+      "originX": 84,
+      "originY": 13,
+      "fps": 25
+    }
+  },
+  "bonePrison2": {
+    "NU": {
+      "file": "sprites/classes/bonePrison2-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 44,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/bonePrison2-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 44,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/bonePrison2-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 45,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/bonePrison2-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 106,
+      "frameHeight": 124,
+      "originX": 7,
+      "originY": 83,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bonePrison2-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 105,
+      "frameHeight": 52,
+      "originX": 7,
+      "originY": 11,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bonePrison2-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 44,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/bonePrison2-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 44,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bonePrison2-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 45,
+      "frameHeight": 95,
+      "originX": -2,
+      "originY": 73,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bonePrison2-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 106,
+      "frameHeight": 124,
+      "originX": 7,
+      "originY": 83,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bonePrison2-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 105,
+      "frameHeight": 52,
+      "originX": 7,
+      "originY": 11,
+      "fps": 25
+    }
+  },
+  "bonePrison3": {
+    "NU": {
+      "file": "sprites/classes/bonePrison3-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 36,
+      "frameHeight": 80,
+      "originX": -4,
+      "originY": 79,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/bonePrison3-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 36,
+      "frameHeight": 82,
+      "originX": -4,
+      "originY": 81,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/bonePrison3-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 36,
+      "frameHeight": 80,
+      "originX": -4,
+      "originY": 79,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/bonePrison3-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 94,
+      "frameHeight": 96,
+      "originX": 9,
+      "originY": 95,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bonePrison3-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 95,
+      "frameHeight": 36,
+      "originX": 9,
+      "originY": 35,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bonePrison3-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 36,
+      "frameHeight": 80,
+      "originX": -4,
+      "originY": 79,
+      "fps": 25
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/bonePrison3-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 36,
+      "frameHeight": 82,
+      "originX": -4,
+      "originY": 81,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bonePrison3-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 36,
+      "frameHeight": 80,
+      "originX": -4,
+      "originY": 79,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bonePrison3-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 94,
+      "frameHeight": 96,
+      "originX": 9,
+      "originY": 95,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bonePrison3-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 95,
+      "frameHeight": 36,
+      "originX": 9,
+      "originY": 35,
+      "fps": 25
+    }
+  },
+  "bonePrison4": {
+    "NU": {
+      "file": "sprites/classes/bonePrison4-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 37,
+      "frameHeight": 69,
+      "originX": 35,
+      "originY": 78,
+      "fps": 25
+    },
+    "GH": {
+      "file": "sprites/classes/bonePrison4-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 37,
+      "frameHeight": 72,
+      "originX": 35,
+      "originY": 81,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/bonePrison4-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 38,
+      "frameHeight": 70,
+      "originX": 36,
+      "originY": 78,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/bonePrison4-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 83,
+      "frameHeight": 94,
+      "originX": 67,
+      "originY": 95,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bonePrison4-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 82,
+      "frameHeight": 40,
+      "originX": 66,
+      "originY": 42,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bonePrison4-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 37,
+      "frameHeight": 69,
+      "originX": 35,
+      "originY": 78,
+      "fps": 25
+    },
+    "HTH-GH": {
+      "file": "sprites/classes/bonePrison4-HTH-GH.png",
+      "directions": 1,
+      "framesPerDirection": 4,
+      "frameWidth": 37,
+      "frameHeight": 72,
+      "originX": 35,
+      "originY": 81,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bonePrison4-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 14,
+      "frameWidth": 38,
+      "frameHeight": 70,
+      "originX": 36,
+      "originY": 78,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bonePrison4-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 11,
+      "frameWidth": 83,
+      "frameHeight": 94,
+      "originX": 67,
+      "originY": 95,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bonePrison4-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 82,
+      "frameHeight": 40,
+      "originX": 66,
+      "originY": 42,
+      "fps": 25
+    }
+  },
+  "chargeBoltSentry": {
+    "NU": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 51,
+      "frameHeight": 50,
+      "originX": 31,
+      "originY": 46,
+      "shadow": null,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 58,
+      "frameHeight": 56,
+      "originX": 34,
+      "originY": 46,
+      "shadow": null,
+      "fps": 25
+    },
+    "S2": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-S2.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 64,
+      "frameHeight": 65,
+      "originX": 39,
+      "originY": 54,
+      "shadow": null,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 23,
+      "frameWidth": 205,
+      "frameHeight": 142,
+      "originX": 127,
+      "originY": 88,
+      "shadow": null,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 152,
+      "frameHeight": 64,
+      "originX": 102,
+      "originY": 31,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 51,
+      "frameHeight": 50,
+      "originX": 31,
+      "originY": 46,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 58,
+      "frameHeight": 56,
+      "originX": 34,
+      "originY": 46,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-S2": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-S2.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 64,
+      "frameHeight": 65,
+      "originX": 39,
+      "originY": 54,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 23,
+      "frameWidth": 205,
+      "frameHeight": 142,
+      "originX": 127,
+      "originY": 88,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/chargeBoltSentry-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 152,
+      "frameHeight": 64,
+      "originX": 102,
+      "originY": 31,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "wakeOfDestruction": {
+    "NU": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 2,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "A1": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-A1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 36,
+      "frameHeight": 46,
+      "originX": 17,
+      "originY": 38,
+      "shadow": null,
+      "fps": 25
+    },
+    "S1": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "S2": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-S2.png",
+      "directions": 16,
+      "framesPerDirection": 2,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 25,
+      "frameWidth": 175,
+      "frameHeight": 92,
+      "originX": 87,
+      "originY": 43,
+      "shadow": null,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 179,
+      "frameHeight": 90,
+      "originX": 89,
+      "originY": 40,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-NU.png",
+      "directions": 16,
+      "framesPerDirection": 2,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-A1": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-A1.png",
+      "directions": 1,
+      "framesPerDirection": 15,
+      "frameWidth": 36,
+      "frameHeight": 46,
+      "originX": 17,
+      "originY": 38,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-S1.png",
+      "directions": 16,
+      "framesPerDirection": 15,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-S2": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-S2.png",
+      "directions": 16,
+      "framesPerDirection": 2,
+      "frameWidth": 52,
+      "frameHeight": 40,
+      "originX": 26,
+      "originY": 34,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-DT.png",
+      "directions": 16,
+      "framesPerDirection": 25,
+      "frameWidth": 175,
+      "frameHeight": 92,
+      "originX": 87,
+      "originY": 43,
+      "shadow": null,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/wakeOfDestruction-HTH-DD.png",
+      "directions": 16,
+      "framesPerDirection": 1,
+      "frameWidth": 179,
+      "frameHeight": 90,
+      "originX": 89,
+      "originY": 40,
+      "shadow": null,
+      "fps": 25
+    }
+  },
+  "bladeCreeper": {
+    "NU": {
+      "file": "sprites/classes/bladeCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 21,
+      "frameWidth": 50,
+      "frameHeight": 26,
+      "originX": 25,
+      "originY": 47,
+      "fps": 25
+    },
+    "WL": {
+      "file": "sprites/classes/bladeCreeper-HTH-WL.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 50,
+      "frameHeight": 26,
+      "originX": 25,
+      "originY": 47,
+      "fps": 25,
+      "velocity": 10
+    },
+    "S1": {
+      "file": "sprites/classes/bladeCreeper-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 12,
+      "frameWidth": 50,
+      "frameHeight": 47,
+      "originX": 25,
+      "originY": 57,
+      "fps": 25
+    },
+    "DT": {
+      "file": "sprites/classes/bladeCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 35,
+      "frameWidth": 124,
+      "frameHeight": 59,
+      "originX": 73,
+      "originY": 45,
+      "fps": 25
+    },
+    "DD": {
+      "file": "sprites/classes/bladeCreeper-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 118,
+      "frameHeight": 32,
+      "originX": 67,
+      "originY": 18,
+      "fps": 25
+    },
+    "HTH-NU": {
+      "file": "sprites/classes/bladeCreeper-HTH-NU.png",
+      "directions": 1,
+      "framesPerDirection": 21,
+      "frameWidth": 50,
+      "frameHeight": 26,
+      "originX": 25,
+      "originY": 47,
+      "fps": 25
+    },
+    "HTH-WL": {
+      "file": "sprites/classes/bladeCreeper-HTH-WL.png",
+      "directions": 1,
+      "framesPerDirection": 3,
+      "frameWidth": 50,
+      "frameHeight": 26,
+      "originX": 25,
+      "originY": 47,
+      "fps": 25,
+      "velocity": 10
+    },
+    "HTH-S1": {
+      "file": "sprites/classes/bladeCreeper-HTH-S1.png",
+      "directions": 1,
+      "framesPerDirection": 12,
+      "frameWidth": 50,
+      "frameHeight": 47,
+      "originX": 25,
+      "originY": 57,
+      "fps": 25
+    },
+    "HTH-DT": {
+      "file": "sprites/classes/bladeCreeper-HTH-DT.png",
+      "directions": 1,
+      "framesPerDirection": 35,
+      "frameWidth": 124,
+      "frameHeight": 59,
+      "originX": 73,
+      "originY": 45,
+      "fps": 25
+    },
+    "HTH-DD": {
+      "file": "sprites/classes/bladeCreeper-HTH-DD.png",
+      "directions": 1,
+      "framesPerDirection": 1,
+      "frameWidth": 118,
+      "frameHeight": 32,
+      "originX": 67,
+      "originY": 18,
+      "fps": 25
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "fallen": {
+    "WL": {
+      "file": "sprites/units/fallen-WL.png",
+      "directions": 8,
+      "framesPerDirection": 10,
+      "frameWidth": 57,
+      "frameHeight": 64,
+      "originX": 28,
+      "originY": 54
+    },
+    "DT": {
+      "file": "sprites/units/fallen-DT.png",
+      "directions": 8,
+      "framesPerDirection": 20,
+      "frameWidth": 112,
+      "frameHeight": 105,
+      "originX": 55,
+      "originY": 74,
+      "shadow": "sprites/units/fallen-DT-shadow.png"
+    }
+  },
+  "quillRat": {
+    "WL": {
+      "file": "sprites/units/quillRat-WL.png",
+      "directions": 8,
+      "framesPerDirection": 9,
+      "frameWidth": 88,
+      "frameHeight": 52,
+      "originX": 44,
+      "originY": 31
+    },
+    "DT": {
+      "file": "sprites/units/quillRat-DT.png",
+      "directions": 8,
+      "framesPerDirection": 14,
+      "frameWidth": 96,
+      "frameHeight": 55,
+      "originX": 48,
+      "originY": 32
+    }
+  },
+  "zombie": {
+    "WL": {
+      "file": "sprites/units/zombie-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 45,
+      "frameHeight": 68,
+      "originX": 23,
+      "originY": 54
+    },
+    "DT": {
+      "file": "sprites/units/zombie-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 133,
+      "frameHeight": 96,
+      "originX": 67,
+      "originY": 53
+    }
+  },
+  "skeleton": {
+    "WL": {
+      "file": "sprites/units/skeleton-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 69,
+      "frameHeight": 75,
+      "originX": 34,
+      "originY": 57
+    },
+    "DT": {
+      "file": "sprites/units/skeleton-DT.png",
+      "directions": 8,
+      "framesPerDirection": 19,
+      "frameWidth": 120,
+      "frameHeight": 107,
+      "originX": 61,
+      "originY": 68
+    }
+  },
+  "bloodHawk": {
+    "WL": {
+      "file": "sprites/units/bloodHawk-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 99,
+      "frameHeight": 72,
+      "originX": 49,
+      "originY": 86
+    },
+    "DT": {
+      "file": "sprites/units/bloodHawk-DT.png",
+      "directions": 8,
+      "framesPerDirection": 23,
+      "frameWidth": 118,
+      "frameHeight": 96,
+      "originX": 59,
+      "originY": 62
+    }
+  },
+  "corruptRogue": {
+    "WL": {
+      "file": "sprites/units/corruptRogue-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 98,
+      "frameHeight": 88,
+      "originX": 50,
+      "originY": 77
+    },
+    "DT": {
+      "file": "sprites/units/corruptRogue-DT.png",
+      "directions": 8,
+      "framesPerDirection": 24,
+      "frameWidth": 116,
+      "frameHeight": 212,
+      "originX": 58,
+      "originY": 189,
+      "shadow": "sprites/units/corruptRogue-DT-shadow.png"
+    }
+  },
+  "goatman": {
+    "WL": {
+      "file": "sprites/units/goatman-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 82,
+      "frameHeight": 79,
+      "originX": 41,
+      "originY": 74
+    }
+  },
+  "brute": {
+    "WL": {
+      "file": "sprites/units/brute-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 111,
+      "frameHeight": 118,
+      "originX": 56,
+      "originY": 96
+    },
+    "DT": {
+      "file": "sprites/units/brute-DT.png",
+      "directions": 8,
+      "framesPerDirection": 18,
+      "frameWidth": 202,
+      "frameHeight": 150,
+      "originX": 104,
+      "originY": 97
+    }
+  },
+  "andariel": {
+    "WL": {
+      "file": "sprites/units/andariel-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 148,
+      "frameHeight": 184,
+      "originX": 73,
+      "originY": 164
+    },
+    "DT": {
+      "file": "sprites/units/andariel-DT.png",
+      "directions": 8,
+      "framesPerDirection": 23,
+      "frameWidth": 203,
+      "frameHeight": 232,
+      "originX": 100,
+      "originY": 185
+    }
+  },
+  "duriel": {
+    "WL": {
+      "file": "sprites/units/duriel-WL.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 252,
+      "frameHeight": 225,
+      "originX": 128,
+      "originY": 154
+    },
+    "DT": {
+      "file": "sprites/units/duriel-DT.png",
+      "directions": 8,
+      "framesPerDirection": 25,
+      "frameWidth": 265,
+      "frameHeight": 232,
+      "originX": 131,
+      "originY": 151
+    }
+  },
+  "diablo": {
+    "WL": {
+      "file": "sprites/units/diablo-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 293,
+      "frameHeight": 188,
+      "originX": 145,
+      "originY": 147
+    }
+  },
+  "baal": {
+    "WL": {
+      "file": "sprites/units/baal-WL.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 160,
+      "frameHeight": 206,
+      "originX": 80,
+      "originY": 176
+    }
+  },
+  "sorceress": {
+    "RN": {
+      "file": "sprites/units/sorceress-RN.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 61,
+      "frameHeight": 76,
+      "originX": 30,
+      "originY": 66
+    },
+    "WL": {
+      "file": "sprites/units/sorceress-WL.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 42,
+      "frameHeight": 76,
+      "originX": 21,
+      "originY": 67
+    },
+    "NU": {
+      "file": "sprites/units/sorceress-NU.png",
+      "directions": 16,
+      "framesPerDirection": 8,
+      "frameWidth": 35,
+      "frameHeight": 72,
+      "originX": 17,
+      "originY": 65
+    },
+    "SC": {
+      "file": "sprites/units/sorceress-SC.png",
+      "directions": 16,
+      "framesPerDirection": 14,
+      "frameWidth": 85,
+      "frameHeight": 90,
+      "originX": 42,
+      "originY": 83
+    }
+  }
+}

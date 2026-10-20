@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- viewport-fit=cover: the game runs under the notch and home bar; style.css keeps the HUD inside the safe area. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>D2 Survivors 中文版</title>
+    <!-- D2S: "D2S" in Exocet with the SURVIVORS banner's gold-to-ember fill, rendered by us (HOR-80). -->
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="../icon-512.png" />
+    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+    <!-- Added to a phone's home screen, it opens full screen without the browser's bars (HOR-86). -->
+    <link rel="manifest" href="../manifest.json" />
+    <meta name="theme-color" content="#000000" />
+    <script>(function(){try{var q=new URLSearchParams(location.search);if(!q.has("hosted")){q.set("hosted","1");location.replace(location.pathname+"?"+q.toString()+location.hash);}}catch(e){}})();</script>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="D2 Survivors" />
+    <!-- Private fan build: keep it out of search engines. -->
+    <meta name="robots" content="noindex, nofollow" />
+    <!-- Umami (cookieless, self-hosted beside whatthemeta) on the live site only: not the dev server, not the desktop app (app://). -->
+    <script>
+      if (location.hostname === 'd2survivors.lol') {
+        const umami = document.createElement('script');
+        umami.defer = true;
+        umami.src = 'https://analytics.whatthemeta.io/script.js';
+        umami.dataset.websiteId = 'd93ae798-758a-4e4d-91eb-ccbd23cacc92';
+        document.head.append(umami);
+      }
+    </script>
+    <script type="module" crossorigin src="../assets/game-1Jcq7Mrn.js"></script>
+    <link rel="modulepreload" crossorigin href="../assets/CanvasPool-CTz6W2rm.js">
+    <link rel="modulepreload" crossorigin href="../assets/previewStorage-P2Xu9kJm.js">
+    <link rel="modulepreload" crossorigin href="../assets/whatsNew-B0EnB46m.js">
+    <link rel="modulepreload" crossorigin href="../assets/preload-helper-CRzLMJPS.js">
+    <link rel="modulepreload" crossorigin href="../assets/Filter-xcuLdGR1.js">
+    <link rel="modulepreload" crossorigin href="../assets/canvasUtils-B5KrsTsU.js">
+    <link rel="modulepreload" crossorigin href="../assets/Cache-D0EC7riK.js">
+    <link rel="modulepreload" crossorigin href="../assets/defaultFilter.vert-Bl25M4I_.js">
+    <link rel="modulepreload" crossorigin href="../assets/GCManagedHash-25qXeh8D.js">
+    <link rel="modulepreload" crossorigin href="../assets/RenderTargetSystem-CRnmIqnZ.js">
+    <link rel="modulepreload" crossorigin href="../assets/getTextureBatchBindGroup-BOmbyaNZ.js">
+    <link rel="modulepreload" crossorigin href="../assets/GraphicsContext-BFAuFKTR.js">
+    <link rel="modulepreload" crossorigin href="../assets/CanvasRenderer-DUFxj1XG.js">
+    <link rel="modulepreload" crossorigin href="../assets/getTexelRangeRects-DvuDNdZD.js">
+    <link rel="modulepreload" crossorigin href="../assets/lang-DjWh6Q-i.js">
+    <link rel="modulepreload" crossorigin href="../assets/moved-DkQ61nSN.js">
+    <link rel="modulepreload" crossorigin href="../assets/screens-71ZKki2v.js">
+    <link rel="stylesheet" crossorigin href="../assets/moved-Be0-woBT.css">
+    <link rel="stylesheet" crossorigin href="../assets/screens-7XBW0yv6.css">
+    <link rel="stylesheet" crossorigin href="../assets/game-CrLPQnxb.css">
+    <script type="application/json" id="d2-files">{"hashes":{"automap":"0967c3f630","frontend/heroes":"89d9062fbb","frontend/sounds":"52b60d7073","frontend":"bd44d3c802","gear":"a833bbec80","items":"0af972d8cc","music/act1":"bc5d8a99e3","music/act2":"6fc04ef425","music/act3":"a4d0b3276a","music/act4":"4785914e0f","music/act5":"23fdd4583d","scenery/fx":"06f66235cc","scenery":"8598cdbb54","sounds/act1/amazon":"f3da26389a","sounds/act1/assassin":"17edebb356","sounds/act1/barbarian":"520e42a898","sounds/act1/charsi":"4da6da91bf","sounds/act1/druid":"9622179361","sounds/act1/monster":"7a262aaa1e","sounds/act1/necromancer":"beec9443bf","sounds/act1/paladin":"35d19a6c7a","sounds/act1/sorceress":"17d2b6524e","sounds/act2/fara":"d65a0c2e36","sounds/act2/monster":"aae03e63ee","sounds/act3/hratli":"81fd20bb61","sounds/act3/monster":"68cae18e83","sounds/act4/amazon":"c6dc28149a","sounds/act4/assassin":"8ef5504d86","sounds/act4/barbarian":"bb23a13427","sounds/act4/diablo":"6fcada0069","sounds/act4/druid":"531db3a58c","sounds/act4/halbu":"595f06c783","sounds/act4/izual":"80d22fc47d","sounds/act4/necromancer":"a3fb40a868","sounds/act4/paladin":"7eb11657c3","sounds/act4/sorceress":"4b9e5ee814","sounds/act5/amazon":"7ad43fb226","sounds/act5/assassin":"63bed2bccf","sounds/act5/barbarian":"f09082e9e3","sounds/act5/druid":"ef077922f2","sounds/act5/larzuk":"76ca185d7c","sounds/act5/monster":"a127914147","sounds/act5/necromancer":"c5ae308dd6","sounds/act5/nihlathak":"1ec53df6ef","sounds/act5/paladin":"a4c14c86e5","sounds/act5/sorceress":"d4fde23630","sounds/ambient/event":"332c3a08f0","sounds/ambient/scene":"6a162ebc74","sounds/combat/explosion":"3040c82160","sounds/combat/impact":"8f8a9a330b","sounds/combat/player/amazon":"519fd0f7a3","sounds/combat/player/assassin":"725f76a4b9","sounds/combat/player/barbarian":"3cd8955285","sounds/combat/player/druid":"53f00d21fa","sounds/combat/player/necromancer":"3b682b543d","sounds/combat/player/paladin":"834374c79e","sounds/combat/player/sorceress":"c9917b67bc","sounds/combat/weapon":"5a009836b1","sounds/common/amazon":"a7d14554e7","sounds/common/assassin":"e2941a0d32","sounds/common/barbarian":"ccf4c20062","sounds/common/druid":"8aab31b81f","sounds/common/necromancer":"12e0487545","sounds/common/paladin":"47377ba30e","sounds/common/sorceress":"312ffa095f","sounds/cursor":"22ac52d3c1","sounds/item":"a027fef229","sounds/monster/andariel":"a10b5a3811","sounds/monster/baal":"ee2ddd937a","sounds/monster/baalminion":"44253a9f58","sounds/monster/baaltentacle":"2a0cfc2c00","sounds/monster/baboondemon":"1a564afc67","sounds/monster/batdemon":"531861bbf5","sounds/monster/beetle":"fbe95c5739","sounds/monster/bighead":"3a44d5d3bf","sounds/monster/bladecreeper":"da19b28c02","sounds/monster/bloodlord":"b7d24dbace","sounds/monster/bloodraven":"adc702495c","sounds/monster/bonefetish":"de2c88ddd9","sounds/monster/corrupt":"f5e921281f","sounds/monster/countess":"6ba10bdb2b","sounds/monster/deathmauler":"b2ad00c24f","sounds/monster/diablo":"463b6611f5","sounds/monster/diabloboneprison":"c276776151","sounds/monster/druidbear":"f22c6b9f52","sounds/monster/druidraven":"90d3330b3c","sounds/monster/druidwolf":"b8442e406d","sounds/monster/duriel":"d6133db922","sounds/monster/fallen":"9f8537f34d","sounds/monster/fallenshaman":"1311a891c5","sounds/monster/fingermage":"a8fa635a33","sounds/monster/frogdemon":"58534910a6","sounds/monster/frozenhorror":"59043fc93a","sounds/monster/goatman":"75cfcbe61b","sounds/monster/golemblood":"c0ee2e3a2e","sounds/monster/golemclay":"ce6103ec59","sounds/monster/golemfire":"b71d3c174f","sounds/monster/golemiron":"0476f7a020","sounds/monster/greatermummy":"669dcd9cb3","sounds/monster/hawk":"53494a0930","sounds/monster/hawknest":"725087689a","sounds/monster/hydra":"68d8d74750","sounds/monster/imp":"84dba3b17f","sounds/monster/izual":"349f5c4e34","sounds/monster/leaper":"30cda3674a","sounds/monster/lightningsentry":"0250c2c789","sounds/monster/megademon":"0352a131f3","sounds/monster/mephisto":"863d705acb","sounds/monster/minion":"da175ed1f2","sounds/monster/moo":"55f9cc5054","sounds/monster/mosquito":"1652aa6f18","sounds/monster/mummy":"39aca64d3d","sounds/monster/oaksage":"baf6203c27","sounds/monster/overseer":"e6d86762fc","sounds/monster/pantherwoman":"e878141132","sounds/monster/pinhead":"36d40f8383","sounds/monster/putriddefiler":"a551153de1","sounds/monster/pygmy":"6049f09285","sounds/monster/pygmyshaman":"c416b03dfb","sounds/monster/reanimatedhorde":"df9a80b01a","sounds/monster/regurgitator":"188f55c742","sounds/monster/sandmaggot":"963d87f2af","sounds/monster/sandmaggotbaby":"631c85a85d","sounds/monster/sandmaggotegg":"7500cea5eb","sounds/monster/sandmaggotmama":"fda391b373","sounds/monster/sandraider":"c0c7ddb62a","sounds/monster/serpentdemon":"706c7c4844","sounds/monster/siegebeast":"b26a857a99","sounds/monster/skeleton":"86a3623013","sounds/monster/smith":"65722f8d8e","sounds/monster/spider":"fafdad7ee1","sounds/monster/spikefiend":"63e3c3e9a0","sounds/monster/succubus":"8861d275d1","sounds/monster/summoner":"17e5f912cb","sounds/monster/swarm":"1b1dc40ede","sounds/monster/tentaclehead":"5770407f42","sounds/monster/thornhulk":"9e2a1b687d","sounds/monster/undeadhorror":"84ff1bcb53","sounds/monster/vampire":"861b2781a9","sounds/monster/vilechild":"17462e4894","sounds/monster/vilemother":"6e583c5504","sounds/monster/vulturedemon":"cc13be62a7","sounds/monster/willowisp":"3d7752176b","sounds/monster/wraith":"575cc92a64","sounds/monster/yeti":"cef8c9c92b","sounds/monster/zakarumhighpriest":"c47cd6e70b","sounds/monster/zakarumpriest":"46fa3113a4","sounds/monster/zakarumzealot":"e32143067f","sounds/monster/zombie":"063cdd06bf","sounds/object/shrine":"dd644bfefe","sounds/object":"d1fb507527","sounds/skill/amazon":"a576df351f","sounds/skill/assassin":"ca9abdaad4","sounds/skill/barbarian":"d3b1415a2a","sounds/skill/druid":"bc3a17f48c","sounds/skill/misc":"60eac491cd","sounds/skill/necromancer":"47f634c3a8","sounds/skill/paladin":"3da24f85ee","sounds/skill/sorceress":"4160001e9b","sprites/classes":"916861a6b8","sprites/gear/amazon":"fd5d145c2e","sprites/gear/assassin":"2dd43948fa","sprites/gear/barbarian":"927b637a1c","sprites/gear/druid":"80c5afaf47","sprites/gear/necromancer":"31b25e41a0","sprites/gear/paladin":"8cae754e4a","sprites/gear/sorceress":"485509e0f4","sprites/missiles":"e61533eb90","sprites/monster-missiles":"ed686460d2","sprites/monsters":"9f996aa045","sprites/npcs":"4ad77e6551","sprites/overlays":"f094c4e8b6","sprites/units":"81ab115eeb","tiles":"cdd7bcef3a","ui":"f7215fb7d8","":"d2bc69ab77","recolors":"9906b93eb2"},"webp":["automap","frontend/heroes","frontend","items","scenery/fx","scenery","sprites/classes","sprites/missiles","sprites/monster-missiles","sprites/monsters","sprites/npcs","sprites/overlays","sprites/units","tiles","ui"],"recolors":["arach1","arach3","arach4","arach5","baboon1","baboon3","baboon4","baboon7","batdemon1","batdemon2","batdemon3","batdemon4","batdemon5","bighead1","bighead2","bighead3","bighead4","bighead5","bloodlord1","bloodlord2","bloodlord3","bloodlord6","bloodlord7","blunderbore1","blunderbore2","blunderbore3","blunderbore4","bonefetish4","bonefetish5","brute2","brute3","brute4","brute5","clawviper2","clawviper3","clawviper5","clawviper8","corruptrogue1","corruptrogue2","corruptrogue3","corruptrogue4","corruptrogue5","councilmember1","councilmember2","councilmember3","cr_archer1","cr_archer2","cr_archer4","cr_archer5","cr_archer8","cr_lancer1","cr_lancer2","cr_lancer3","cr_lancer8","deathmauler1","deathmauler2","deathmauler3","deathmauler4","deathmauler5","doomknight1","doomknight2","doomknight3","fallen1","fallen2","fallen3","fallen4","fallen5","fallenshaman1","fallenshaman3","fallenshaman4","fallenshaman5","fallenshaman6","fetish1","fetish2","fetish3","fetish4","fetishblow2","fetishblow3","fetishblow4","fetishblow7","fetishshaman2","fetishshaman3","fetishshaman4","foulcrow1","foulcrow2","foulcrow3","foulcrow4","frogdemon1","frogdemon2","frogdemon3","frozenhorror1","frozenhorror2","frozenhorror3","goatman1","goatman3","goatman4","goatman5","goatman7","griswold","hellbovine","imp1","imp2","imp3","imp4","imp5","maggotbaby1","maggotbaby2","maggotbaby3","maggotbaby4","maggotbaby5","maggotegg1","maggotegg2","maggotegg3","maggotegg4","maggotegg5","maggotqueen1","megademon1","megademon2","megademon3","minion1","minion10","minion2","minion3","mummy1","mummy2","mummy3","mummy4","mummy5","overseer1","overseer3","overseer4","overseer5","pantherwoman1","pantherwoman3","pantherwoman4","pantherwoman6","putriddefiler1","putriddefiler2","putriddefiler3","putriddefiler4","quillrat1","quillrat2","quillrat3","quillrat4","quillrat8","reanimatedhorde1","reanimatedhorde2","reanimatedhorde3","reanimatedhorde4","reanimatedhorde5","regurgitator1","regurgitator2","regurgitator4","sandleaper1","sandleaper3","sandleaper4","sandleaper5","sandleaper6","sandmaggot1","sandmaggot2","sandmaggot3","sandmaggot4","sandmaggot5","sandmaggot7","sandraider1","sandraider3","sandraider4","sandraider7","scarab1","scarab2","scarab3","scarab4","scarab5","siegebeast1","siegebeast2","siegebeast3","sk_archer3","sk_archer4","sk_archer5","skeleton6","skmage_cold5","skmage_fire2","skmage_fire3","skmage_ltng2","skmage_ltng3","skmage_pois3","skmage_pois5","skmage_pois6","slinger1","slinger2","slinger4","snowyeti1","snowyeti2","snowyeti4","su-anodized-elite","su-axe-dweller","su-baal-subject-1","su-baal-subject-4","su-beetleburst","su-bishibosh","su-blaze-ripper","su-bloodwitch-the-wild","su-boneash","su-bonebreak","su-bonesaw-breaker","su-bremm-sparkfist","su-coldcrow","su-coldworm-the-burrower","su-dac-farren","su-eyeback-unleashed","su-fangskin","su-fire-eye","su-flamespike-the-crawler","su-frozenstein","su-geleb-flamefinger","su-griswold","su-icehawk-riftwing","su-infector-of-souls","su-ismail-vilehand","su-leatherarm","su-lord-de-seis","su-magma-torquer","su-megaflow-rectifier","su-pindleskin","su-pitspawn-fouldog","su-rakanishu","su-riftwraith-the-cannibal","su-sarina-the-battlemaid","su-sharp-tooth-sayer","su-siege-boss","su-snapchip-shatter","su-the-countess","su-the-cow-king","su-the-tormentor","su-threash-socket","su-toorc-icefist","su-web-mage-the-burning","su-winged-death","su-witch-doctor-endugu","su-wyand-voidfinger","succubus1","succubus2","succubus3","succubus4","succubus5","succubuswitch2","succubuswitch3","succubuswitch5","succubuswitch6","unraveler1","unraveler2","unraveler3","unraveler4","unraveler6","vampire1","vampire2","vampire3","vampire5","vampire6","vilechild1","vilechild2","vilechild3","vilemother1","vilemother2","vilemother4","vulture1","vulture2","vulture3","vulture4","willowisp1","willowisp3","willowisp6","wraith1","wraith2","wraith3","wraith4","wraith5","zealot1","zealot2","zealot3","zombie1","zombie2","zombie3","zombie4","zombie5"]}</script>
+  </head>
+  <body class="no-run">
+    <div id="stage"></div>
+
+    <div id="hud">
+      <div id="build"><div id="skills"></div><div id="passives"></div></div>
+      <div id="clock">0:00</div>
+      <div id="counters"><span id="act"></span> · Level <span id="level">1</span> · <span id="kills">0</span> kills</div>
+      <!-- A Terror tier's affixes (HOR-548), under the top bar. -->
+      <div id="tier-affixes"></div>
+      <div id="gold">0 gold</div>
+      <div id="boss" class="hidden">
+        <div id="boss-name"></div>
+        <div id="boss-bar"><div id="boss-fill"></div></div>
+        <div id="boss-mods"></div>
+      </div>
+      <!-- Banners, a chest's haul and overhead messages: one column, so they never overlap (src/game/notices.ts). -->
+      <div id="notices" aria-live="polite"></div>
+      <div id="life"><div id="life-fill"></div><span id="life-text"></span></div>
+      <div id="xp"><div id="xp-fill"></div></div>
+    </div>
+
+    <!-- On touch screens: what Esc, Tab and C do on a keyboard. -->
+    <div id="touch" class="touch-only">
+      <button id="touch-pause">Pause</button>
+      <button id="touch-automap" aria-pressed="false">Automap</button>
+      <button id="touch-character">Character</button>
+    </div>
+
+    <div id="level-up" class="overlay hidden">
+      <h2>Level Up</h2>
+      <p class="hint" id="level-up-hint"></p>
+      <!-- The build's skill and passive slots, filled and empty, and why the offer is attributes when it is (HOR-352). -->
+      <div id="level-up-slots" class="slot-bar"></div>
+      <p id="level-up-why" class="hidden"></p>
+      <div id="choices"></div>
+      <div class="actions">
+        <button id="reroll" data-pad-key="2"></button>
+        <button id="skip" data-pad-key="3"></button>
+        <button id="banish" data-pad-key="5"></button>
+      </div>
+    </div>
+
+    <div id="paused" class="overlay hidden">
+      <h2>Paused</h2>
+      <div class="actions pause-menu">
+        <button id="pause-options">Options</button>
+        <button id="pause-report">Report</button>
+        <button id="pause-exit">Save and exit game</button>
+        <button id="pause-resume">Return to game (Esc)</button>
+        <p id="pause-saved" class="hidden"></p>
+      </div>
+      <div class="pause-options hidden">
+        <label>Sound <input id="option-sfx" type="range" min="0" max="1" step="0.05" /></label>
+        <label>Music <input id="option-music" type="range" min="0" max="1" step="0.05" /></label>
+        <label><input id="option-mute" type="checkbox" /> Mute</label>
+        <label><input id="option-auto-stats" type="checkbox" /> Auto stats</label>
+        <div class="actions"><button id="options-back">Previous menu (Esc)</button></div>
+      </div>
+      <p class="legal">Unofficial fan project, not affiliated with Blizzard Entertainment. Diablo II® is a trademark of Blizzard Entertainment, Inc.</p>
+      <p id="build-label" class="legal"></p>
+    </div>
+
+    <div id="game-over" class="overlay hidden">
+      <h2 id="game-over-title" class="death"></h2>
+      <p id="game-over-text"></p>
+      <div class="actions">
+        <button id="restart">Play again (Enter)</button>
+        <button id="to-town" data-pad-key="2">Visit Charsi (T)</button>
+        <button id="to-menu">Main menu (Esc)</button>
+        <button id="game-over-report">Report</button>
+      </div>
+    </div>
+
+    <div id="town" class="overlay hidden">
+      <h2>Charsi's Wares</h2>
+      <p class="hint" id="town-gold"></p>
+      <div id="wares"></div>
+      <div class="actions">
+        <button id="town-inventory">Inventory (I)</button>
+        <button id="town-gamble" class="hidden">Gamble (G)</button>
+        <button id="town-sold">Buy back (B)</button>
+        <button id="town-again" class="hidden">New run (Enter)</button>
+        <button id="town-close">Start a new run (Enter)</button>
+      </div>
+      <p class="legal">Unofficial fan project, not affiliated with Blizzard Entertainment. Diablo II® is a trademark of Blizzard Entertainment, Inc.</p>
+    </div>
+
+    <div id="character" class="overlay hidden">
+      <div id="character-panels">
+        <div class="panel" id="char-stats"></div>
+        <!-- Charsi's wares as D2's store panel, in place of the stats beside the inventory (D2 interface only). -->
+        <div class="panel hidden" id="store-panel"></div>
+        <!-- Her gamble (HOR-173), a second store panel in the same place, for the hero she trades with. -->
+        <div class="panel hidden" id="gamble-panel"></div>
+        <!-- The stash (HOR-145), at Charsi's between runs: D2R's tabs (HOR-405) on D2's store panel in the same place. -->
+        <div class="panel hidden" id="stash-panel">
+          <div id="stash-tabs"></div>
+          <div id="stash"></div>
+        </div>
+        <div class="panel" id="inventory-panel">
+          <div id="paperdoll"></div>
+          <div id="inventory"></div>
+          <p class="hint">Click to pick up · Right-click to equip · Shift-click to sell · Esc to close</p>
+        </div>
+      </div>
+      <button id="char-close" class="touch-only">Close</button>
+      <!-- Portrait in a run, while an item is in hand: drops it at the hero's feet, after a second tap (HOR-214). -->
+      <button id="drop-held" class="touch-only">Drop</button>
+      <!-- Portrait at Charsi's, while an item is in hand: sells it to her in one tap, in Drop's place (HOR-393). -->
+      <button id="sell-held" class="touch-only">Sell</button>
+    </div>
+
+    <div id="tooltip" class="hidden"></div>
+
+  </body>
+</html>

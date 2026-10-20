@@ -1,0 +1,7384 @@
+{
+  "areas": {
+    "blood-moor": {
+      "file": "tiles/blood-moor.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.9,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.07,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 1
+        },
+        {
+          "share": 0.005,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 2
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 3
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 4
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 0
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 3,
+          "rarity": 0
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 4,
+          "rarity": 0
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 5,
+          "rarity": 0
+        }
+      ]
+    },
+    "cold-plains": {
+      "file": "tiles/cold-plains.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.82,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.05,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 1
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 3
+        },
+        {
+          "share": 0.01,
+          "file": "Act1/Outdoors/Objects.dt1",
+          "main": 11,
+          "sub": 4
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 0
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 3,
+          "rarity": 0
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 4,
+          "rarity": 0
+        }
+      ]
+    },
+    "stony-field": {
+      "file": "tiles/stony-field.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.6,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.17,
+          "file": "Act1/Outdoors/Stones.dt1",
+          "main": 5,
+          "sub": 25
+        },
+        {
+          "share": 0.15,
+          "file": "Act1/Outdoors/Stones.dt1",
+          "main": 24,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        }
+      ]
+    },
+    "dark-wood": {
+      "file": "tiles/dark-wood.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.45,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        },
+        {
+          "share": 0.3,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.03125,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 1
+        },
+        {
+          "share": 0.03125,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 3
+        },
+        {
+          "share": 0.03125,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 5
+        },
+        {
+          "share": 0.03125,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 7
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 5,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 5,
+          "rarity": 2
+        }
+      ]
+    },
+    "black-marsh": {
+      "file": "tiles/black-marsh.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.62,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.13,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        },
+        {
+          "share": 0.0625,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 1
+        },
+        {
+          "share": 0.0625,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 3
+        },
+        {
+          "share": 0.0625,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 5
+        },
+        {
+          "share": 0.0625,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 7
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 5,
+          "rarity": 2
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 5,
+          "rarity": 2
+        }
+      ]
+    },
+    "tamoe-highland": {
+      "file": "tiles/tamoe-highland.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.08,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        },
+        {
+          "share": 0.015,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 1
+        },
+        {
+          "share": 0.015,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 3
+        },
+        {
+          "share": 0.015,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 5
+        },
+        {
+          "share": 0.015,
+          "file": "Act1/Outdoors/Swamp.dt1",
+          "main": 23,
+          "sub": 7
+        },
+        {
+          "share": 0.1,
+          "file": "Act1/Outdoors/Stones.dt1",
+          "main": 5,
+          "sub": 25
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 2,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 3,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 4,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 5,
+          "rarity": 2
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 5,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        }
+      ]
+    },
+    "moo-moo-farm": {
+      "file": "tiles/moo-moo-farm.png",
+      "levelType": "Act 1 - Wilderness",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.06,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 56
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        }
+      ]
+    },
+    "monastery": {
+      "file": "tiles/monastery.png",
+      "levelType": "Act 1 - Monestary",
+      "slots": [
+        {
+          "share": 1,
+          "file": "Act1/Court/Floor.dt1",
+          "main": 1,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 10
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 3
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 10
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 0
+        }
+      ],
+      "borders": {
+        "tamoe-highland": [
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "catacombs": {
+      "file": "tiles/catacombs.png",
+      "levelType": "Act 1 - Catacombs",
+      "slots": [
+        {
+          "share": 1,
+          "file": "Act1/Catacomb/floor.dt1",
+          "main": 0,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 3
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 9
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 10
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 8
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 0,
+          "rarity": 8
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 0,
+          "rarity": 10
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 0,
+          "rarity": 1
+        }
+      ]
+    },
+    "rocky-waste": {
+      "file": "tiles/rocky-waste.png",
+      "levelType": "Act 2 - Desert",
+      "slots": [
+        {
+          "share": 0.6,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 1
+        },
+        {
+          "share": 0.25,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.15,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 50
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 3
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 14
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 6
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    "desert": {
+      "file": "tiles/desert.png",
+      "levelType": "Act 2 - Desert",
+      "slots": [
+        {
+          "share": 0.86,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 1
+        },
+        {
+          "share": 0.08,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 50
+        },
+        {
+          "share": 0.06,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 3
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 14
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        }
+      ]
+    },
+    "lost-city": {
+      "file": "tiles/lost-city.png",
+      "levelType": "Act 2 - Desert",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 3
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 4
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 8
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 9
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 33
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 34
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 35
+        },
+        {
+          "share": 0.03,
+          "file": "Act2/Town/Ground.dt1",
+          "main": 1,
+          "sub": 36
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 3
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 8
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 8,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "desert": [
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "tomb": {
+      "file": "tiles/tomb.png",
+      "levelType": "Act 2 - Tomb",
+      "slots": [
+        {
+          "share": 1,
+          "file": "Act2/Tomb/Tomb.dt1",
+          "main": 0,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "desert": [
+          {
+            "x": 162,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 82,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 82,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 82,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 82,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "arcane": {
+      "file": "tiles/arcane.png",
+      "levelType": "Act 2 - Arcane",
+      "slots": [
+        {
+          "share": 1,
+          "file": "Act2/Arcane/Sanctuary.dt1",
+          "main": 0,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "tomb": [
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "spider-forest": {
+      "file": "tiles/spider-forest.png",
+      "levelType": "Act 3 - Jungle",
+      "slots": [
+        {
+          "share": 0.85,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 0
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 3
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 4
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 5
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 8
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 9
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 10
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 11
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 13
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 19
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 20
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 21
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 22
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 23
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 24
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 25
+        },
+        {
+          "share": 0.006,
+          "file": "Act3/Ground/DarkGrass.dt1",
+          "main": 1,
+          "sub": 26
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 16,
+          "rarity": 1
+        }
+      ]
+    },
+    "great-marsh": {
+      "file": "tiles/great-marsh.png",
+      "levelType": "Act 3 - Jungle",
+      "slots": [
+        {
+          "share": 0.8,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 0
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 3
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 4
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 5
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 7
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 8
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 9
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 10
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 11
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 12
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 13
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 14
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 15
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 16
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 17
+        },
+        {
+          "share": 0.0125,
+          "file": "Act3/Ground/GreenMud.dt1",
+          "main": 3,
+          "sub": 18
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "spider-forest": [
+          {
+            "x": 972,
+            "y": 328,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 328,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 410,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 410,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 410,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 410,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 410,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 410,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 410,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 410,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 492,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 492,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 492,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 492,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "flayer-jungle": {
+      "file": "tiles/flayer-jungle.png",
+      "levelType": "Act 3 - Jungle",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.15,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 1
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 3
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 5
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 7
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0.0062499999999999995,
+          "file": "Act3/Ground/DarkMud.dt1",
+          "main": 0,
+          "sub": 26
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 19,
+          "rarity": 1
+        }
+      ]
+    },
+    "lower-kurast": {
+      "file": "tiles/lower-kurast.png",
+      "levelType": "Act 3 - Kurast",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 0
+        },
+        {
+          "share": 0.1,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 1
+        },
+        {
+          "share": 0.1,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 2
+        },
+        {
+          "share": 0.00625,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 11
+        },
+        {
+          "share": 0.00625,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 16
+        },
+        {
+          "share": 0.00625,
+          "file": "Act3/Ground/DryMud.dt1",
+          "main": 2,
+          "sub": 18
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 5,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "flayer-jungle": [
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 328,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 328,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 328,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 328,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 328,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 328,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "kurast": {
+      "file": "tiles/kurast.png",
+      "levelType": "Act 3 - Kurast",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act3/Kurast/Floors.dt1",
+          "main": 21,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "lower-kurast": [
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "causeway": {
+      "file": "tiles/causeway.png",
+      "levelType": "Act 3 - Kurast",
+      "slots": [
+        {
+          "share": 0.26666666666666666,
+          "file": "Act3/Kurast/Floors.dt1",
+          "main": 20,
+          "sub": 0
+        },
+        {
+          "share": 0.26666666666666666,
+          "file": "Act3/Kurast/Floors.dt1",
+          "main": 20,
+          "sub": 1
+        },
+        {
+          "share": 0.26666666666666666,
+          "file": "Act3/Kurast/Floors.dt1",
+          "main": 20,
+          "sub": 2
+        },
+        {
+          "share": 0.2,
+          "file": "Act3/Kurast/Floors.dt1",
+          "main": 22,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "kurast": [
+          {
+            "x": 162,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 82,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 82,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 82,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 82,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "durance": {
+      "file": "tiles/durance.png",
+      "levelType": "Act 3 - Kurast",
+      "slots": [
+        {
+          "share": 0.7,
+          "file": "Act3/Travincal/Floors.dt1",
+          "main": 46,
+          "sub": 0
+        },
+        {
+          "share": 0.1,
+          "file": "Act3/Travincal/Floors.dt1",
+          "main": 46,
+          "sub": 1
+        },
+        {
+          "share": 0.008333333333333333,
+          "file": "Act3/Travincal/Floors.dt1",
+          "main": 46,
+          "sub": 30
+        },
+        {
+          "share": 0.008333333333333333,
+          "file": "Act3/Travincal/Floors.dt1",
+          "main": 46,
+          "sub": 31
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "kurast": [
+          {
+            "x": 486,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 82,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 82,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "outer-steppes": {
+      "file": "tiles/outer-steppes.png",
+      "levelType": "Act 4 - Mesa",
+      "slots": [
+        {
+          "share": 0.3233333333333333,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 0
+        },
+        {
+          "share": 0.3233333333333333,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 1
+        },
+        {
+          "share": 0.3233333333333333,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 2
+        },
+        {
+          "share": 0.03,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 12
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        }
+      ]
+    },
+    "plains-of-despair": {
+      "file": "tiles/plains-of-despair.png",
+      "levelType": "Act 4 - Mesa",
+      "slots": [
+        {
+          "share": 0.26,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 0
+        },
+        {
+          "share": 0.26,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 1
+        },
+        {
+          "share": 0.26,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 2
+        },
+        {
+          "share": 0.02,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 10,
+          "sub": 12
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 15
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 16
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 17
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 18
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 19
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 20
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 21
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 22
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 23
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 24
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 25
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 26
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 27
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 29
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 17,
+          "rarity": 1
+        }
+      ]
+    },
+    "city-of-the-damned": {
+      "file": "tiles/city-of-the-damned.png",
+      "levelType": "Act 4 - Mesa",
+      "slots": [
+        {
+          "share": 0.15,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 17
+        },
+        {
+          "share": 0.15,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 20
+        },
+        {
+          "share": 0.15,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 22
+        },
+        {
+          "share": 0.15,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 24
+        },
+        {
+          "share": 0.0625,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 18
+        },
+        {
+          "share": 0.0625,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 19
+        },
+        {
+          "share": 0.0625,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 21
+        },
+        {
+          "share": 0.0625,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 16,
+          "sub": 23
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 15
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 16
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 17
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 18
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 19
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 20
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 21
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 22
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 23
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 24
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 25
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 26
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 27
+        },
+        {
+          "share": 0.010714285714285714,
+          "file": "Act4/Mesa/Floor.dt1",
+          "main": 17,
+          "sub": 29
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        }
+      ]
+    },
+    "river-of-flame": {
+      "file": "tiles/river-of-flame.png",
+      "levelType": "Act 4 - Lava",
+      "slots": [
+        {
+          "share": 0.92,
+          "file": "Act4/Lava/Floornew.dt1",
+          "main": 38,
+          "sub": 25
+        },
+        {
+          "share": 0.05,
+          "file": "Act4/Lava/Floornew.dt1",
+          "main": 38,
+          "sub": 0
+        },
+        {
+          "share": 0.03,
+          "file": "Act4/Lava/Floornew.dt1",
+          "main": 37,
+          "sub": 29
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "city-of-the-damned": [
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 328,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "chaos-sanctuary": {
+      "file": "tiles/chaos-sanctuary.png",
+      "levelType": "Act 4 - Lava",
+      "slots": [
+        {
+          "share": 0.45,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 40,
+          "sub": 0
+        },
+        {
+          "share": 0.45,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 40,
+          "sub": 1
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 3
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 5
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 6
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 7
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 9
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 14
+        },
+        {
+          "share": 0.014285714285714287,
+          "file": "Act4/Diab/Floor.dt1",
+          "main": 30,
+          "sub": 15
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 8,
+          "rarity": 1
+        }
+      ]
+    },
+    "bloody-foothills": {
+      "file": "tiles/bloody-foothills.png",
+      "levelType": "Act 5 - Siege",
+      "slots": [
+        {
+          "share": 0.85,
+          "file": "Expansion/Siege/ground.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.15,
+          "file": "Expansion/Siege/ground.dt1",
+          "main": 0,
+          "sub": 1
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        }
+      ]
+    },
+    "frigid-highlands": {
+      "file": "tiles/frigid-highlands.png",
+      "levelType": "Act 5 - Barricade",
+      "slots": [
+        {
+          "share": 0.9,
+          "file": "Expansion/Siege/snow.dt1",
+          "main": 6,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 0,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "bloody-foothills": [
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 11,
+            "kind": "d2"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 13,
+            "kind": "d2"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 14,
+            "kind": "d2"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 7,
+            "kind": "d2"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 1,
+            "kind": "d2"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 1,
+            "kind": "d2"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 8,
+            "kind": "d2"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 8,
+            "kind": "d2"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 4,
+            "kind": "d2"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 4,
+            "kind": "d2"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 9,
+            "kind": "d2"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 9,
+            "kind": "d2"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 12,
+            "kind": "d2"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 12,
+            "kind": "d2"
+          },
+          {
+            "x": 162,
+            "y": 328,
+            "corners": 6,
+            "kind": "d2"
+          },
+          {
+            "x": 324,
+            "y": 328,
+            "corners": 6,
+            "kind": "d2"
+          },
+          {
+            "x": 486,
+            "y": 328,
+            "corners": 3,
+            "kind": "d2"
+          },
+          {
+            "x": 648,
+            "y": 328,
+            "corners": 3,
+            "kind": "d2"
+          },
+          {
+            "x": 810,
+            "y": 328,
+            "corners": 2,
+            "kind": "d2"
+          },
+          {
+            "x": 972,
+            "y": 328,
+            "corners": 2,
+            "kind": "d2"
+          },
+          {
+            "x": 1134,
+            "y": 328,
+            "corners": 5,
+            "kind": "halves"
+          },
+          {
+            "x": 0,
+            "y": 410,
+            "corners": 10,
+            "kind": "halves"
+          }
+        ]
+      }
+    },
+    "arreat-plateau": {
+      "file": "tiles/arreat-plateau.png",
+      "levelType": "Act 5 - Barricade",
+      "slots": [
+        {
+          "share": 0.6,
+          "file": "Expansion/Siege/snow.dt1",
+          "main": 6,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 0,
+          "rarity": 1
+        }
+      ]
+    },
+    "glacial-trail": {
+      "file": "tiles/glacial-trail.png",
+      "levelType": "Act 5 - Barricade",
+      "slots": [
+        {
+          "share": 0.75,
+          "file": "Expansion/Siege/snow.dt1",
+          "main": 6,
+          "sub": 0
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 0,
+          "rarity": 6
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 0,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "nihlathak-temple": [
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "crystalline-passage": {
+      "file": "tiles/crystalline-passage.png",
+      "levelType": "Act 5 - Ice Caves",
+      "slots": [
+        {
+          "share": 0.95,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 5,
+          "sub": 0
+        },
+        {
+          "share": 0.025,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 5,
+          "sub": 13
+        },
+        {
+          "share": 0.025,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 5,
+          "sub": 14
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 2,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "arreat-plateau": [
+          {
+            "x": 972,
+            "y": 0,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 0,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 82,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 82,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 82,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 82,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 82,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 82,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "frozen-river": {
+      "file": "tiles/frozen-river.png",
+      "levelType": "Act 5 - Ice Caves",
+      "slots": [
+        {
+          "share": 0.4,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 20
+        },
+        {
+          "share": 0.1,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 18
+        },
+        {
+          "share": 0.1,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 19
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 0
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 2
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 3
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 6
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 7
+        },
+        {
+          "share": 0.044444444444444446,
+          "file": "Expansion/IceCave/interior.dt1",
+          "main": 2,
+          "sub": 8
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "crystalline-passage": [
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 9,
+            "kind": "d2"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 12,
+            "kind": "d2"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 6,
+            "kind": "d2"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 3,
+            "kind": "d2"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 2,
+            "kind": "d2"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 1,
+            "kind": "d2"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 8,
+            "kind": "d2"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 4,
+            "kind": "d2"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 13,
+            "kind": "d2"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 7,
+            "kind": "d2"
+          },
+          {
+            "x": 162,
+            "y": 328,
+            "corners": 11,
+            "kind": "d2"
+          },
+          {
+            "x": 324,
+            "y": 328,
+            "corners": 5,
+            "kind": "halves"
+          },
+          {
+            "x": 486,
+            "y": 328,
+            "corners": 10,
+            "kind": "halves"
+          },
+          {
+            "x": 648,
+            "y": 328,
+            "corners": 14,
+            "kind": "halves"
+          }
+        ]
+      }
+    },
+    "nihlathak-temple": {
+      "file": "tiles/nihlathak-temple.png",
+      "levelType": "Act 5 - Temple",
+      "slots": [
+        {
+          "share": 0.6,
+          "file": "Expansion/wildtemple/interior.dt1",
+          "main": 1,
+          "sub": 0
+        },
+        {
+          "share": 0.2,
+          "file": "Expansion/wildtemple/interior.dt1",
+          "main": 1,
+          "sub": 1
+        },
+        {
+          "share": 0.2,
+          "file": "Expansion/wildtemple/interior.dt1",
+          "main": 1,
+          "sub": 2
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 2
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "frozen-river": [
+          {
+            "x": 648,
+            "y": 82,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 82,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 82,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 82,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "arreat-summit": {
+      "file": "tiles/arreat-summit.png",
+      "levelType": "Act 5 - Barricade",
+      "slots": [
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 0
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 1
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 2
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 3
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 4
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 5
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 6
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 7
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 8
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 9
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 10
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 11
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 12
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 13
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 14
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 15
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 16
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 17
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 18
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 19
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 20
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 21
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 22
+        },
+        {
+          "share": 0.041666666666666664,
+          "file": "Expansion/MountainTop/floor.dt1",
+          "main": 20,
+          "sub": 23
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 0
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 1,
+          "rarity": 0
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 2,
+          "rarity": 0
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 3,
+          "rarity": 0
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 4,
+          "rarity": 0
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 5,
+          "rarity": 0
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 6,
+          "rarity": 0
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 7,
+          "rarity": 0
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 8,
+          "rarity": 0
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 9,
+          "rarity": 0
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 10,
+          "rarity": 0
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 11,
+          "rarity": 0
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 12,
+          "rarity": 0
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 13,
+          "rarity": 0
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 14,
+          "rarity": 0
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 15,
+          "rarity": 0
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 16,
+          "rarity": 0
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 17,
+          "rarity": 0
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 18,
+          "rarity": 0
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 19,
+          "rarity": 0
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 20,
+          "rarity": 0
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 21,
+          "rarity": 0
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 22,
+          "rarity": 0
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 23,
+          "rarity": 0
+        }
+      ],
+      "borders": {
+        "glacial-trail": [
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 328,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 328,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 328,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 328,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 328,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 328,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    },
+    "worldstone-keep": {
+      "file": "tiles/worldstone-keep.png",
+      "levelType": "Act 5 - Baal",
+      "slots": [
+        {
+          "share": 0.9,
+          "file": "Expansion/baallair/floor.dt1",
+          "main": 0,
+          "sub": 0
+        },
+        {
+          "share": 0.03333333333333333,
+          "file": "Expansion/baallair/floor.dt1",
+          "main": 3,
+          "sub": 10
+        },
+        {
+          "share": 0.03333333333333333,
+          "file": "Expansion/baallair/floor.dt1",
+          "main": 3,
+          "sub": 12
+        }
+      ],
+      "tiles": [
+        {
+          "x": 0,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 0,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 0,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 2,
+          "rarity": 1
+        }
+      ],
+      "borders": {
+        "arreat-summit": [
+          {
+            "x": 324,
+            "y": 164,
+            "corners": 1,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 164,
+            "corners": 2,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 164,
+            "corners": 3,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 164,
+            "corners": 4,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 164,
+            "corners": 5,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 164,
+            "corners": 6,
+            "kind": "cut"
+          },
+          {
+            "x": 0,
+            "y": 246,
+            "corners": 7,
+            "kind": "cut"
+          },
+          {
+            "x": 162,
+            "y": 246,
+            "corners": 8,
+            "kind": "cut"
+          },
+          {
+            "x": 324,
+            "y": 246,
+            "corners": 9,
+            "kind": "cut"
+          },
+          {
+            "x": 486,
+            "y": 246,
+            "corners": 10,
+            "kind": "cut"
+          },
+          {
+            "x": 648,
+            "y": 246,
+            "corners": 11,
+            "kind": "cut"
+          },
+          {
+            "x": 810,
+            "y": 246,
+            "corners": 12,
+            "kind": "cut"
+          },
+          {
+            "x": 972,
+            "y": 246,
+            "corners": 13,
+            "kind": "cut"
+          },
+          {
+            "x": 1134,
+            "y": 246,
+            "corners": 14,
+            "kind": "cut"
+          }
+        ]
+      }
+    }
+  }
+}

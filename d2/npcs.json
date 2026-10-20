@@ -1,0 +1,62 @@
+{
+  "charsi": {
+    "NU": {
+      "file": "sprites/npcs/charsi-NU.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 32,
+      "frameHeight": 70,
+      "originX": 16,
+      "originY": 65,
+      "fps": 17.1875
+    }
+  },
+  "fara": {
+    "NU": {
+      "file": "sprites/npcs/fara-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 42,
+      "frameHeight": 78,
+      "originX": 21,
+      "originY": 70,
+      "fps": 7.8125
+    }
+  },
+  "hratli": {
+    "NU": {
+      "file": "sprites/npcs/hratli-NU.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 28,
+      "frameHeight": 67,
+      "originX": 13,
+      "originY": 63,
+      "fps": 25
+    }
+  },
+  "halbu": {
+    "NU": {
+      "file": "sprites/npcs/halbu-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 40,
+      "frameHeight": 75,
+      "originX": 20,
+      "originY": 70,
+      "fps": 10.15625
+    }
+  },
+  "larzuk": {
+    "NU": {
+      "file": "sprites/npcs/larzuk-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 45,
+      "frameHeight": 80,
+      "originX": 22,
+      "originY": 73,
+      "fps": 3.125
+    }
+  }
+}
