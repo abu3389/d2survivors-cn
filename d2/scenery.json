@@ -93361,74 +93361,6 @@
             ],
             "pieces": [
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 0,
-                "prop": {
-                  "page": 0,
-                  "x": 840,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 120,
@@ -93442,125 +93374,6 @@
                   "columns": 1,
                   "originX": 51,
                   "originY": 142,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 840,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -93582,70 +93395,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 80,
                 "y": 120,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 624,
+                  "x": 884,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -93684,23 +93446,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 320,
                 "y": 240,
@@ -93714,23 +93459,6 @@
                   "columns": 1,
                   "originX": 51,
                   "originY": 142,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -93752,30 +93480,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 480,
                 "y": 320,
                 "prop": {
                   "page": 0,
-                  "x": 564,
-                  "y": 624,
+                  "x": 918,
+                  "y": 186,
                   "frameWidth": 84,
                   "frameHeight": 56,
                   "frames": 1,
@@ -93799,40 +93510,6 @@
                   "columns": 1,
                   "originX": 76,
                   "originY": 76,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 840,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -93871,104 +93548,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 280,
                 "prop": {
                   "page": 0,
-                  "x": 486,
-                  "y": 624,
+                  "x": 840,
+                  "y": 186,
                   "frameWidth": 42,
                   "frameHeight": 72,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 84,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -94007,155 +93599,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -160,
                 "y": 160,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 624,
+                  "x": 884,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -94182,116 +93638,14 @@
                 "y": 360,
                 "prop": {
                   "page": 0,
-                  "x": 650,
-                  "y": 624,
+                  "x": 0,
+                  "y": 300,
                   "frameWidth": 54,
                   "frameHeight": 46,
                   "frames": 1,
                   "columns": 1,
                   "originX": 22,
                   "originY": 55,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 840,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -94313,40 +93667,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 160,
                 "y": 400,
@@ -94360,57 +93680,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 166,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -94449,23 +93718,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -240,
                 "y": 280,
@@ -94500,23 +93752,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -160,
                 "y": 320,
@@ -94547,23 +93782,6 @@
                   "columns": 1,
                   "originX": 64,
                   "originY": 148,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -94602,30 +93820,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 0,
                 "y": 400,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 624,
+                  "x": 884,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -94653,30 +93854,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 80,
                 "y": 440,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 624,
+                  "x": 884,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -94702,329 +93886,6 @@
                   "originY": 83,
                   "fps": 0
                 }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 381,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 462,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 543,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 624,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 624,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 560,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 624,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 640,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 300,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
               }
             ]
           },
@@ -95037,193 +93898,6 @@
               "scenery/snowfield-room5-0.png"
             ],
             "pieces": [
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 0,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
               {
                 "layer": "wall",
                 "x": 0,
@@ -95242,70 +93916,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 80,
                 "y": 120,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 429,
+                  "x": 0,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -95327,40 +93950,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 400,
                 "y": 280,
@@ -95378,30 +93967,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 480,
                 "y": 320,
                 "prop": {
                   "page": 0,
-                  "x": 564,
-                  "y": 429,
+                  "x": 34,
+                  "y": 186,
                   "frameWidth": 84,
                   "frameHeight": 56,
                   "frames": 1,
@@ -95412,40 +93984,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -80,
                 "y": 120,
@@ -95463,104 +94001,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 280,
                 "prop": {
                   "page": 0,
-                  "x": 486,
-                  "y": 429,
+                  "x": 980,
+                  "y": 0,
                   "frameWidth": 42,
                   "frameHeight": 72,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 84,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -95582,155 +94035,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -160,
                 "y": 160,
                 "prop": {
                   "page": 0,
-                  "x": 530,
-                  "y": 429,
+                  "x": 0,
+                  "y": 186,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -95757,150 +94074,14 @@
                 "y": 360,
                 "prop": {
                   "page": 0,
-                  "x": 650,
-                  "y": 429,
+                  "x": 120,
+                  "y": 186,
                   "frameWidth": 54,
                   "frameHeight": 46,
                   "frames": 1,
                   "columns": 1,
                   "originX": 22,
                   "originY": 55,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -95922,57 +94103,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -320,
                 "y": 240,
@@ -95986,23 +94116,6 @@
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -96041,23 +94154,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -160,
                 "y": 320,
@@ -96071,23 +94167,6 @@
                   "columns": 1,
                   "originX": 25,
                   "originY": 166,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -96109,30 +94188,13 @@
                 }
               },
               {
-                "layer": "floor",
+                "layer": "wall",
                 "x": 0,
                 "y": 400,
                 "prop": {
                   "page": 0,
                   "x": 0,
                   "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "wall",
-                "x": 0,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 530,
-                  "y": 429,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -96143,359 +94205,19 @@
                 }
               },
               {
-                "layer": "floor",
+                "layer": "wall",
                 "x": 80,
                 "y": 440,
                 "prop": {
                   "page": 0,
                   "x": 0,
                   "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "wall",
-                "x": 80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 530,
-                  "y": 429,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 267,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 348,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 429,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 429,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 560,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 429,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 640,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 186,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               }
@@ -96511,74 +94233,6 @@
             ],
             "pieces": [
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 0,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 120,
@@ -96592,159 +94246,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 153,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -96766,57 +94267,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 400,
                 "y": 280,
@@ -96834,23 +94284,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 480,
                 "y": 320,
@@ -96864,57 +94297,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 310,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -96949,74 +94331,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -97072,74 +94386,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -80,
                 "y": 200,
@@ -97153,57 +94399,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 108,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -97225,104 +94420,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 360,
                 "prop": {
                   "page": 0,
-                  "x": 648,
-                  "y": 662,
+                  "x": 637,
+                  "y": 340,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -97344,142 +94454,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -240,
                 "y": 280,
@@ -97493,74 +94467,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 166,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 662,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -97599,74 +94505,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 662,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -320,
                 "y": 320,
@@ -97684,23 +94522,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -240,
                 "y": 360,
@@ -97714,57 +94535,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 662,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -97803,98 +94573,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 662,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 799,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -320,
                 "y": 400,
                 "prop": {
                   "page": 0,
-                  "x": 648,
-                  "y": 662,
+                  "x": 637,
+                  "y": 340,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -97905,121 +94590,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
+                "layer": "wall",
                 "x": -80,
                 "y": 520,
                 "prop": {
                   "page": 0,
                   "x": 637,
                   "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "wall",
-                "x": -80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 662,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 560,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 640,
-                "prop": {
-                  "page": 0,
-                  "x": 637,
-                  "y": 340,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               }
@@ -98035,81 +94618,13 @@
             ],
             "pieces": [
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 0,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 240,
                 "y": 120,
                 "prop": {
                   "page": 0,
-                  "x": 624,
-                  "y": 662,
+                  "x": 61,
+                  "y": 581,
                   "frameWidth": 26,
                   "frameHeight": 17,
                   "frames": 1,
@@ -98137,30 +94652,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 320,
                 "y": 160,
                 "prop": {
                   "page": 0,
-                  "x": 791,
-                  "y": 581,
+                  "x": 305,
+                  "y": 500,
                   "frameWidth": 97,
                   "frameHeight": 67,
                   "frames": 1,
@@ -98171,30 +94669,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 400,
                 "y": 200,
                 "prop": {
                   "page": 0,
-                  "x": 492,
-                  "y": 662,
+                  "x": 896,
+                  "y": 500,
                   "frameWidth": 69,
                   "frameHeight": 43,
                   "frames": 1,
@@ -98205,121 +94686,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 480,
                 "y": 240,
                 "prop": {
                   "page": 0,
-                  "x": 563,
-                  "y": 662,
+                  "x": 0,
+                  "y": 581,
                   "frameWidth": 59,
                   "frameHeight": 33,
                   "frames": 1,
                   "columns": 1,
                   "originX": 76,
                   "originY": 5,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 40,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -98341,23 +94720,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 160,
                 "y": 160,
@@ -98375,30 +94737,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 240,
                 "y": 200,
                 "prop": {
                   "page": 0,
-                  "x": 140,
-                  "y": 662,
+                  "x": 544,
+                  "y": 500,
                   "frameWidth": 87,
                   "frameHeight": 62,
                   "frames": 1,
@@ -98409,30 +94754,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 320,
                 "y": 240,
                 "prop": {
                   "page": 0,
                   "x": 0,
-                  "y": 581,
+                  "y": 500,
                   "frameWidth": 149,
                   "frameHeight": 79,
                   "frames": 1,
@@ -98443,30 +94771,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 400,
                 "y": 280,
                 "prop": {
                   "page": 0,
-                  "x": 0,
-                  "y": 662,
+                  "x": 404,
+                  "y": 500,
                   "frameWidth": 138,
                   "frameHeight": 65,
                   "frames": 1,
@@ -98494,23 +94805,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 480,
                 "y": 320,
@@ -98524,57 +94818,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 310,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 80,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -98630,47 +94873,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 160,
                 "y": 240,
                 "prop": {
                   "page": 0,
-                  "x": 652,
-                  "y": 662,
+                  "x": 89,
+                  "y": 581,
                   "frameWidth": 22,
                   "frameHeight": 13,
                   "frames": 1,
@@ -98681,30 +94890,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 240,
                 "y": 280,
                 "prop": {
                   "page": 0,
-                  "x": 637,
-                  "y": 581,
+                  "x": 151,
+                  "y": 500,
                   "frameWidth": 152,
                   "frameHeight": 76,
                   "frames": 1,
@@ -98715,30 +94907,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 320,
                 "y": 320,
                 "prop": {
                   "page": 0,
-                  "x": 263,
-                  "y": 662,
+                  "x": 667,
+                  "y": 500,
                   "frameWidth": 127,
                   "frameHeight": 57,
                   "frames": 1,
@@ -98800,74 +94975,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 120,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -80,
                 "y": 200,
@@ -98885,64 +94992,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 0,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "shadow",
                 "x": 160,
                 "y": 320,
                 "prop": {
                   "page": 0,
-                  "x": 392,
-                  "y": 662,
+                  "x": 796,
+                  "y": 500,
                   "frameWidth": 98,
                   "frameHeight": 45,
                   "frames": 1,
@@ -98970,104 +95026,19 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 240,
                 "y": 360,
                 "prop": {
                   "page": 0,
-                  "x": 229,
-                  "y": 662,
+                  "x": 633,
+                  "y": 500,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
                   "columns": 1,
                   "originX": 21,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 160,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -99089,142 +95060,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -80,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 200,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -240,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -240,
                 "y": 280,
@@ -99242,74 +95077,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -160,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": 80,
                 "y": 440,
@@ -99323,74 +95090,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 240,
-                "prop": {
-                  "page": 0,
-                  "x": 313,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 475,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -99429,23 +95128,6 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -240,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -240,
                 "y": 360,
@@ -99459,57 +95141,6 @@
                   "columns": 1,
                   "originX": 80,
                   "originY": 88,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 162,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 324,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               },
@@ -99548,98 +95179,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": 80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -560,
-                "y": 280,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -480,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -400,
-                "y": 360,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -320,
-                "y": 400,
-                "prop": {
-                  "page": 0,
-                  "x": 810,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -320,
                 "y": 400,
                 "prop": {
                   "page": 0,
-                  "x": 229,
-                  "y": 662,
+                  "x": 633,
+                  "y": 500,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -99650,64 +95196,13 @@
                 }
               },
               {
-                "layer": "floor",
-                "x": -240,
-                "y": 440,
-                "prop": {
-                  "page": 0,
-                  "x": 486,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -160,
-                "y": 480,
-                "prop": {
-                  "page": 0,
-                  "x": 648,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -80,
-                "y": 520,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
                 "layer": "wall",
                 "x": -80,
                 "y": 520,
                 "prop": {
                   "page": 0,
-                  "x": 229,
-                  "y": 662,
+                  "x": 633,
+                  "y": 500,
                   "frameWidth": 32,
                   "frameHeight": 58,
                   "frames": 1,
@@ -99731,57 +95226,6 @@
                   "columns": 1,
                   "originX": 59,
                   "originY": 65,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 560,
-                "prop": {
-                  "page": 0,
-                  "x": 151,
-                  "y": 581,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": -640,
-                "y": 320,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
-                  "fps": 0
-                }
-              },
-              {
-                "layer": "floor",
-                "x": 0,
-                "y": 640,
-                "prop": {
-                  "page": 0,
-                  "x": 0,
-                  "y": 500,
-                  "frameWidth": 160,
-                  "frameHeight": 79,
-                  "frames": 1,
-                  "columns": 1,
-                  "originX": 80,
-                  "originY": 40,
                   "fps": 0
                 }
               }
