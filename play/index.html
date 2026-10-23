@@ -79,14 +79,19 @@
          在 canvas 渲染出标题画面之前显示"加载中"，避免出现长时间黑屏被误认为卡死。 -->
     <div id="boot-loader">
       <div class="bl-spin"></div>
-      <div class="bl-text">加载中…</div>
+      <div class="bl-text">加载中… <span id="bl-pct">0%</span></div>
+      <div class="bl-bar"><div class="bl-fill" id="bl-fill"></div></div>
+      <div class="bl-meta"><span id="bl-mb">0.0 MB</span> · <span id="bl-cnt">0</span> 个文件</div>
       <div class="bl-hint">首次加载游戏资源较大，请稍候</div>
     </div>
     <style>
-      #boot-loader{position:fixed;inset:0;z-index:2147483647;background:#000;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;color:#c7b377;font-family:Georgia,serif;pointer-events:none;transition:opacity .5s ease}
+      #boot-loader{position:fixed;inset:0;z-index:2147483647;background:#000;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;color:#c7b377;font-family:Georgia,serif;pointer-events:none;transition:opacity .5s ease}
       #boot-loader.bl-hide{opacity:0}
       #boot-loader .bl-spin{width:46px;height:46px;border:4px solid #3a3320;border-top-color:#c7b377;border-radius:50%;animation:bl-rot 1s linear infinite}
       #boot-loader .bl-text{font-size:20px;letter-spacing:2px}
+      #boot-loader .bl-bar{width:min(72vw,320px);height:8px;border:1px solid #3a3320;border-radius:4px;overflow:hidden;background:#15120a}
+      #boot-loader .bl-fill{height:100%;width:0%;background:linear-gradient(90deg,#8a7d55,#c7b377);transition:width .25s ease}
+      #boot-loader .bl-meta{font-size:13px;color:#a89968;letter-spacing:1px}
       #boot-loader .bl-hint{font-size:13px;color:#8a7d55}
       @keyframes bl-rot{to{transform:rotate(360deg)}}
     </style>
@@ -94,7 +99,33 @@
       (function(){
         var loader=document.getElementById('boot-loader');
         if(!loader)return;
-        function hide(){if(loader&&loader.parentNode){loader.classList.add('bl-hide');setTimeout(function(){if(loader&&loader.parentNode)loader.parentNode.removeChild(loader);},600);}}
+        var fill=document.getElementById('bl-fill'),pct=document.getElementById('bl-pct'),
+            mb=document.getElementById('bl-mb'),cnt=document.getElementById('bl-cnt');
+        // 标题画面所需的资源总量估计值(压缩后)。进度条以此为满格参考，
+        // 真正的"完成"信号是 canvas 渲染出标题(见下方轮询)，到点后淡出。
+        var TARGET=8*1024*1024, loaded=0, count=0, done=false;
+        function render(){
+          if(done)return;
+          var p=Math.min(95,Math.round(loaded/TARGET*100));
+          if(fill)fill.style.width=p+'%';
+          if(pct)pct.textContent=p+'%';
+          if(mb)mb.textContent=(loaded/1048576).toFixed(1)+' MB';
+          if(cnt)cnt.textContent=count;
+        }
+        // 通过 PerformanceObserver 统计所有已下载资源的实际传输字节(含JS模块/图片/字体/数据)。
+        try{
+          var po=new PerformanceObserver(function(list){
+            var es=list.getEntries();
+            for(var i=0;i<es.length;i++){
+              var sz=es[i].transferSize;
+              if(!sz)sz=es[i].encodedBodySize||0; // 缓存或跨源时 transferSize 可能为 0
+              loaded+=sz; count++;
+            }
+            render();
+          });
+          po.observe({type:'resource',buffered:true});
+        }catch(e){}
+        function hide(){done=true;if(loader&&loader.parentNode){loader.classList.add('bl-hide');setTimeout(function(){if(loader&&loader.parentNode)loader.parentNode.removeChild(loader);},600);}}
         var tries=0;
         var timer=setInterval(function(){
           tries++;
