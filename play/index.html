@@ -143,6 +143,58 @@
         },300);
       })();
     </script>
+    <!-- 游戏内加载进度条：标题渲染后 boot-loader 淡出，但开始一局时游戏会去拉取整幕的
+         精灵/音效/地砖等大量资源(本局实测约846个文件)，在 GitHub Pages 上较慢。
+         这里在画面底部叠加一条进度提示(已下载 MB / 文件数 + 动效条)，
+         下载活跃时显示、下载静默(进入战斗)后自动隐藏，避免"卡在 LOADING"却毫无反馈。 -->
+    <div id="run-loader">
+      <div class="rl-bar"><div class="rl-fill"></div></div>
+      <div class="rl-text">加载场景资源… <span id="rl-mb">0.0 MB</span> · <span id="rl-cnt">0</span> 个文件</div>
+    </div>
+    <style>
+      #run-loader{position:fixed;left:50%;bottom:9vh;transform:translateX(-50%);z-index:2147483646;display:none;flex-direction:column;align-items:center;gap:8px;color:#c7b377;font-family:Georgia,serif;pointer-events:none;text-shadow:0 1px 3px #000,0 0 6px #000}
+      #run-loader.rl-on{display:flex}
+      #run-loader .rl-bar{width:min(72vw,320px);height:8px;border:1px solid #3a3320;border-radius:4px;overflow:hidden;background:#15120a}
+      #run-loader .rl-fill{height:100%;width:40%;background:linear-gradient(90deg,#8a7d55,#c7b377)}
+      #run-loader.rl-on .rl-fill{animation:rl-slide 1.1s ease-in-out infinite}
+      #run-loader .rl-text{font-size:13px;letter-spacing:1px}
+      @keyframes rl-slide{0%{margin-left:-40%}100%{margin-left:100%}}
+    </style>
+    <script>
+      (function(){
+        var el=document.getElementById('run-loader'); if(!el)return;
+        var mb=document.getElementById('rl-mb'),cnt=document.getElementById('rl-cnt');
+        var bytes=0,n=0,last=0,booted=false;
+        // 启动阶段结束(boot-loader 被移除)后, 才开始监控游戏内加载
+        var bl=document.getElementById('boot-loader');
+        if(bl){ new MutationObserver(function(){ if(!document.getElementById('boot-loader')) booted=true; }).observe(document.body,{childList:true}); }
+        else booted=true;
+        try{
+          var po=new PerformanceObserver(function(list){
+            var es=list.getEntries();
+            for(var i=0;i<es.length;i++){
+              var e=es[i];
+              if(e.name.indexOf('/d2/')<0) continue;        // 只统计游戏资源
+              var sz=e.transferSize||e.encodedBodySize||0;
+              bytes+=sz; n++; last=Date.now();
+            }
+          });
+          po.observe({type:'resource',buffered:true});
+        }catch(e){}
+        var on=false;
+        setInterval(function(){
+          if(!booted)return;
+          var active = last && (Date.now()-last) < 3800;
+          if(active){
+            if(!on){ el.classList.add('rl-on'); on=true; }
+            if(mb)mb.textContent=(bytes/1048576).toFixed(1)+' MB';
+            if(cnt)cnt.textContent=n;
+          }else if(on){
+            el.classList.remove('rl-on'); on=false;
+          }
+        },400);
+      })();
+    </script>
     <div id="stage"></div>
 
     <div id="hud">
