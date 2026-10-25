@@ -1,19 +1,58 @@
-/* Real network progress overlay for all loading phases.
-   Hooks fetch/XHR, tracks actual bytes, shows a D2-styled bar. */
+/* Real network progress overlay for ALL loading entry points.
+   Phase 1 "engine": declared scripts/css/fonts of the document (resource timing).
+   Phase 2 "data": fetch/XHR streaming bytes (game assets).
+   Shows a D2-styled bar whenever either phase (or fonts) is loading. */
 (function () {
   if (window.__d2sProgress) return;
   window.__d2sProgress = true;
 
-  var started = 0, completed = 0, announced = 0, loaded = 0, inFlight = 0;
-  var lastTs = performance.now(), lastLoaded = 0, speed = 0;
+  var t0 = performance.now();
+  /* fetch-phase state */
+  var started = 0, completed = 0, announced = 0, fLoaded = 0, inFlight = 0;
+  /* resource-timing state (non-fetch resources: script/css/img/font/...) */
+  var roBytes = 0, roDone = 0;
+  var declared = null, declaredDone = 0;
+  var lastTs = t0, lastBytes = 0, speed = 0;
+  var windowLoaded = false;
   var hasTS = typeof TransformStream !== 'undefined';
+  var hasPO = typeof PerformanceObserver !== 'undefined';
 
-  function begin() { started++; inFlight++; }
-  function end() { completed++; inFlight--; }
   function isSelf(u) { return typeof u === 'string' && u.indexOf('progress-overlay') !== -1; }
   function mb(n) { return (n / 1048576).toFixed(1); }
 
+  /* ---- resource timing (engine phase + fonts + imgs) ---- */
+  function countEntry(e) {
+    if (e.initiatorType === 'fetch' || e.initiatorType === 'xmlhttprequest') return;
+    roBytes += e.transferSize || e.encodedBodySize || e.decodedBodySize || 0;
+    roDone++;
+    if (declared && declared.has(e.name)) declaredDone++;
+  }
+  if (hasPO) {
+    try {
+      new PerformanceObserver(function (list) {
+        list.getEntries().forEach(countEntry);
+      }).observe({ type: 'resource', buffered: true });
+    } catch (e) {}
+  }
+  function collectDeclared() {
+    if (declared) return;
+    declared = new Set();
+    document.querySelectorAll('script[src],link[rel~="stylesheet"],link[rel~="modulepreload"],link[rel~="preload"]').forEach(function (el) {
+      var u = el.src || el.href;
+      if (u) declared.add(u);
+    });
+    performance.getEntriesByType('resource').forEach(function (e) {
+      if (declared.has(e.name)) declaredDone++;
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', collectDeclared);
+  } else collectDeclared();
+  window.addEventListener('load', function () { windowLoaded = true; });
+
   /* ---- fetch ---- */
+  function begin() { started++; inFlight++; }
+  function end() { completed++; inFlight--; }
   var of = window.fetch;
   window.fetch = function (input) {
     var url = typeof input === 'string' ? input : (input && input.url) || '';
@@ -33,7 +72,7 @@
       var t = new TransformStream({
         transform: function (chunk, ctrl) {
           var n = chunk.byteLength || chunk.length || 0;
-          got += n; loaded += n; ctrl.enqueue(chunk);
+          got += n; fLoaded += n; ctrl.enqueue(chunk);
         },
         flush: finish
       });
@@ -51,7 +90,7 @@
     if (isSelf(x.__u)) return os.apply(this, arguments);
     begin();
     x.addEventListener('progress', function (e) {
-      if (e.loaded) { loaded += e.loaded - (x.__l || 0); x.__l = e.loaded; }
+      if (e.loaded) { fLoaded += e.loaded - (x.__l || 0); x.__l = e.loaded; }
       if (e.lengthComputable && !x.__ann) { x.__ann = true; announced += e.total; }
     });
     x.addEventListener('loadend', function () { if (!x.__ann) announced += x.__l || 0; end(); });
@@ -72,25 +111,44 @@
     txt = document.getElementById('d2s-prog-txt');
   }
 
-  var activeSince = 0, idleSince = 0, visible = false;
+  var activeSince = 0, idleSince = 0, visible = false, fetchBusySince = 0;
   setInterval(function () {
     var now = performance.now();
-    speed = (loaded - lastLoaded) / Math.max((now - lastTs) / 1000, 0.001);
-    lastTs = now; lastLoaded = loaded;
+    var totalBytes = roBytes + fLoaded;
+    speed = (totalBytes - lastBytes) / Math.max((now - lastTs) / 1000, 0.001);
+    lastTs = now; lastBytes = totalBytes;
     ensureUi();
     if (!box) return;
-    var busy = inFlight > 0;
+
+    var busyDoc = !windowLoaded && declared && declaredDone < declared.size;
+    var busyFetch = inFlight > 0;
+    var busyFont = !!(document.fonts && document.fonts.status === 'loading');
+    if (busyFetch) { if (!fetchBusySince) fetchBusySince = now; } else fetchBusySince = 0;
+    var busy = busyDoc || busyFetch || busyFont;
     if (busy) { if (!activeSince) activeSince = now; idleSince = 0; }
-    else if (activeSince || visible) { if (!idleSince) idleSince = now; activeSince = 0; }
+    else { if (!idleSince) idleSince = now; activeSince = 0; }
     var should = (busy && now - activeSince > 400) || (visible && !(idleSince && now - idleSince > 800));
     if (should && !visible) { visible = true; box.style.opacity = '1'; }
     else if (!should && visible) { visible = false; box.style.opacity = '0'; }
     if (!visible) return;
-    var pct = announced > 0 ? Math.min(loaded / announced, 1) : (started ? completed / started : 0);
-    if (busy && pct > 0.99) pct = 0.99;
-    if (!busy) pct = 1;
+
+    var pct, label, detail;
+    if (busyFetch || (announced > 0 && fetchBusySince)) {
+      pct = announced > 0 ? Math.min(fLoaded / announced, 1) : (started ? completed / started : 0);
+      if (busyFetch && pct > 0.99) pct = 0.99;
+      label = '资源';
+      detail = mb(fLoaded) + ' / ' + mb(announced) + ' MB · ' + completed + '/' + started + ' 个文件';
+    } else if (busyDoc && declared && declared.size) {
+      pct = Math.min(declaredDone / declared.size, 0.99);
+      label = '引擎';
+      detail = declaredDone + '/' + declared.size + ' 个文件 · ' + mb(roBytes) + ' MB';
+    } else {
+      pct = 1;
+      label = '完成';
+      detail = mb(totalBytes) + ' MB';
+    }
+    if (!busyFetch && !busyDoc && busyFont && pct < 1) pct = 0.99;
     bar.style.width = (pct * 100).toFixed(1) + '%';
-    txt.textContent = '已加载 ' + Math.round(pct * 100) + '% · ' + mb(loaded) + ' / ' + mb(announced) + ' MB · ' +
-      completed + '/' + started + ' 个文件 · ' + mb(speed) + ' MB/s';
+    txt.textContent = label + ' ' + Math.round(pct * 100) + '% · ' + detail + ' · ' + mb(speed) + ' MB/s';
   }, 200);
 })();
