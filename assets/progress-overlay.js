@@ -1,7 +1,8 @@
-/* Unified real-progress loading UI (v3).
+/* Unified real-progress loading UI (v4).
    - Landing/entry pages: opaque screen = framed art (d2/frontend/loading.webp) + bar under it.
-   - Play page: bar placed directly under the game's own framed art element.
-   - In-game lazy loads (no art on screen): slim bar at viewport bottom.
+   - Play page: bar under the game's own framed art, only while that art is actually visible.
+   - Otherwise (menus, in-game lazy loads): slim bar at viewport bottom.
+   - Hung requests (no bytes for 15s) are reaped so progress can reach 100% and fade out.
    All numbers are real: fetch/XHR streaming bytes + resource timing. */
 (function () {
   if (window.__d2sProgress) return;
@@ -15,6 +16,9 @@
   var hasTS = typeof TransformStream !== 'undefined';
   var hasPO = typeof PerformanceObserver !== 'undefined';
   var ART = 'd2/frontend/loading.webp';
+  var HANG_MS = 15000;
+  var openReqs = [];
+  var openXhrs = [];
   var root = (function () {
     var s = document.currentScript && document.currentScript.src;
     return s ? s.replace(/assets\/progress-overlay\.js.*$/, '') : './';
@@ -23,6 +27,7 @@
 
   function isSelf(u) { return typeof u === 'string' && u.indexOf('progress-overlay') !== -1; }
   function mb(n) { return (n / 1048576).toFixed(1); }
+  function now() { return performance.now(); }
 
   /* ---- resource timing ---- */
   function countEntry(e) {
@@ -61,17 +66,30 @@
     return of.apply(this, arguments).then(function (res) {
       var cl = parseInt((res.headers && res.headers.get('content-length')) || '0', 10) || 0;
       if (cl > 0) announced += cl;
-      var got = 0, done = false;
-      function finish() { if (done) return; done = true; if (cl <= 0) announced += got; end(); }
+      var got = 0, settled = false;
+      var rec = { last: now(), fin: null };
+      openReqs.push(rec);
+      function finish() {
+        if (settled) return;
+        settled = true;
+        var i = openReqs.indexOf(rec);
+        if (i !== -1) openReqs.splice(i, 1);
+        if (cl <= 0) announced += got;
+        end();
+      }
+      rec.fin = finish;
       if (!res.body || !hasTS) { finish(); return res; }
       var t = new TransformStream({
-        transform: function (chunk, ctrl) { var n = chunk.byteLength || chunk.length || 0; got += n; fLoaded += n; ctrl.enqueue(chunk); },
+        transform: function (chunk, ctrl) { var n = chunk.byteLength || chunk.length || 0; got += n; fLoaded += n; rec.last = now(); ctrl.enqueue(chunk); },
         flush: finish
       });
       var wrapped;
       try { wrapped = res.body.pipeThrough(t); } catch (e) { finish(); return res; }
       return new Response(wrapped, { status: res.status, statusText: res.statusText, headers: res.headers });
-    }, function (err) { end(); throw err; });
+    }, function (err) {
+      end();
+      throw err;
+    });
   };
   var ox = XMLHttpRequest.prototype.open, os = XMLHttpRequest.prototype.send;
   XMLHttpRequest.prototype.open = function (m, u) { this.__u = u; return ox.apply(this, arguments); };
@@ -79,30 +97,49 @@
     var x = this;
     if (isSelf(x.__u)) return os.apply(this, arguments);
     begin();
+    var ended = false;
+    function xend() { if (ended) return; ended = true; end(); }
+    x.__last = now();
     x.addEventListener('progress', function (e) {
+      x.__last = now();
       if (e.loaded) { fLoaded += e.loaded - (x.__l || 0); x.__l = e.loaded; }
       if (e.lengthComputable && !x.__ann) { x.__ann = true; announced += e.total; }
     });
-    x.addEventListener('loadend', function () { if (!x.__ann) announced += x.__l || 0; end(); });
+    x.addEventListener('loadend', function () {
+      var i = openXhrs.indexOf(x);
+      if (i !== -1) openXhrs.splice(i, 1);
+      if (x.__reaped) return;
+      if (!x.__ann) announced += x.__l || 0;
+      xend();
+    });
+    x.__xend = function () { x.__reaped = true; if (!x.__ann) announced += x.__l || 0; xend(); };
+    openXhrs.push(x);
     return os.apply(this, arguments);
   };
+  function reapHung() {
+    var t = now();
+    for (var i = openReqs.length - 1; i >= 0; i--) {
+      if (t - openReqs[i].last > HANG_MS && openReqs[i].fin) openReqs[i].fin();
+    }
+    for (var j = openXhrs.length - 1; j >= 0; j--) {
+      var x = openXhrs[j];
+      if (x.readyState !== 4 && t - (x.__last || 0) > HANG_MS && x.__xend) x.__xend();
+    }
+  }
 
   /* ---- UI ---- */
   var BAR_CSS = 'height:10px;border:1px solid #6b5a3f;background:#1a140c;box-shadow:inset 0 0 6px #000;';
   var FILL_CSS = 'height:100%;width:0%;background:linear-gradient(90deg,#8a6a1f,#e8c56a);transition:width .2s;';
   var TXT_CSS = 'margin-top:6px;font:12px/1.6 Georgia,"Times New Roman",serif;color:#d8c48a;text-align:center;letter-spacing:1px;text-shadow:0 1px 2px #000,0 0 4px #000;';
 
-  /* full-screen unified loader (landing / entry) */
   var cover = document.createElement('div');
   cover.style.cssText = 'position:fixed;inset:0;background:#000;z-index:2147483646;display:flex;flex-direction:column;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:opacity .25s;';
-  cover.innerHTML = '<img src="' + root + ART + '" alt="" style="width:min(86vw,52vh);image-rendering:auto;user-select:none;">' +
+  cover.innerHTML = '<img src="' + root + ART + '" alt="" style="width:min(86vw,52vh);user-select:none;">' +
     '<div style="width:min(86vw,52vh);margin-top:14px;' + BAR_CSS + '"><div id="d2s-c-bar" style="' + FILL_CSS + '"></div></div>' +
     '<div id="d2s-c-txt" style="' + TXT_CSS + '"></div>';
-  /* bar under the game's own art (play page) */
   var under = document.createElement('div');
   under.style.cssText = 'position:fixed;left:0;top:0;z-index:2147483646;pointer-events:none;opacity:0;transition:opacity .25s;';
   under.innerHTML = '<div style="' + BAR_CSS + '"><div id="d2s-u-bar" style="' + FILL_CSS + '"></div></div><div id="d2s-u-txt" style="' + TXT_CSS + '"></div>';
-  /* slim bottom bar (in-game lazy loads) */
   var slim = document.createElement('div');
   slim.style.cssText = 'position:fixed;left:50%;bottom:4%;transform:translateX(-50%);width:min(72vw,520px);z-index:2147483646;pointer-events:none;opacity:0;transition:opacity .25s;';
   slim.innerHTML = '<div style="' + BAR_CSS + '"><div id="d2s-s-bar" style="' + FILL_CSS + '"></div></div><div id="d2s-s-txt" style="' + TXT_CSS + '"></div>';
@@ -116,8 +153,19 @@
     document.body.appendChild(slim);
   }
 
-  function artEl() {
-    return document.querySelector('img[src*="loading.webp"],[style*="loading.webp"]');
+  /* only count the framed art while it is genuinely visible on screen */
+  function visibleArt() {
+    var el = document.querySelector('img[src*="loading.webp"],[style*="loading.webp"]');
+    if (!el) return null;
+    var r = el.getBoundingClientRect();
+    if (r.width < 50 || r.height < 50) return null;
+    var node = el;
+    for (var i = 0; i < 5 && node; i++) {
+      var cs = getComputedStyle(node);
+      if (cs.display === 'none' || cs.visibility === 'hidden' || parseFloat(cs.opacity) < 0.05) return null;
+      node = node.parentElement;
+    }
+    return el;
   }
   function setBar(barEl, txtEl, pct, text) {
     barEl.style.width = (pct * 100).toFixed(1) + '%';
@@ -127,10 +175,11 @@
 
   var activeSince = 0, idleSince = 0, visible = false, idleTimer = 0;
   setInterval(function () {
-    var now = performance.now();
+    var t = now();
     var totalBytes = roBytes + fLoaded;
-    speed = (totalBytes - lastBytes) / Math.max((now - lastTs) / 1000, 0.001);
-    lastTs = now; lastBytes = totalBytes;
+    speed = (totalBytes - lastBytes) / Math.max((t - lastTs) / 1000, 0.001);
+    lastTs = t; lastBytes = totalBytes;
+    reapHung();
     mount();
     if (!mounted) return;
 
@@ -141,9 +190,9 @@
     if (!busyFetch && started > 0 && !firstIdleDone) { idleTimer += 200; if (idleTimer > 1500) firstIdleDone = true; }
     else if (busyFetch) idleTimer = 0;
 
-    if (busy) { if (!activeSince) activeSince = now; idleSince = 0; }
-    else { if (!idleSince) idleSince = now; activeSince = 0; }
-    var should = (busy && now - activeSince > 400) || (visible && !(idleSince && now - idleSince > 800));
+    if (busy) { if (!activeSince) activeSince = t; idleSince = 0; }
+    else { if (!idleSince) idleSince = t; activeSince = 0; }
+    var should = (busy && t - activeSince > 400) || (visible && !(idleSince && t - idleSince > 800));
     if (!should) { if (visible) { visible = false; hideAll(); } return; }
     visible = true;
 
@@ -159,9 +208,10 @@
     } else { pct = 1; text = '100% · ' + mb(totalBytes) + ' MB'; }
     if (!busyFetch && !busyDoc && busyFont && pct < 1) pct = 0.99;
 
+    var art = isPlay ? visibleArt() : null;
     var mode;
     if (!isPlay) mode = 'cover';
-    else if (artEl()) mode = 'under';
+    else if (art) mode = 'under';
     else if (!firstIdleDone) mode = 'cover';
     else mode = 'slim';
 
@@ -173,7 +223,7 @@
     if (mode === 'cover') {
       setBar(cover.querySelector('#d2s-c-bar'), cover.querySelector('#d2s-c-txt'), pct, text);
     } else if (mode === 'under') {
-      var r = artEl().getBoundingClientRect();
+      var r = art.getBoundingClientRect();
       under.style.left = r.left + 'px';
       under.style.top = (r.bottom + 10) + 'px';
       under.style.width = r.width + 'px';
